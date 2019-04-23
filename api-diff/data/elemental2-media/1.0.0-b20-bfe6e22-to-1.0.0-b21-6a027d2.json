@@ -1,0 +1,325 @@
+[
+  {
+    "name": "class added",
+    "code": "java.class.added",
+    "description": "Class was added.",
+    "newElement": "interface elemental2.media.MediaEncryptedEventInit",
+    "newElementModule": "elemental2-media-1.0.0-b21-6a027d2.jar",
+    "oldElement": null,
+    "oldElementModule": null,
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaEncryptedEventInit",
+      "classSimpleName": "MediaEncryptedEventInit",
+      "elementKind": "interface",
+      "exampleUseChainInNewApi": "interface elemental2.media.MediaEncryptedEventInit is part of the API",
+      "newArchive": "elemental2-media-1.0.0-b21-6a027d2.jar",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "name": "class added",
+    "code": "java.class.added",
+    "description": "Class was added.",
+    "newElement": "interface elemental2.media.MediaKeyMessageEventInit",
+    "newElementModule": "elemental2-media-1.0.0-b21-6a027d2.jar",
+    "oldElement": null,
+    "oldElementModule": null,
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeyMessageEventInit",
+      "classSimpleName": "MediaKeyMessageEventInit",
+      "elementKind": "interface",
+      "exampleUseChainInNewApi": "interface elemental2.media.MediaKeyMessageEventInit is part of the API",
+      "newArchive": "elemental2-media-1.0.0-b21-6a027d2.jar",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "name": "class added",
+    "code": "java.class.added",
+    "description": "Class was added.",
+    "newElement": "interface elemental2.media.MediaKeyStatusMap.ForEachCallbackFn",
+    "newElementModule": "elemental2-media-1.0.0-b21-6a027d2.jar",
+    "oldElement": null,
+    "oldElementModule": null,
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeyStatusMap.ForEachCallbackFn",
+      "classSimpleName": "ForEachCallbackFn",
+      "elementKind": "interface",
+      "exampleUseChainInNewApi": "interface elemental2.media.MediaKeyStatusMap.ForEachCallbackFn is part of the API",
+      "newArchive": "elemental2-media-1.0.0-b21-6a027d2.jar",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "name": "method added to interface",
+    "code": "java.method.addedToInterface",
+    "description": "Method was added to an interface.",
+    "newElement": "method java.lang.String elemental2.media.MediaKeySystemConfiguration::getLabel()",
+    "newElementModule": "elemental2-media-1.0.0-b21-6a027d2.jar",
+    "oldElement": null,
+    "oldElementModule": null,
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "NON_BREAKING",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "exampleUseChainInNewApi": "interface elemental2.media.MediaKeySystemConfiguration is part of the API",
+      "methodName": "getLabel",
+      "newArchive": "elemental2-media-1.0.0-b21-6a027d2.jar",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "name": "method added to interface",
+    "code": "java.method.addedToInterface",
+    "description": "Method was added to an interface.",
+    "newElement": "method java.lang.String[] elemental2.media.MediaKeySystemConfiguration::getSessionTypes()",
+    "newElementModule": "elemental2-media-1.0.0-b21-6a027d2.jar",
+    "oldElement": null,
+    "oldElementModule": null,
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "NON_BREAKING",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "exampleUseChainInNewApi": "interface elemental2.media.MediaKeySystemConfiguration is part of the API",
+      "methodName": "getSessionTypes",
+      "newArchive": "elemental2-media-1.0.0-b21-6a027d2.jar",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "name": "method added to interface",
+    "code": "java.method.addedToInterface",
+    "description": "Method was added to an interface.",
+    "newElement": "method void elemental2.media.MediaKeySystemConfiguration::setLabel(java.lang.String)",
+    "newElementModule": "elemental2-media-1.0.0-b21-6a027d2.jar",
+    "oldElement": null,
+    "oldElementModule": null,
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "NON_BREAKING",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "exampleUseChainInNewApi": "interface elemental2.media.MediaKeySystemConfiguration is part of the API",
+      "methodName": "setLabel",
+      "newArchive": "elemental2-media-1.0.0-b21-6a027d2.jar",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "name": "method added to interface",
+    "code": "java.method.addedToInterface",
+    "description": "Method was added to an interface.",
+    "newElement": "method void elemental2.media.MediaKeySystemConfiguration::setSessionTypes(java.lang.String[])",
+    "newElementModule": "elemental2-media-1.0.0-b21-6a027d2.jar",
+    "oldElement": null,
+    "oldElementModule": null,
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "NON_BREAKING",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "exampleUseChainInNewApi": "interface elemental2.media.MediaKeySystemConfiguration is part of the API",
+      "methodName": "setSessionTypes",
+      "newArchive": "elemental2-media-1.0.0-b21-6a027d2.jar",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "name": "class removed",
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "interface elemental2.media.MediaKeyStatusMap.ForEachFn",
+    "oldElementModule": "elemental2-media-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeyStatusMap.ForEachFn",
+      "classSimpleName": "ForEachFn",
+      "elementKind": "interface",
+      "exampleUseChainInOldApi": "interface elemental2.media.MediaKeyStatusMap.ForEachFn is part of the API",
+      "oldArchive": "elemental2-media-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.media.MediaEncryptedEvent::<init>(java.lang.String, elemental2.core.JsObject)",
+    "oldElementModule": "elemental2-media-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaEncryptedEvent",
+      "classSimpleName": "MediaEncryptedEvent",
+      "elementKind": "constructor",
+      "exampleUseChainInOldApi": "class elemental2.media.MediaEncryptedEvent is part of the API",
+      "methodName": "<init>",
+      "oldArchive": "elemental2-media-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.media.MediaKeyMessageEvent::<init>(java.lang.String)",
+    "oldElementModule": "elemental2-media-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeyMessageEvent",
+      "classSimpleName": "MediaKeyMessageEvent",
+      "elementKind": "constructor",
+      "exampleUseChainInOldApi": "class elemental2.media.MediaKeyMessageEvent is part of the API",
+      "methodName": "<init>",
+      "oldArchive": "elemental2-media-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.media.MediaKeyMessageEvent::<init>(java.lang.String, elemental2.core.JsObject)",
+    "oldElementModule": "elemental2-media-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeyMessageEvent",
+      "classSimpleName": "MediaKeyMessageEvent",
+      "elementKind": "constructor",
+      "exampleUseChainInOldApi": "class elemental2.media.MediaKeyMessageEvent is part of the API",
+      "methodName": "<init>",
+      "oldArchive": "elemental2-media-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "name": "parameter type changed",
+    "code": "java.method.parameterTypeChanged",
+    "description": "The type of the parameter changed from 'java.lang.Object' to 'elemental2.media.MediaEncryptedEventInit'.",
+    "newElement": "parameter void elemental2.media.MediaEncryptedEvent::<init>(java.lang.String, ===elemental2.media.MediaEncryptedEventInit===)",
+    "newElementModule": "elemental2-media-1.0.0-b21-6a027d2.jar",
+    "oldElement": "parameter void elemental2.media.MediaEncryptedEvent::<init>(java.lang.String, ===java.lang.Object===)",
+    "oldElementModule": "elemental2-media-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaEncryptedEvent",
+      "classSimpleName": "MediaEncryptedEvent",
+      "elementKind": "parameter",
+      "exampleUseChainInNewApi": "class elemental2.media.MediaEncryptedEvent is part of the API",
+      "exampleUseChainInOldApi": "class elemental2.media.MediaEncryptedEvent is part of the API",
+      "methodName": "<init>",
+      "newArchive": "elemental2-media-1.0.0-b21-6a027d2.jar",
+      "newType": "elemental2.media.MediaEncryptedEventInit",
+      "oldArchive": "elemental2-media-1.0.0-b20-bfe6e22.jar",
+      "oldType": "java.lang.Object",
+      "package": "elemental2.media",
+      "parameterIndex": "1"
+    }
+  },
+  {
+    "name": "parameter type changed",
+    "code": "java.method.parameterTypeChanged",
+    "description": "The type of the parameter changed from 'java.lang.Object' to 'elemental2.media.MediaKeyMessageEventInit'.",
+    "newElement": "parameter void elemental2.media.MediaKeyMessageEvent::<init>(java.lang.String, ===elemental2.media.MediaKeyMessageEventInit===)",
+    "newElementModule": "elemental2-media-1.0.0-b21-6a027d2.jar",
+    "oldElement": "parameter void elemental2.media.MediaKeyMessageEvent::<init>(java.lang.String, ===java.lang.Object===)",
+    "oldElementModule": "elemental2-media-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeyMessageEvent",
+      "classSimpleName": "MediaKeyMessageEvent",
+      "elementKind": "parameter",
+      "exampleUseChainInNewApi": "class elemental2.media.MediaKeyMessageEvent is part of the API",
+      "exampleUseChainInOldApi": "class elemental2.media.MediaKeyMessageEvent is part of the API",
+      "methodName": "<init>",
+      "newArchive": "elemental2-media-1.0.0-b21-6a027d2.jar",
+      "newType": "elemental2.media.MediaKeyMessageEventInit",
+      "oldArchive": "elemental2-media-1.0.0-b20-bfe6e22.jar",
+      "oldType": "java.lang.Object",
+      "package": "elemental2.media",
+      "parameterIndex": "1"
+    }
+  },
+  {
+    "name": "parameter type changed",
+    "code": "java.method.parameterTypeChanged",
+    "description": "The type of the parameter changed from 'elemental2.media.MediaKeyStatusMap.ForEachFn' to 'elemental2.media.MediaKeyStatusMap.ForEachCallbackFn'.",
+    "newElement": "parameter void elemental2.media.MediaKeyStatusMap::forEach(===elemental2.media.MediaKeyStatusMap.ForEachCallbackFn===)",
+    "newElementModule": "elemental2-media-1.0.0-b21-6a027d2.jar",
+    "oldElement": "parameter void elemental2.media.MediaKeyStatusMap::forEach(===elemental2.media.MediaKeyStatusMap.ForEachFn===)",
+    "oldElementModule": "elemental2-media-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeyStatusMap",
+      "classSimpleName": "MediaKeyStatusMap",
+      "elementKind": "parameter",
+      "exampleUseChainInNewApi": "interface elemental2.media.MediaKeyStatusMap is part of the API",
+      "exampleUseChainInOldApi": "interface elemental2.media.MediaKeyStatusMap is part of the API",
+      "methodName": "forEach",
+      "newArchive": "elemental2-media-1.0.0-b21-6a027d2.jar",
+      "newType": "elemental2.media.MediaKeyStatusMap.ForEachCallbackFn",
+      "oldArchive": "elemental2-media-1.0.0-b20-bfe6e22.jar",
+      "oldType": "elemental2.media.MediaKeyStatusMap.ForEachFn",
+      "package": "elemental2.media",
+      "parameterIndex": "0"
+    }
+  }
+]

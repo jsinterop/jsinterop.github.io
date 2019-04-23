@@ -1,0 +1,78 @@
+[
+  {
+    "name": "element now parameterized",
+    "code": "java.generics.elementNowParameterized",
+    "description": "Element now defines formal type parameters.",
+    "newElement": "method <V> elemental2.promise.Promise<V> elemental2.promise.Promise<T>::reject(java.lang.Object)",
+    "newElementModule": "elemental2-promise-1.0.0-b21-6a027d2.jar",
+    "oldElement": "method elemental2.promise.Promise<java.lang.Object> elemental2.promise.Promise<T>::reject(java.lang.Object)",
+    "oldElementModule": "elemental2-promise-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.promise.Promise",
+      "classSimpleName": "Promise",
+      "elementKind": "method",
+      "exampleUseChainInNewApi": "class elemental2.promise.Promise<T extends java.lang.Object> is part of the API",
+      "exampleUseChainInOldApi": "class elemental2.promise.Promise<T extends java.lang.Object> is part of the API",
+      "methodName": "reject",
+      "newArchive": "elemental2-promise-1.0.0-b21-6a027d2.jar",
+      "oldArchive": "elemental2-promise-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.promise"
+    }
+  },
+  {
+    "name": "formal type parameter added",
+    "code": "java.generics.formalTypeParameterAdded",
+    "description": "A new formal type parameter added to element: 'V'.",
+    "newElement": "method <V> elemental2.promise.Promise<V> elemental2.promise.Promise<T>::reject(java.lang.Object)",
+    "newElementModule": "elemental2-promise-1.0.0-b21-6a027d2.jar",
+    "oldElement": "method elemental2.promise.Promise<java.lang.Object> elemental2.promise.Promise<T>::reject(java.lang.Object)",
+    "oldElementModule": "elemental2-promise-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.promise.Promise",
+      "classSimpleName": "Promise",
+      "elementKind": "method",
+      "exampleUseChainInNewApi": "class elemental2.promise.Promise<T extends java.lang.Object> is part of the API",
+      "exampleUseChainInOldApi": "class elemental2.promise.Promise<T extends java.lang.Object> is part of the API",
+      "methodName": "reject",
+      "newArchive": "elemental2-promise-1.0.0-b21-6a027d2.jar",
+      "oldArchive": "elemental2-promise-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.promise",
+      "typeParameter": "V"
+    }
+  },
+  {
+    "name": "return type changed type parameter",
+    "code": "java.method.returnTypeTypeParametersChanged",
+    "description": "The return type changed from 'elemental2.promise.Promise<java.lang.Object>' to 'elemental2.promise.Promise<V extends java.lang.Object>'.",
+    "newElement": "method <V> elemental2.promise.Promise<V> elemental2.promise.Promise<T>::reject(java.lang.Object)",
+    "newElementModule": "elemental2-promise-1.0.0-b21-6a027d2.jar",
+    "oldElement": "method elemental2.promise.Promise<java.lang.Object> elemental2.promise.Promise<T>::reject(java.lang.Object)",
+    "oldElementModule": "elemental2-promise-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.promise.Promise",
+      "classSimpleName": "Promise",
+      "elementKind": "method",
+      "exampleUseChainInNewApi": "class elemental2.promise.Promise<T extends java.lang.Object> is part of the API",
+      "exampleUseChainInOldApi": "class elemental2.promise.Promise<T extends java.lang.Object> is part of the API",
+      "methodName": "reject",
+      "newArchive": "elemental2-promise-1.0.0-b21-6a027d2.jar",
+      "newType": "elemental2.promise.Promise<V extends java.lang.Object>",
+      "oldArchive": "elemental2-promise-1.0.0-b20-bfe6e22.jar",
+      "oldType": "elemental2.promise.Promise<java.lang.Object>",
+      "package": "elemental2.promise"
+    }
+  }
+]

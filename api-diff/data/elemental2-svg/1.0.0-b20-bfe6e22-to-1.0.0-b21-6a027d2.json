@@ -1,0 +1,3015 @@
+[
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGAElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGAElement",
+      "classSimpleName": "SVGAElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGAElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGCircleElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGCircleElement",
+      "classSimpleName": "SVGCircleElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGCircleElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGClipPathElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGClipPathElement",
+      "classSimpleName": "SVGClipPathElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGClipPathElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGDefsElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGDefsElement",
+      "classSimpleName": "SVGDefsElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGDefsElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGDescElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGDescElement",
+      "classSimpleName": "SVGDescElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGDescElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGEllipseElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGEllipseElement",
+      "classSimpleName": "SVGEllipseElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGEllipseElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFEBlendElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEBlendElement",
+      "classSimpleName": "SVGFEBlendElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEBlendElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFEColorMatrixElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEColorMatrixElement",
+      "classSimpleName": "SVGFEColorMatrixElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEColorMatrixElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFEComponentTransferElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEComponentTransferElement",
+      "classSimpleName": "SVGFEComponentTransferElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEComponentTransferElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFECompositeElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFECompositeElement",
+      "classSimpleName": "SVGFECompositeElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFECompositeElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFEConvolveMatrixElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEConvolveMatrixElement",
+      "classSimpleName": "SVGFEConvolveMatrixElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEConvolveMatrixElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFEDiffuseLightingElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEDiffuseLightingElement",
+      "classSimpleName": "SVGFEDiffuseLightingElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEDiffuseLightingElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFEDisplacementMapElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEDisplacementMapElement",
+      "classSimpleName": "SVGFEDisplacementMapElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEDisplacementMapElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFEDropShadowElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEDropShadowElement",
+      "classSimpleName": "SVGFEDropShadowElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEDropShadowElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFEFloodElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEFloodElement",
+      "classSimpleName": "SVGFEFloodElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEFloodElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFEGaussianBlurElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEGaussianBlurElement",
+      "classSimpleName": "SVGFEGaussianBlurElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEGaussianBlurElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFEImageElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEImageElement",
+      "classSimpleName": "SVGFEImageElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEImageElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFEMergeElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEMergeElement",
+      "classSimpleName": "SVGFEMergeElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEMergeElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFEMorphologyElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEMorphologyElement",
+      "classSimpleName": "SVGFEMorphologyElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEMorphologyElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFEOffsetElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEOffsetElement",
+      "classSimpleName": "SVGFEOffsetElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEOffsetElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFESpecularLightingElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFESpecularLightingElement",
+      "classSimpleName": "SVGFESpecularLightingElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFESpecularLightingElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFETileElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFETileElement",
+      "classSimpleName": "SVGFETileElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFETileElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFETurbulenceElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFETurbulenceElement",
+      "classSimpleName": "SVGFETurbulenceElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFETurbulenceElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGFilterElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFilterElement",
+      "classSimpleName": "SVGFilterElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFilterElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGForeignObjectElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGForeignObjectElement",
+      "classSimpleName": "SVGForeignObjectElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGForeignObjectElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGGElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGGElement",
+      "classSimpleName": "SVGGElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGGElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGGlyphRefElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGGlyphRefElement",
+      "classSimpleName": "SVGGlyphRefElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGGlyphRefElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGGradientElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGGradientElement",
+      "classSimpleName": "SVGGradientElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGGradientElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGImageElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGImageElement",
+      "classSimpleName": "SVGImageElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGImageElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGLineElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGLineElement",
+      "classSimpleName": "SVGLineElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGLineElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGMarkerElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGMarkerElement",
+      "classSimpleName": "SVGMarkerElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGMarkerElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGMaskElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGMaskElement",
+      "classSimpleName": "SVGMaskElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGMaskElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGPathElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGPathElement",
+      "classSimpleName": "SVGPathElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGPathElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGPatternElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGPatternElement",
+      "classSimpleName": "SVGPatternElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGPatternElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGPolygonElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGPolygonElement",
+      "classSimpleName": "SVGPolygonElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGPolygonElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGPolylineElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGPolylineElement",
+      "classSimpleName": "SVGPolylineElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGPolylineElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGRectElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGRectElement",
+      "classSimpleName": "SVGRectElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGRectElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGSVGElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGSVGElement",
+      "classSimpleName": "SVGSVGElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGSVGElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGStopElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGStopElement",
+      "classSimpleName": "SVGStopElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGStopElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGSwitchElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGSwitchElement",
+      "classSimpleName": "SVGSwitchElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGSwitchElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGSymbolElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGSymbolElement",
+      "classSimpleName": "SVGSymbolElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGSymbolElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGTextContentElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGTextContentElement",
+      "classSimpleName": "SVGTextContentElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGTextContentElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGTitleElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGTitleElement",
+      "classSimpleName": "SVGTitleElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGTitleElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "field removed",
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "field elemental2.svg.SVGUseElement.style",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGUseElement",
+      "classSimpleName": "SVGUseElement",
+      "elementKind": "field",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGUseElement is part of the API",
+      "fieldName": "style",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "class removed",
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "interface elemental2.svg.SVGStylable.GetStyleUnionType",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGStylable.GetStyleUnionType",
+      "classSimpleName": "GetStyleUnionType",
+      "elementKind": "interface",
+      "exampleUseChainInOldApi": "interface elemental2.svg.SVGStylable.GetStyleUnionType is part of the API",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGAElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGAElement",
+      "classSimpleName": "SVGAElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGAElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGCircleElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGCircleElement",
+      "classSimpleName": "SVGCircleElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGCircleElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGClipPathElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGClipPathElement",
+      "classSimpleName": "SVGClipPathElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGClipPathElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGDefsElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGDefsElement",
+      "classSimpleName": "SVGDefsElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGDefsElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGDescElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGDescElement",
+      "classSimpleName": "SVGDescElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGDescElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGEllipseElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGEllipseElement",
+      "classSimpleName": "SVGEllipseElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGEllipseElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEBlendElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEBlendElement",
+      "classSimpleName": "SVGFEBlendElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEBlendElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEColorMatrixElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEColorMatrixElement",
+      "classSimpleName": "SVGFEColorMatrixElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEColorMatrixElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEComponentTransferElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEComponentTransferElement",
+      "classSimpleName": "SVGFEComponentTransferElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEComponentTransferElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFECompositeElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFECompositeElement",
+      "classSimpleName": "SVGFECompositeElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFECompositeElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEConvolveMatrixElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEConvolveMatrixElement",
+      "classSimpleName": "SVGFEConvolveMatrixElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEConvolveMatrixElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEDiffuseLightingElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEDiffuseLightingElement",
+      "classSimpleName": "SVGFEDiffuseLightingElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEDiffuseLightingElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEDisplacementMapElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEDisplacementMapElement",
+      "classSimpleName": "SVGFEDisplacementMapElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEDisplacementMapElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEDropShadowElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEDropShadowElement",
+      "classSimpleName": "SVGFEDropShadowElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEDropShadowElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEFloodElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEFloodElement",
+      "classSimpleName": "SVGFEFloodElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEFloodElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEGaussianBlurElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEGaussianBlurElement",
+      "classSimpleName": "SVGFEGaussianBlurElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEGaussianBlurElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEImageElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEImageElement",
+      "classSimpleName": "SVGFEImageElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEImageElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEMergeElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEMergeElement",
+      "classSimpleName": "SVGFEMergeElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEMergeElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEMorphologyElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEMorphologyElement",
+      "classSimpleName": "SVGFEMorphologyElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEMorphologyElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEOffsetElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEOffsetElement",
+      "classSimpleName": "SVGFEOffsetElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEOffsetElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFESpecularLightingElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFESpecularLightingElement",
+      "classSimpleName": "SVGFESpecularLightingElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFESpecularLightingElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFETileElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFETileElement",
+      "classSimpleName": "SVGFETileElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFETileElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFETurbulenceElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFETurbulenceElement",
+      "classSimpleName": "SVGFETurbulenceElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFETurbulenceElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFilterElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFilterElement",
+      "classSimpleName": "SVGFilterElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFilterElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGForeignObjectElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGForeignObjectElement",
+      "classSimpleName": "SVGForeignObjectElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGForeignObjectElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGGElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGGElement",
+      "classSimpleName": "SVGGElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGGElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGGlyphRefElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGGlyphRefElement",
+      "classSimpleName": "SVGGlyphRefElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGGlyphRefElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGGradientElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGGradientElement",
+      "classSimpleName": "SVGGradientElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGGradientElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGImageElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGImageElement",
+      "classSimpleName": "SVGImageElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGImageElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGLineElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGLineElement",
+      "classSimpleName": "SVGLineElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGLineElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGMarkerElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGMarkerElement",
+      "classSimpleName": "SVGMarkerElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGMarkerElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGMaskElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGMaskElement",
+      "classSimpleName": "SVGMaskElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGMaskElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGPathElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGPathElement",
+      "classSimpleName": "SVGPathElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGPathElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGPatternElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGPatternElement",
+      "classSimpleName": "SVGPatternElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGPatternElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGPolygonElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGPolygonElement",
+      "classSimpleName": "SVGPolygonElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGPolygonElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGPolylineElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGPolylineElement",
+      "classSimpleName": "SVGPolylineElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGPolylineElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGRectElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGRectElement",
+      "classSimpleName": "SVGRectElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGRectElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGSVGElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGSVGElement",
+      "classSimpleName": "SVGSVGElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGSVGElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGStopElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGStopElement",
+      "classSimpleName": "SVGStopElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGStopElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGStylable::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGStylable",
+      "classSimpleName": "SVGStylable",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "interface elemental2.svg.SVGStylable is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGSwitchElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGSwitchElement",
+      "classSimpleName": "SVGSwitchElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGSwitchElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGSymbolElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGSymbolElement",
+      "classSimpleName": "SVGSymbolElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGSymbolElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGTextContentElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGTextContentElement",
+      "classSimpleName": "SVGTextContentElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGTextContentElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGTitleElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGTitleElement",
+      "classSimpleName": "SVGTitleElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGTitleElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGUseElement::getStyle()",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGUseElement",
+      "classSimpleName": "SVGUseElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGUseElement is part of the API",
+      "methodName": "getStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGAElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGAElement",
+      "classSimpleName": "SVGAElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGAElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGCircleElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGCircleElement",
+      "classSimpleName": "SVGCircleElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGCircleElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGClipPathElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGClipPathElement",
+      "classSimpleName": "SVGClipPathElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGClipPathElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGDefsElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGDefsElement",
+      "classSimpleName": "SVGDefsElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGDefsElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGDescElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGDescElement",
+      "classSimpleName": "SVGDescElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGDescElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGEllipseElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGEllipseElement",
+      "classSimpleName": "SVGEllipseElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGEllipseElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFEBlendElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEBlendElement",
+      "classSimpleName": "SVGFEBlendElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEBlendElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFEColorMatrixElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEColorMatrixElement",
+      "classSimpleName": "SVGFEColorMatrixElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEColorMatrixElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFEComponentTransferElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEComponentTransferElement",
+      "classSimpleName": "SVGFEComponentTransferElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEComponentTransferElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFECompositeElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFECompositeElement",
+      "classSimpleName": "SVGFECompositeElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFECompositeElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFEConvolveMatrixElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEConvolveMatrixElement",
+      "classSimpleName": "SVGFEConvolveMatrixElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEConvolveMatrixElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFEDiffuseLightingElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEDiffuseLightingElement",
+      "classSimpleName": "SVGFEDiffuseLightingElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEDiffuseLightingElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFEDisplacementMapElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEDisplacementMapElement",
+      "classSimpleName": "SVGFEDisplacementMapElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEDisplacementMapElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFEDropShadowElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEDropShadowElement",
+      "classSimpleName": "SVGFEDropShadowElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEDropShadowElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFEFloodElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEFloodElement",
+      "classSimpleName": "SVGFEFloodElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEFloodElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFEGaussianBlurElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEGaussianBlurElement",
+      "classSimpleName": "SVGFEGaussianBlurElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEGaussianBlurElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFEImageElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEImageElement",
+      "classSimpleName": "SVGFEImageElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEImageElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFEMergeElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEMergeElement",
+      "classSimpleName": "SVGFEMergeElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEMergeElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFEMorphologyElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEMorphologyElement",
+      "classSimpleName": "SVGFEMorphologyElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEMorphologyElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFEOffsetElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEOffsetElement",
+      "classSimpleName": "SVGFEOffsetElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFEOffsetElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFESpecularLightingElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFESpecularLightingElement",
+      "classSimpleName": "SVGFESpecularLightingElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFESpecularLightingElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFETileElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFETileElement",
+      "classSimpleName": "SVGFETileElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFETileElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFETurbulenceElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFETurbulenceElement",
+      "classSimpleName": "SVGFETurbulenceElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFETurbulenceElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGFilterElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFilterElement",
+      "classSimpleName": "SVGFilterElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGFilterElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGForeignObjectElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGForeignObjectElement",
+      "classSimpleName": "SVGForeignObjectElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGForeignObjectElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGGElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGGElement",
+      "classSimpleName": "SVGGElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGGElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGGlyphRefElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGGlyphRefElement",
+      "classSimpleName": "SVGGlyphRefElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGGlyphRefElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGGradientElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGGradientElement",
+      "classSimpleName": "SVGGradientElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGGradientElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGImageElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGImageElement",
+      "classSimpleName": "SVGImageElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGImageElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGLineElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGLineElement",
+      "classSimpleName": "SVGLineElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGLineElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGMarkerElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGMarkerElement",
+      "classSimpleName": "SVGMarkerElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGMarkerElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGMaskElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGMaskElement",
+      "classSimpleName": "SVGMaskElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGMaskElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGPathElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGPathElement",
+      "classSimpleName": "SVGPathElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGPathElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGPatternElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGPatternElement",
+      "classSimpleName": "SVGPatternElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGPatternElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGPolygonElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGPolygonElement",
+      "classSimpleName": "SVGPolygonElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGPolygonElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGPolylineElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGPolylineElement",
+      "classSimpleName": "SVGPolylineElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGPolylineElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGRectElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGRectElement",
+      "classSimpleName": "SVGRectElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGRectElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGSVGElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGSVGElement",
+      "classSimpleName": "SVGSVGElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGSVGElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGStopElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGStopElement",
+      "classSimpleName": "SVGStopElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGStopElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGStylable::setStyle(elemental2.dom.CSSStyleDeclaration)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGStylable",
+      "classSimpleName": "SVGStylable",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "interface elemental2.svg.SVGStylable is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGStylable::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGStylable",
+      "classSimpleName": "SVGStylable",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "interface elemental2.svg.SVGStylable is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGStylable::setStyle(java.lang.String[])",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGStylable",
+      "classSimpleName": "SVGStylable",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "interface elemental2.svg.SVGStylable is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGSwitchElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGSwitchElement",
+      "classSimpleName": "SVGSwitchElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGSwitchElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGSymbolElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGSymbolElement",
+      "classSimpleName": "SVGSymbolElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGSymbolElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGTextContentElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGTextContentElement",
+      "classSimpleName": "SVGTextContentElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGTextContentElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGTitleElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGTitleElement",
+      "classSimpleName": "SVGTitleElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGTitleElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "name": "method removed",
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "newElement": null,
+    "newElementModule": null,
+    "oldElement": "method void elemental2.svg.SVGUseElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
+    "oldElementModule": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGUseElement",
+      "classSimpleName": "SVGUseElement",
+      "elementKind": "method",
+      "exampleUseChainInOldApi": "class elemental2.svg.SVGUseElement is part of the API",
+      "methodName": "setStyle",
+      "oldArchive": "elemental2-svg-1.0.0-b20-bfe6e22.jar",
+      "package": "elemental2.svg"
+    }
+  }
+]
