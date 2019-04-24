@@ -1,12 +1,9 @@
 [
   {
-    "name": "class added",
     "code": "java.class.added",
     "description": "Class was added.",
     "newElement": "interface elemental2.core.JsString.ToLocaleLowerCaseLocalesUnionType",
-    "newElementModule": "elemental2-core-1.0.0-b21-6a027d2.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -15,19 +12,14 @@
       "classQualifiedName": "elemental2.core.JsString.ToLocaleLowerCaseLocalesUnionType",
       "classSimpleName": "ToLocaleLowerCaseLocalesUnionType",
       "elementKind": "interface",
-      "exampleUseChainInNewApi": "interface elemental2.core.JsString.ToLocaleLowerCaseLocalesUnionType is part of the API",
-      "newArchive": "elemental2-core-1.0.0-b21-6a027d2.jar",
       "package": "elemental2.core"
     }
   },
   {
-    "name": "class added",
     "code": "java.class.added",
     "description": "Class was added.",
     "newElement": "interface elemental2.core.JsString.ToLocaleUpperCaseLocalesUnionType",
-    "newElementModule": "elemental2-core-1.0.0-b21-6a027d2.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -36,19 +28,14 @@
       "classQualifiedName": "elemental2.core.JsString.ToLocaleUpperCaseLocalesUnionType",
       "classSimpleName": "ToLocaleUpperCaseLocalesUnionType",
       "elementKind": "interface",
-      "exampleUseChainInNewApi": "interface elemental2.core.JsString.ToLocaleUpperCaseLocalesUnionType is part of the API",
-      "newArchive": "elemental2-core-1.0.0-b21-6a027d2.jar",
       "package": "elemental2.core"
     }
   },
   {
-    "name": "method added",
     "code": "java.method.added",
     "description": "Method was added.",
     "newElement": "method java.lang.String elemental2.core.JsString::toLocaleLowerCase(elemental2.core.JsString.ToLocaleLowerCaseLocalesUnionType)",
-    "newElementModule": "elemental2-core-1.0.0-b21-6a027d2.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -57,20 +44,15 @@
       "classQualifiedName": "elemental2.core.JsString",
       "classSimpleName": "JsString",
       "elementKind": "method",
-      "exampleUseChainInNewApi": "class elemental2.core.JsString is part of the API",
       "methodName": "toLocaleLowerCase",
-      "newArchive": "elemental2-core-1.0.0-b21-6a027d2.jar",
       "package": "elemental2.core"
     }
   },
   {
-    "name": "final method added to non-final class",
     "code": "java.method.finalMethodAddedToNonFinalClass",
     "description": "A final method has been added to an inheritable class.",
     "newElement": "method java.lang.String elemental2.core.JsString::toLocaleLowerCase(java.lang.String)",
-    "newElementModule": "elemental2-core-1.0.0-b21-6a027d2.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -79,20 +61,15 @@
       "classQualifiedName": "elemental2.core.JsString",
       "classSimpleName": "JsString",
       "elementKind": "method",
-      "exampleUseChainInNewApi": "class elemental2.core.JsString is part of the API",
       "methodName": "toLocaleLowerCase",
-      "newArchive": "elemental2-core-1.0.0-b21-6a027d2.jar",
       "package": "elemental2.core"
     }
   },
   {
-    "name": "final method added to non-final class",
     "code": "java.method.finalMethodAddedToNonFinalClass",
     "description": "A final method has been added to an inheritable class.",
     "newElement": "method java.lang.String elemental2.core.JsString::toLocaleLowerCase(java.lang.String[])",
-    "newElementModule": "elemental2-core-1.0.0-b21-6a027d2.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -101,20 +78,15 @@
       "classQualifiedName": "elemental2.core.JsString",
       "classSimpleName": "JsString",
       "elementKind": "method",
-      "exampleUseChainInNewApi": "class elemental2.core.JsString is part of the API",
       "methodName": "toLocaleLowerCase",
-      "newArchive": "elemental2-core-1.0.0-b21-6a027d2.jar",
       "package": "elemental2.core"
     }
   },
   {
-    "name": "method added",
     "code": "java.method.added",
     "description": "Method was added.",
     "newElement": "method java.lang.String elemental2.core.JsString::toLocaleUpperCase(elemental2.core.JsString.ToLocaleUpperCaseLocalesUnionType)",
-    "newElementModule": "elemental2-core-1.0.0-b21-6a027d2.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -123,20 +95,15 @@
       "classQualifiedName": "elemental2.core.JsString",
       "classSimpleName": "JsString",
       "elementKind": "method",
-      "exampleUseChainInNewApi": "class elemental2.core.JsString is part of the API",
       "methodName": "toLocaleUpperCase",
-      "newArchive": "elemental2-core-1.0.0-b21-6a027d2.jar",
       "package": "elemental2.core"
     }
   },
   {
-    "name": "final method added to non-final class",
     "code": "java.method.finalMethodAddedToNonFinalClass",
     "description": "A final method has been added to an inheritable class.",
     "newElement": "method java.lang.String elemental2.core.JsString::toLocaleUpperCase(java.lang.String)",
-    "newElementModule": "elemental2-core-1.0.0-b21-6a027d2.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -145,20 +112,15 @@
       "classQualifiedName": "elemental2.core.JsString",
       "classSimpleName": "JsString",
       "elementKind": "method",
-      "exampleUseChainInNewApi": "class elemental2.core.JsString is part of the API",
       "methodName": "toLocaleUpperCase",
-      "newArchive": "elemental2-core-1.0.0-b21-6a027d2.jar",
       "package": "elemental2.core"
     }
   },
   {
-    "name": "final method added to non-final class",
     "code": "java.method.finalMethodAddedToNonFinalClass",
     "description": "A final method has been added to an inheritable class.",
     "newElement": "method java.lang.String elemental2.core.JsString::toLocaleUpperCase(java.lang.String[])",
-    "newElementModule": "elemental2-core-1.0.0-b21-6a027d2.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -167,9 +129,7 @@
       "classQualifiedName": "elemental2.core.JsString",
       "classSimpleName": "JsString",
       "elementKind": "method",
-      "exampleUseChainInNewApi": "class elemental2.core.JsString is part of the API",
       "methodName": "toLocaleUpperCase",
-      "newArchive": "elemental2-core-1.0.0-b21-6a027d2.jar",
       "package": "elemental2.core"
     }
   }

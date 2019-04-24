@@ -1,12 +1,9 @@
 [
   {
-    "name": "default method added to interface",
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType::isObjectArray()",
-    "newElementModule": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -15,20 +12,15 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType",
       "classSimpleName": "Uniform1ivValueUnionType",
       "elementKind": "method",
-      "exampleUseChainInNewApi": "interface elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType is part of the API",
       "methodName": "isObjectArray",
-      "newArchive": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
       "package": "elemental2.webgl"
     }
   },
   {
-    "name": "default method added to interface",
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType::isObjectArray()",
-    "newElementModule": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -37,20 +29,15 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType",
       "classSimpleName": "Uniform2ivValueUnionType",
       "elementKind": "method",
-      "exampleUseChainInNewApi": "interface elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType is part of the API",
       "methodName": "isObjectArray",
-      "newArchive": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
       "package": "elemental2.webgl"
     }
   },
   {
-    "name": "default method added to interface",
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType::isObjectArray()",
-    "newElementModule": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -59,20 +46,15 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType",
       "classSimpleName": "Uniform3ivValueUnionType",
       "elementKind": "method",
-      "exampleUseChainInNewApi": "interface elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType is part of the API",
       "methodName": "isObjectArray",
-      "newArchive": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
       "package": "elemental2.webgl"
     }
   },
   {
-    "name": "default method added to interface",
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType::isObjectArray()",
-    "newElementModule": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -81,20 +63,15 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType",
       "classSimpleName": "Uniform4ivValueUnionType",
       "elementKind": "method",
-      "exampleUseChainInNewApi": "interface elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType is part of the API",
       "methodName": "isObjectArray",
-      "newArchive": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
       "package": "elemental2.webgl"
     }
   },
   {
-    "name": "default method added to interface",
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method java.lang.Object[] elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType::asObjectArray()",
-    "newElementModule": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -103,20 +80,15 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType",
       "classSimpleName": "Uniform1ivValueUnionType",
       "elementKind": "method",
-      "exampleUseChainInNewApi": "interface elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType is part of the API",
       "methodName": "asObjectArray",
-      "newArchive": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
       "package": "elemental2.webgl"
     }
   },
   {
-    "name": "default method added to interface",
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method java.lang.Object[] elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType::asObjectArray()",
-    "newElementModule": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -125,20 +97,15 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType",
       "classSimpleName": "Uniform2ivValueUnionType",
       "elementKind": "method",
-      "exampleUseChainInNewApi": "interface elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType is part of the API",
       "methodName": "asObjectArray",
-      "newArchive": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
       "package": "elemental2.webgl"
     }
   },
   {
-    "name": "default method added to interface",
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method java.lang.Object[] elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType::asObjectArray()",
-    "newElementModule": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -147,20 +114,15 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType",
       "classSimpleName": "Uniform3ivValueUnionType",
       "elementKind": "method",
-      "exampleUseChainInNewApi": "interface elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType is part of the API",
       "methodName": "asObjectArray",
-      "newArchive": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
       "package": "elemental2.webgl"
     }
   },
   {
-    "name": "default method added to interface",
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method java.lang.Object[] elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType::asObjectArray()",
-    "newElementModule": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -169,20 +131,15 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType",
       "classSimpleName": "Uniform4ivValueUnionType",
       "elementKind": "method",
-      "exampleUseChainInNewApi": "interface elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType is part of the API",
       "methodName": "asObjectArray",
-      "newArchive": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
       "package": "elemental2.webgl"
     }
   },
   {
-    "name": "method removed",
     "code": "java.method.removed",
     "description": "Method was removed.",
     "newElement": null,
-    "newElementModule": null,
     "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType::isJsArray()",
-    "oldElementModule": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -191,20 +148,15 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType",
       "classSimpleName": "Uniform1ivValueUnionType",
       "elementKind": "method",
-      "exampleUseChainInOldApi": "interface elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType is part of the API",
       "methodName": "isJsArray",
-      "oldArchive": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
       "package": "elemental2.webgl"
     }
   },
   {
-    "name": "method removed",
     "code": "java.method.removed",
     "description": "Method was removed.",
     "newElement": null,
-    "newElementModule": null,
     "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType::isJsArray()",
-    "oldElementModule": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -213,20 +165,15 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType",
       "classSimpleName": "Uniform2ivValueUnionType",
       "elementKind": "method",
-      "exampleUseChainInOldApi": "interface elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType is part of the API",
       "methodName": "isJsArray",
-      "oldArchive": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
       "package": "elemental2.webgl"
     }
   },
   {
-    "name": "method removed",
     "code": "java.method.removed",
     "description": "Method was removed.",
     "newElement": null,
-    "newElementModule": null,
     "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType::isJsArray()",
-    "oldElementModule": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -235,20 +182,15 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType",
       "classSimpleName": "Uniform3ivValueUnionType",
       "elementKind": "method",
-      "exampleUseChainInOldApi": "interface elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType is part of the API",
       "methodName": "isJsArray",
-      "oldArchive": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
       "package": "elemental2.webgl"
     }
   },
   {
-    "name": "method removed",
     "code": "java.method.removed",
     "description": "Method was removed.",
     "newElement": null,
-    "newElementModule": null,
     "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType::isJsArray()",
-    "oldElementModule": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -257,20 +199,15 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType",
       "classSimpleName": "Uniform4ivValueUnionType",
       "elementKind": "method",
-      "exampleUseChainInOldApi": "interface elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType is part of the API",
       "methodName": "isJsArray",
-      "oldArchive": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
       "package": "elemental2.webgl"
     }
   },
   {
-    "name": "method removed",
     "code": "java.method.removed",
     "description": "Method was removed.",
     "newElement": null,
-    "newElementModule": null,
     "oldElement": "method elemental2.core.JsArray elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType::asJsArray()",
-    "oldElementModule": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -279,20 +216,15 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType",
       "classSimpleName": "Uniform1ivValueUnionType",
       "elementKind": "method",
-      "exampleUseChainInOldApi": "interface elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType is part of the API",
       "methodName": "asJsArray",
-      "oldArchive": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
       "package": "elemental2.webgl"
     }
   },
   {
-    "name": "method removed",
     "code": "java.method.removed",
     "description": "Method was removed.",
     "newElement": null,
-    "newElementModule": null,
     "oldElement": "method elemental2.core.JsArray elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType::asJsArray()",
-    "oldElementModule": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -301,20 +233,15 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType",
       "classSimpleName": "Uniform2ivValueUnionType",
       "elementKind": "method",
-      "exampleUseChainInOldApi": "interface elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType is part of the API",
       "methodName": "asJsArray",
-      "oldArchive": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
       "package": "elemental2.webgl"
     }
   },
   {
-    "name": "method removed",
     "code": "java.method.removed",
     "description": "Method was removed.",
     "newElement": null,
-    "newElementModule": null,
     "oldElement": "method elemental2.core.JsArray elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType::asJsArray()",
-    "oldElementModule": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -323,20 +250,15 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType",
       "classSimpleName": "Uniform3ivValueUnionType",
       "elementKind": "method",
-      "exampleUseChainInOldApi": "interface elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType is part of the API",
       "methodName": "asJsArray",
-      "oldArchive": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
       "package": "elemental2.webgl"
     }
   },
   {
-    "name": "method removed",
     "code": "java.method.removed",
     "description": "Method was removed.",
     "newElement": null,
-    "newElementModule": null,
     "oldElement": "method elemental2.core.JsArray elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType::asJsArray()",
-    "oldElementModule": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -345,20 +267,15 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType",
       "classSimpleName": "Uniform4ivValueUnionType",
       "elementKind": "method",
-      "exampleUseChainInOldApi": "interface elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType is part of the API",
       "methodName": "asJsArray",
-      "oldArchive": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
       "package": "elemental2.webgl"
     }
   },
   {
-    "name": "parameter type changed",
     "code": "java.method.parameterTypeChanged",
     "description": "The type of the parameter changed from 'elemental2.core.JsArray' to 'java.lang.Object[]'.",
     "newElement": "parameter void elemental2.webgl.WebGLRenderingContext::uniform1iv(elemental2.webgl.WebGLUniformLocation, ===java.lang.Object[]===)",
-    "newElementModule": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
     "oldElement": "parameter void elemental2.webgl.WebGLRenderingContext::uniform1iv(elemental2.webgl.WebGLUniformLocation, ===elemental2.core.JsArray===)",
-    "oldElementModule": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "BREAKING"
@@ -367,25 +284,18 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
       "classSimpleName": "WebGLRenderingContext",
       "elementKind": "parameter",
-      "exampleUseChainInNewApi": "class elemental2.webgl.WebGLRenderingContext is part of the API",
-      "exampleUseChainInOldApi": "class elemental2.webgl.WebGLRenderingContext is part of the API",
       "methodName": "uniform1iv",
-      "newArchive": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
       "newType": "java.lang.Object[]",
-      "oldArchive": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
       "oldType": "elemental2.core.JsArray",
       "package": "elemental2.webgl",
       "parameterIndex": "1"
     }
   },
   {
-    "name": "parameter type changed",
     "code": "java.method.parameterTypeChanged",
     "description": "The type of the parameter changed from 'elemental2.core.JsArray' to 'java.lang.Object[]'.",
     "newElement": "parameter void elemental2.webgl.WebGLRenderingContext::uniform2iv(elemental2.webgl.WebGLUniformLocation, ===java.lang.Object[]===)",
-    "newElementModule": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
     "oldElement": "parameter void elemental2.webgl.WebGLRenderingContext::uniform2iv(elemental2.webgl.WebGLUniformLocation, ===elemental2.core.JsArray===)",
-    "oldElementModule": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "BREAKING"
@@ -394,25 +304,18 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
       "classSimpleName": "WebGLRenderingContext",
       "elementKind": "parameter",
-      "exampleUseChainInNewApi": "class elemental2.webgl.WebGLRenderingContext is part of the API",
-      "exampleUseChainInOldApi": "class elemental2.webgl.WebGLRenderingContext is part of the API",
       "methodName": "uniform2iv",
-      "newArchive": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
       "newType": "java.lang.Object[]",
-      "oldArchive": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
       "oldType": "elemental2.core.JsArray",
       "package": "elemental2.webgl",
       "parameterIndex": "1"
     }
   },
   {
-    "name": "parameter type changed",
     "code": "java.method.parameterTypeChanged",
     "description": "The type of the parameter changed from 'elemental2.core.JsArray' to 'java.lang.Object[]'.",
     "newElement": "parameter void elemental2.webgl.WebGLRenderingContext::uniform3iv(elemental2.webgl.WebGLUniformLocation, ===java.lang.Object[]===)",
-    "newElementModule": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
     "oldElement": "parameter void elemental2.webgl.WebGLRenderingContext::uniform3iv(elemental2.webgl.WebGLUniformLocation, ===elemental2.core.JsArray===)",
-    "oldElementModule": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "BREAKING"
@@ -421,25 +324,18 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
       "classSimpleName": "WebGLRenderingContext",
       "elementKind": "parameter",
-      "exampleUseChainInNewApi": "class elemental2.webgl.WebGLRenderingContext is part of the API",
-      "exampleUseChainInOldApi": "class elemental2.webgl.WebGLRenderingContext is part of the API",
       "methodName": "uniform3iv",
-      "newArchive": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
       "newType": "java.lang.Object[]",
-      "oldArchive": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
       "oldType": "elemental2.core.JsArray",
       "package": "elemental2.webgl",
       "parameterIndex": "1"
     }
   },
   {
-    "name": "parameter type changed",
     "code": "java.method.parameterTypeChanged",
     "description": "The type of the parameter changed from 'elemental2.core.JsArray' to 'java.lang.Object[]'.",
     "newElement": "parameter void elemental2.webgl.WebGLRenderingContext::uniform4iv(elemental2.webgl.WebGLUniformLocation, ===java.lang.Object[]===)",
-    "newElementModule": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
     "oldElement": "parameter void elemental2.webgl.WebGLRenderingContext::uniform4iv(elemental2.webgl.WebGLUniformLocation, ===elemental2.core.JsArray===)",
-    "oldElementModule": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "BREAKING"
@@ -448,12 +344,8 @@
       "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
       "classSimpleName": "WebGLRenderingContext",
       "elementKind": "parameter",
-      "exampleUseChainInNewApi": "class elemental2.webgl.WebGLRenderingContext is part of the API",
-      "exampleUseChainInOldApi": "class elemental2.webgl.WebGLRenderingContext is part of the API",
       "methodName": "uniform4iv",
-      "newArchive": "elemental2-webgl-1.0.0-b21-6a027d2.jar",
       "newType": "java.lang.Object[]",
-      "oldArchive": "elemental2-webgl-1.0.0-b20-bfe6e22.jar",
       "oldType": "elemental2.core.JsArray",
       "package": "elemental2.webgl",
       "parameterIndex": "1"
