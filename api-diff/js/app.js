@@ -69,12 +69,12 @@ function wireUp() {
       results.html("<h5>Error</h5><div class='row'><pre class='left'>Malformed query parameter. Must not attempt to walk paths.</pre></div>").show();
       return;
     }
-    else if (title !== undefined && key !== undefined && oldVersion !== undefined && newVersion !== undefined) {
-      loadApiDiff(title, key, oldVersion, newVersion);
+    else if (key !== undefined && oldVersion !== undefined && newVersion !== undefined) {
+      loadApiDiff(title || key, key, oldVersion, newVersion);
       return
     }
   }
-    results.html("<h5>Error</h5><div class='row'><pre class='left'>Failed to pass title, key, old and new query parameters.</pre></div>").show();
+    results.html("<h5>Error</h5><div class='row'><pre class='left'>Failed to pass key, old and new query parameters.</pre></div>").show();
 }
 
 function isValue(val) {
@@ -240,18 +240,18 @@ function transformResultsByClass(diffs) {
       classDef["differences"] = classDiffs;
     }
 
-    if (d["oldElement"] !== d["newElement"] ) {
-      if (d["oldElement"] !== null) {
+    if (d["element"]) {
+      d["element"] = elementSignatureToHtml(d["element"]);
+      d["oldElement"] = null;
+      d["newElement"] = null;
+    } else {
+      if (d["oldElement"]) {
         d["oldElement"] = elementSignatureToHtml(d["oldElement"]);
       }
 
-      if (d["newElement"] !== null) {
+      if (d["newElement"]) {
         d["newElement"] = elementSignatureToHtml(d["newElement"]);
       }
-    } else {
-      d["element"] = elementSignatureToHtml(d["newElement"]);
-      d["oldElement"] = null;
-      d["newElement"] = null;
     }
 
     var maxSeverity = -1;
@@ -289,7 +289,6 @@ function transformResultsByClass(diffs) {
     packages.push(pkg);
   }
 
-  console.log(packages);
   return {"packages": packages.sort()};
 }
 
@@ -353,7 +352,7 @@ function elementSignatureToHtml(signature) {
 }
 
 function typeParametersToHtml(typeParameters) {
-  if (typeParameters == null || typeParameters === undefined || typeParameters.length === 0) {
+  if (null == typeParameters || typeParameters.length === 0) {
     return "";
   }
 
