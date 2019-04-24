@@ -1,12 +1,9 @@
 [
   {
-    "name": "field type changed",
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'java.lang.Object' to 'elemental2.dom.Location'.",
     "newElement": "field elemental2.dom.DomGlobal.location",
-    "newElementModule": "elemental2-dom-2.23.jar",
     "oldElement": "field elemental2.dom.DomGlobal.location",
-    "oldElementModule": "elemental2-dom-2.22.jar",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -15,24 +12,17 @@
       "classQualifiedName": "elemental2.dom.DomGlobal",
       "classSimpleName": "DomGlobal",
       "elementKind": "field",
-      "exampleUseChainInNewApi": "class elemental2.dom.DomGlobal is part of the API",
-      "exampleUseChainInOldApi": "class elemental2.dom.DomGlobal is part of the API",
       "fieldName": "location",
-      "newArchive": "elemental2-dom-2.23.jar",
       "newType": "elemental2.dom.Location",
-      "oldArchive": "elemental2-dom-2.22.jar",
       "oldType": "java.lang.Object",
       "package": "elemental2.dom"
     }
   },
   {
-    "name": "field type changed",
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'java.lang.Object' to 'elemental2.dom.Location'.",
     "newElement": "field elemental2.dom.Window.location",
-    "newElementModule": "elemental2-dom-2.23.jar",
     "oldElement": "field elemental2.dom.Window.location",
-    "oldElementModule": "elemental2-dom-2.22.jar",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -41,24 +31,17 @@
       "classQualifiedName": "elemental2.dom.Window",
       "classSimpleName": "Window",
       "elementKind": "field",
-      "exampleUseChainInNewApi": "class elemental2.dom.Window is part of the API",
-      "exampleUseChainInOldApi": "class elemental2.dom.Window is part of the API",
       "fieldName": "location",
-      "newArchive": "elemental2-dom-2.23.jar",
       "newType": "elemental2.dom.Location",
-      "oldArchive": "elemental2-dom-2.22.jar",
       "oldType": "java.lang.Object",
       "package": "elemental2.dom"
     }
   },
   {
-    "name": "class added",
     "code": "java.class.added",
     "description": "Class was added.",
     "newElement": "interface elemental2.dom.Location",
-    "newElementModule": "elemental2-dom-2.23.jar",
     "oldElement": null,
-    "oldElementModule": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -67,8 +50,6 @@
       "classQualifiedName": "elemental2.dom.Location",
       "classSimpleName": "Location",
       "elementKind": "interface",
-      "exampleUseChainInNewApi": "interface elemental2.dom.Location is part of the API",
-      "newArchive": "elemental2-dom-2.23.jar",
       "package": "elemental2.dom"
     }
   }
