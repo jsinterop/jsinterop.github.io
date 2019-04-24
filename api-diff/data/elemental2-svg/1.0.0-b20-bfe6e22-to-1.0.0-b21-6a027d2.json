@@ -2,7 +2,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGAElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -19,7 +18,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGCircleElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -36,7 +34,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGClipPathElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -53,7 +50,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGDefsElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -70,7 +66,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGDescElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -87,7 +82,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGEllipseElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -104,7 +98,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFEBlendElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -121,7 +114,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFEColorMatrixElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -138,7 +130,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFEComponentTransferElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -155,7 +146,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFECompositeElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -172,7 +162,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFEConvolveMatrixElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -189,7 +178,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFEDiffuseLightingElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -206,7 +194,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFEDisplacementMapElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -223,7 +210,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFEDropShadowElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -240,7 +226,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFEFloodElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -257,7 +242,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFEGaussianBlurElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -274,7 +258,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFEImageElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -291,7 +274,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFEMergeElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -308,7 +290,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFEMorphologyElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -325,7 +306,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFEOffsetElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -342,7 +322,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFESpecularLightingElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -359,7 +338,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFETileElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -376,7 +354,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFETurbulenceElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -393,7 +370,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGFilterElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -410,7 +386,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGForeignObjectElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -427,7 +402,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGGElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -444,7 +418,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGGlyphRefElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -461,7 +434,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGGradientElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -478,7 +450,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGImageElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -495,7 +466,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGLineElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -512,7 +482,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGMarkerElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -529,7 +498,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGMaskElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -546,7 +514,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGPathElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -563,7 +530,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGPatternElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -580,7 +546,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGPolygonElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -597,7 +562,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGPolylineElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -614,7 +578,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGRectElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -631,7 +594,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGSVGElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -648,7 +610,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGStopElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -665,7 +626,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGSwitchElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -682,7 +642,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGSymbolElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -699,7 +658,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGTextContentElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -716,7 +674,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGTitleElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -733,7 +690,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.svg.SVGUseElement.style",
     "classification": {
       "SOURCE": "BREAKING",
@@ -750,7 +706,6 @@
   {
     "code": "java.class.removed",
     "description": "Class was removed.",
-    "newElement": null,
     "oldElement": "interface elemental2.svg.SVGStylable.GetStyleUnionType",
     "classification": {
       "SOURCE": "BREAKING",
@@ -766,7 +721,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGAElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -783,7 +737,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGCircleElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -800,7 +753,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGClipPathElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -817,7 +769,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGDefsElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -834,7 +785,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGDescElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -851,7 +801,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGEllipseElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -868,7 +817,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEBlendElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -885,7 +833,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEColorMatrixElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -902,7 +849,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEComponentTransferElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -919,7 +865,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFECompositeElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -936,7 +881,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEConvolveMatrixElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -953,7 +897,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEDiffuseLightingElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -970,7 +913,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEDisplacementMapElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -987,7 +929,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEDropShadowElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1004,7 +945,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEFloodElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1021,7 +961,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEGaussianBlurElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1038,7 +977,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEImageElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1055,7 +993,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEMergeElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1072,7 +1009,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEMorphologyElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1089,7 +1025,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFEOffsetElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1106,7 +1041,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFESpecularLightingElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1123,7 +1057,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFETileElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1140,7 +1073,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFETurbulenceElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1157,7 +1089,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGFilterElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1174,7 +1105,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGForeignObjectElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1191,7 +1121,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGGElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1208,7 +1137,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGGlyphRefElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1225,7 +1153,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGGradientElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1242,7 +1169,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGImageElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1259,7 +1185,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGLineElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1276,7 +1201,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGMarkerElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1293,7 +1217,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGMaskElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1310,7 +1233,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGPathElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1327,7 +1249,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGPatternElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1344,7 +1265,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGPolygonElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1361,7 +1281,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGPolylineElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1378,7 +1297,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGRectElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1395,7 +1313,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGSVGElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1412,7 +1329,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGStopElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1429,7 +1345,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGStylable::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1446,7 +1361,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGSwitchElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1463,7 +1377,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGSymbolElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1480,7 +1393,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGTextContentElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1497,7 +1409,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGTitleElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1514,7 +1425,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.svg.SVGStylable.GetStyleUnionType elemental2.svg.SVGUseElement::getStyle()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1531,7 +1441,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGAElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1548,7 +1457,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGCircleElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1565,7 +1473,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGClipPathElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1582,7 +1489,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGDefsElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1599,7 +1505,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGDescElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1616,7 +1521,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGEllipseElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1633,7 +1537,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFEBlendElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1650,7 +1553,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFEColorMatrixElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1667,7 +1569,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFEComponentTransferElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1684,7 +1585,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFECompositeElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1701,7 +1601,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFEConvolveMatrixElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1718,7 +1617,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFEDiffuseLightingElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1735,7 +1633,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFEDisplacementMapElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1752,7 +1649,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFEDropShadowElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1769,7 +1665,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFEFloodElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1786,7 +1681,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFEGaussianBlurElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1803,7 +1697,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFEImageElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1820,7 +1713,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFEMergeElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1837,7 +1729,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFEMorphologyElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1854,7 +1745,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFEOffsetElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1871,7 +1761,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFESpecularLightingElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1888,7 +1777,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFETileElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1905,7 +1793,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFETurbulenceElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1922,7 +1809,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGFilterElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1939,7 +1825,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGForeignObjectElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1956,7 +1841,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGGElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1973,7 +1857,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGGlyphRefElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -1990,7 +1873,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGGradientElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2007,7 +1889,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGImageElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2024,7 +1905,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGLineElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2041,7 +1921,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGMarkerElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2058,7 +1937,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGMaskElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2075,7 +1953,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGPathElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2092,7 +1969,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGPatternElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2109,7 +1985,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGPolygonElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2126,7 +2001,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGPolylineElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2143,7 +2017,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGRectElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2160,7 +2033,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGSVGElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2177,7 +2049,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGStopElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2194,7 +2065,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGStylable::setStyle(elemental2.dom.CSSStyleDeclaration)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2211,7 +2081,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGStylable::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2228,7 +2097,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGStylable::setStyle(java.lang.String[])",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2245,7 +2113,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGSwitchElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2262,7 +2129,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGSymbolElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2279,7 +2145,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGTextContentElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2296,7 +2161,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGTitleElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -2313,7 +2177,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.svg.SVGUseElement::setStyle(elemental2.svg.SVGStylable.GetStyleUnionType)",
     "classification": {
       "SOURCE": "BREAKING",

@@ -3,7 +3,6 @@
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType::isObjectArray()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -20,7 +19,6 @@
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType::isObjectArray()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -37,7 +35,6 @@
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType::isObjectArray()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -54,7 +51,6 @@
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType::isObjectArray()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -71,7 +67,6 @@
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method java.lang.Object[] elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType::asObjectArray()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -88,7 +83,6 @@
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method java.lang.Object[] elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType::asObjectArray()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -105,7 +99,6 @@
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method java.lang.Object[] elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType::asObjectArray()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -122,7 +115,6 @@
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method java.lang.Object[] elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType::asObjectArray()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -138,7 +130,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType::isJsArray()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -155,7 +146,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType::isJsArray()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -172,7 +162,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType::isJsArray()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -189,7 +178,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType::isJsArray()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -206,7 +194,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.core.JsArray elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType::asJsArray()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -223,7 +210,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.core.JsArray elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType::asJsArray()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -240,7 +226,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.core.JsArray elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType::asJsArray()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -257,7 +242,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.core.JsArray elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType::asJsArray()",
     "classification": {
       "SOURCE": "BREAKING",

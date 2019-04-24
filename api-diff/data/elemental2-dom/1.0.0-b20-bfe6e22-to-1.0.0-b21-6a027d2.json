@@ -3,7 +3,6 @@
     "code": "java.class.added",
     "description": "Class was added.",
     "newElement": "class elemental2.dom.URL",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -19,7 +18,6 @@
     "code": "java.class.added",
     "description": "Class was added.",
     "newElement": "class elemental2.dom.URLSearchParams",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -34,8 +32,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_ATTR",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_ATTR",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_ATTR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -54,8 +51,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_ATTR",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_ATTR",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_ATTR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -73,8 +69,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_CM",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_CM",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_CM",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -93,8 +88,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_CM",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_CM",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_CM",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -112,8 +106,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_COUNTER",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_COUNTER",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_COUNTER",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -132,8 +125,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_COUNTER",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_COUNTER",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_COUNTER",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -151,8 +143,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_DEG",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_DEG",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_DEG",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -171,8 +162,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_DEG",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_DEG",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_DEG",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -190,8 +180,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_DIMENSION",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_DIMENSION",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_DIMENSION",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -210,8 +199,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_DIMENSION",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_DIMENSION",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_DIMENSION",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -229,8 +217,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_EMS",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_EMS",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_EMS",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -249,8 +236,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_EMS",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_EMS",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_EMS",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -268,8 +254,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_EXS",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_EXS",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_EXS",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -288,8 +273,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_EXS",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_EXS",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_EXS",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -307,8 +291,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_GRAD",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_GRAD",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_GRAD",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -327,8 +310,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_GRAD",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_GRAD",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_GRAD",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -346,8 +328,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_HZ",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_HZ",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_HZ",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -366,8 +347,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_HZ",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_HZ",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_HZ",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -385,8 +365,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_IDENT",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_IDENT",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_IDENT",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -405,8 +384,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_IDENT",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_IDENT",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_IDENT",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -424,8 +402,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_IN",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_IN",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_IN",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -444,8 +421,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_IN",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_IN",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_IN",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -463,8 +439,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_KHZ",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_KHZ",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_KHZ",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -483,8 +458,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_KHZ",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_KHZ",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_KHZ",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -502,8 +476,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_MM",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_MM",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_MM",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -522,8 +495,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_MM",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_MM",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_MM",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -541,8 +513,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_MS",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_MS",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_MS",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -561,8 +532,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_MS",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_MS",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_MS",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -580,8 +550,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_NUMBER",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_NUMBER",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_NUMBER",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -600,8 +569,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_NUMBER",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_NUMBER",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_NUMBER",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -619,8 +587,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_PC",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_PC",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_PC",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -639,8 +606,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_PC",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_PC",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_PC",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -658,8 +624,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_PERCENTAGE",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_PERCENTAGE",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_PERCENTAGE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -678,8 +643,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_PERCENTAGE",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_PERCENTAGE",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_PERCENTAGE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -697,8 +661,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_PT",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_PT",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_PT",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -717,8 +680,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_PT",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_PT",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_PT",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -736,8 +698,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_PX",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_PX",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_PX",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -756,8 +717,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_PX",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_PX",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_PX",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -775,8 +735,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_RAD",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_RAD",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_RAD",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -795,8 +754,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_RAD",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_RAD",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_RAD",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -814,8 +772,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_RECT",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_RECT",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_RECT",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -834,8 +791,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_RECT",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_RECT",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_RECT",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -853,8 +809,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_RGBCOLOR",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_RGBCOLOR",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_RGBCOLOR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -873,8 +828,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_RGBCOLOR",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_RGBCOLOR",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_RGBCOLOR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -892,8 +846,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_S",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_S",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_S",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -912,8 +865,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_S",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_S",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_S",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -931,8 +883,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_STRING",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_STRING",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_STRING",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -951,8 +902,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_STRING",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_STRING",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_STRING",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -970,8 +920,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_UNKNOWN",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_UNKNOWN",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_UNKNOWN",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -990,8 +939,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_UNKNOWN",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_UNKNOWN",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_UNKNOWN",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -1009,8 +957,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_URI",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_URI",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_URI",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1029,8 +976,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSPrimitiveValue.CSS_URI",
-    "oldElement": "field elemental2.dom.CSSPrimitiveValue.CSS_URI",
+    "element": "field elemental2.dom.CSSPrimitiveValue.CSS_URI",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -1048,8 +994,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSCharsetRule",
-    "oldElement": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSCharsetRule",
+    "element": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSCharsetRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1068,8 +1013,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSFontFaceRule",
-    "oldElement": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSFontFaceRule",
+    "element": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSFontFaceRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1088,8 +1032,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSImportRule",
-    "oldElement": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSImportRule",
+    "element": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSImportRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1108,8 +1051,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSMediaRule",
-    "oldElement": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSMediaRule",
+    "element": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSMediaRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1128,8 +1070,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSPageRule",
-    "oldElement": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSPageRule",
+    "element": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSPageRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1148,8 +1089,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSStyleRule",
-    "oldElement": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSStyleRule",
+    "element": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSStyleRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1168,8 +1108,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSUnknownRule",
-    "oldElement": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSUnknownRule",
+    "element": "field elemental2.dom.CSSRule.CHARSET_RULE @ elemental2.dom.CSSUnknownRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1188,8 +1127,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.CHARSET_RULE",
-    "oldElement": "field elemental2.dom.CSSRule.CHARSET_RULE",
+    "element": "field elemental2.dom.CSSRule.CHARSET_RULE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1208,8 +1146,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSRule.CHARSET_RULE",
-    "oldElement": "field elemental2.dom.CSSRule.CHARSET_RULE",
+    "element": "field elemental2.dom.CSSRule.CHARSET_RULE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -1227,8 +1164,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSCharsetRule",
-    "oldElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSCharsetRule",
+    "element": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSCharsetRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1247,8 +1183,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSFontFaceRule",
-    "oldElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSFontFaceRule",
+    "element": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSFontFaceRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1267,8 +1202,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSImportRule",
-    "oldElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSImportRule",
+    "element": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSImportRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1287,8 +1221,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSMediaRule",
-    "oldElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSMediaRule",
+    "element": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSMediaRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1307,8 +1240,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSPageRule",
-    "oldElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSPageRule",
+    "element": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSPageRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1327,8 +1259,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSStyleRule",
-    "oldElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSStyleRule",
+    "element": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSStyleRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1347,8 +1278,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSUnknownRule",
-    "oldElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSUnknownRule",
+    "element": "field elemental2.dom.CSSRule.FONT_FACE_RULE @ elemental2.dom.CSSUnknownRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1367,8 +1297,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE",
-    "oldElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE",
+    "element": "field elemental2.dom.CSSRule.FONT_FACE_RULE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1387,8 +1316,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE",
-    "oldElement": "field elemental2.dom.CSSRule.FONT_FACE_RULE",
+    "element": "field elemental2.dom.CSSRule.FONT_FACE_RULE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -1406,8 +1334,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSCharsetRule",
-    "oldElement": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSCharsetRule",
+    "element": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSCharsetRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1426,8 +1353,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSFontFaceRule",
-    "oldElement": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSFontFaceRule",
+    "element": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSFontFaceRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1446,8 +1372,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSImportRule",
-    "oldElement": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSImportRule",
+    "element": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSImportRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1466,8 +1391,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSMediaRule",
-    "oldElement": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSMediaRule",
+    "element": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSMediaRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1486,8 +1410,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSPageRule",
-    "oldElement": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSPageRule",
+    "element": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSPageRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1506,8 +1429,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSStyleRule",
-    "oldElement": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSStyleRule",
+    "element": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSStyleRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1526,8 +1448,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSUnknownRule",
-    "oldElement": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSUnknownRule",
+    "element": "field elemental2.dom.CSSRule.IMPORT_RULE @ elemental2.dom.CSSUnknownRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1546,8 +1467,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.IMPORT_RULE",
-    "oldElement": "field elemental2.dom.CSSRule.IMPORT_RULE",
+    "element": "field elemental2.dom.CSSRule.IMPORT_RULE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1566,8 +1486,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSRule.IMPORT_RULE",
-    "oldElement": "field elemental2.dom.CSSRule.IMPORT_RULE",
+    "element": "field elemental2.dom.CSSRule.IMPORT_RULE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -1585,8 +1504,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSCharsetRule",
-    "oldElement": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSCharsetRule",
+    "element": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSCharsetRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1605,8 +1523,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSFontFaceRule",
-    "oldElement": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSFontFaceRule",
+    "element": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSFontFaceRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1625,8 +1542,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSImportRule",
-    "oldElement": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSImportRule",
+    "element": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSImportRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1645,8 +1561,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSMediaRule",
-    "oldElement": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSMediaRule",
+    "element": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSMediaRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1665,8 +1580,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSPageRule",
-    "oldElement": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSPageRule",
+    "element": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSPageRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1685,8 +1599,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSStyleRule",
-    "oldElement": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSStyleRule",
+    "element": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSStyleRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1705,8 +1618,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSUnknownRule",
-    "oldElement": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSUnknownRule",
+    "element": "field elemental2.dom.CSSRule.MEDIA_RULE @ elemental2.dom.CSSUnknownRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1725,8 +1637,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.MEDIA_RULE",
-    "oldElement": "field elemental2.dom.CSSRule.MEDIA_RULE",
+    "element": "field elemental2.dom.CSSRule.MEDIA_RULE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1745,8 +1656,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSRule.MEDIA_RULE",
-    "oldElement": "field elemental2.dom.CSSRule.MEDIA_RULE",
+    "element": "field elemental2.dom.CSSRule.MEDIA_RULE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -1764,8 +1674,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSCharsetRule",
-    "oldElement": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSCharsetRule",
+    "element": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSCharsetRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1784,8 +1693,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSFontFaceRule",
-    "oldElement": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSFontFaceRule",
+    "element": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSFontFaceRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1804,8 +1712,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSImportRule",
-    "oldElement": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSImportRule",
+    "element": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSImportRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1824,8 +1731,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSMediaRule",
-    "oldElement": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSMediaRule",
+    "element": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSMediaRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1844,8 +1750,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSPageRule",
-    "oldElement": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSPageRule",
+    "element": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSPageRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1864,8 +1769,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSStyleRule",
-    "oldElement": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSStyleRule",
+    "element": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSStyleRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1884,8 +1788,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSUnknownRule",
-    "oldElement": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSUnknownRule",
+    "element": "field elemental2.dom.CSSRule.PAGE_RULE @ elemental2.dom.CSSUnknownRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1904,8 +1807,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.PAGE_RULE",
-    "oldElement": "field elemental2.dom.CSSRule.PAGE_RULE",
+    "element": "field elemental2.dom.CSSRule.PAGE_RULE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1924,8 +1826,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSRule.PAGE_RULE",
-    "oldElement": "field elemental2.dom.CSSRule.PAGE_RULE",
+    "element": "field elemental2.dom.CSSRule.PAGE_RULE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -1943,8 +1844,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSCharsetRule",
-    "oldElement": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSCharsetRule",
+    "element": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSCharsetRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1963,8 +1863,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSFontFaceRule",
-    "oldElement": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSFontFaceRule",
+    "element": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSFontFaceRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -1983,8 +1882,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSImportRule",
-    "oldElement": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSImportRule",
+    "element": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSImportRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2003,8 +1901,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSMediaRule",
-    "oldElement": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSMediaRule",
+    "element": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSMediaRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2023,8 +1920,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSPageRule",
-    "oldElement": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSPageRule",
+    "element": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSPageRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2043,8 +1939,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSStyleRule",
-    "oldElement": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSStyleRule",
+    "element": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSStyleRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2063,8 +1958,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSUnknownRule",
-    "oldElement": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSUnknownRule",
+    "element": "field elemental2.dom.CSSRule.STYLE_RULE @ elemental2.dom.CSSUnknownRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2083,8 +1977,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.STYLE_RULE",
-    "oldElement": "field elemental2.dom.CSSRule.STYLE_RULE",
+    "element": "field elemental2.dom.CSSRule.STYLE_RULE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2103,8 +1996,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSRule.STYLE_RULE",
-    "oldElement": "field elemental2.dom.CSSRule.STYLE_RULE",
+    "element": "field elemental2.dom.CSSRule.STYLE_RULE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -2122,8 +2014,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSCharsetRule",
-    "oldElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSCharsetRule",
+    "element": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSCharsetRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2142,8 +2033,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSFontFaceRule",
-    "oldElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSFontFaceRule",
+    "element": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSFontFaceRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2162,8 +2052,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSImportRule",
-    "oldElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSImportRule",
+    "element": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSImportRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2182,8 +2071,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSMediaRule",
-    "oldElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSMediaRule",
+    "element": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSMediaRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2202,8 +2090,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSPageRule",
-    "oldElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSPageRule",
+    "element": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSPageRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2222,8 +2109,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSStyleRule",
-    "oldElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSStyleRule",
+    "element": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSStyleRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2242,8 +2128,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSUnknownRule",
-    "oldElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSUnknownRule",
+    "element": "field elemental2.dom.CSSRule.UNKNOWN_RULE @ elemental2.dom.CSSUnknownRule",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2262,8 +2147,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE",
-    "oldElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE",
+    "element": "field elemental2.dom.CSSRule.UNKNOWN_RULE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2282,8 +2166,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE",
-    "oldElement": "field elemental2.dom.CSSRule.UNKNOWN_RULE",
+    "element": "field elemental2.dom.CSSRule.UNKNOWN_RULE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -2301,8 +2184,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSValue.CSS_CUSTOM @ elemental2.dom.CSSPrimitiveValue",
-    "oldElement": "field elemental2.dom.CSSValue.CSS_CUSTOM @ elemental2.dom.CSSPrimitiveValue",
+    "element": "field elemental2.dom.CSSValue.CSS_CUSTOM @ elemental2.dom.CSSPrimitiveValue",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2321,8 +2203,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSValue.CSS_CUSTOM @ elemental2.dom.CSSValueList",
-    "oldElement": "field elemental2.dom.CSSValue.CSS_CUSTOM @ elemental2.dom.CSSValueList",
+    "element": "field elemental2.dom.CSSValue.CSS_CUSTOM @ elemental2.dom.CSSValueList",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2341,8 +2222,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSValue.CSS_CUSTOM",
-    "oldElement": "field elemental2.dom.CSSValue.CSS_CUSTOM",
+    "element": "field elemental2.dom.CSSValue.CSS_CUSTOM",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2361,8 +2241,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSValue.CSS_CUSTOM",
-    "oldElement": "field elemental2.dom.CSSValue.CSS_CUSTOM",
+    "element": "field elemental2.dom.CSSValue.CSS_CUSTOM",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -2380,8 +2259,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSValue.CSS_INHERIT @ elemental2.dom.CSSPrimitiveValue",
-    "oldElement": "field elemental2.dom.CSSValue.CSS_INHERIT @ elemental2.dom.CSSPrimitiveValue",
+    "element": "field elemental2.dom.CSSValue.CSS_INHERIT @ elemental2.dom.CSSPrimitiveValue",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2400,8 +2278,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSValue.CSS_INHERIT @ elemental2.dom.CSSValueList",
-    "oldElement": "field elemental2.dom.CSSValue.CSS_INHERIT @ elemental2.dom.CSSValueList",
+    "element": "field elemental2.dom.CSSValue.CSS_INHERIT @ elemental2.dom.CSSValueList",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2420,8 +2297,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSValue.CSS_INHERIT",
-    "oldElement": "field elemental2.dom.CSSValue.CSS_INHERIT",
+    "element": "field elemental2.dom.CSSValue.CSS_INHERIT",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2440,8 +2316,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSValue.CSS_INHERIT",
-    "oldElement": "field elemental2.dom.CSSValue.CSS_INHERIT",
+    "element": "field elemental2.dom.CSSValue.CSS_INHERIT",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -2459,8 +2334,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSValue.CSS_PRIMITIVE_VALUE @ elemental2.dom.CSSPrimitiveValue",
-    "oldElement": "field elemental2.dom.CSSValue.CSS_PRIMITIVE_VALUE @ elemental2.dom.CSSPrimitiveValue",
+    "element": "field elemental2.dom.CSSValue.CSS_PRIMITIVE_VALUE @ elemental2.dom.CSSPrimitiveValue",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2479,8 +2353,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSValue.CSS_PRIMITIVE_VALUE @ elemental2.dom.CSSValueList",
-    "oldElement": "field elemental2.dom.CSSValue.CSS_PRIMITIVE_VALUE @ elemental2.dom.CSSValueList",
+    "element": "field elemental2.dom.CSSValue.CSS_PRIMITIVE_VALUE @ elemental2.dom.CSSValueList",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2499,8 +2372,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSValue.CSS_PRIMITIVE_VALUE",
-    "oldElement": "field elemental2.dom.CSSValue.CSS_PRIMITIVE_VALUE",
+    "element": "field elemental2.dom.CSSValue.CSS_PRIMITIVE_VALUE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2519,8 +2391,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSValue.CSS_PRIMITIVE_VALUE",
-    "oldElement": "field elemental2.dom.CSSValue.CSS_PRIMITIVE_VALUE",
+    "element": "field elemental2.dom.CSSValue.CSS_PRIMITIVE_VALUE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -2538,8 +2409,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSValue.CSS_VALUE_LIST @ elemental2.dom.CSSPrimitiveValue",
-    "oldElement": "field elemental2.dom.CSSValue.CSS_VALUE_LIST @ elemental2.dom.CSSPrimitiveValue",
+    "element": "field elemental2.dom.CSSValue.CSS_VALUE_LIST @ elemental2.dom.CSSPrimitiveValue",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2558,8 +2428,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSValue.CSS_VALUE_LIST @ elemental2.dom.CSSValueList",
-    "oldElement": "field elemental2.dom.CSSValue.CSS_VALUE_LIST @ elemental2.dom.CSSValueList",
+    "element": "field elemental2.dom.CSSValue.CSS_VALUE_LIST @ elemental2.dom.CSSValueList",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2578,8 +2447,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.CSSValue.CSS_VALUE_LIST",
-    "oldElement": "field elemental2.dom.CSSValue.CSS_VALUE_LIST",
+    "element": "field elemental2.dom.CSSValue.CSS_VALUE_LIST",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2598,8 +2466,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.CSSValue.CSS_VALUE_LIST",
-    "oldElement": "field elemental2.dom.CSSValue.CSS_VALUE_LIST",
+    "element": "field elemental2.dom.CSSValue.CSS_VALUE_LIST",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -2618,7 +2485,6 @@
     "code": "java.field.added",
     "description": "Field added to class.",
     "newElement": "field elemental2.dom.ClipboardEvent.clipboardData",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -2634,8 +2500,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.DOMApplicationCache.CHECKING",
-    "oldElement": "field elemental2.dom.DOMApplicationCache.CHECKING",
+    "element": "field elemental2.dom.DOMApplicationCache.CHECKING",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -2653,8 +2518,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.DOMApplicationCache.DOWNLOADING",
-    "oldElement": "field elemental2.dom.DOMApplicationCache.DOWNLOADING",
+    "element": "field elemental2.dom.DOMApplicationCache.DOWNLOADING",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -2672,8 +2536,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.DOMApplicationCache.IDLE",
-    "oldElement": "field elemental2.dom.DOMApplicationCache.IDLE",
+    "element": "field elemental2.dom.DOMApplicationCache.IDLE",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -2691,8 +2554,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.DOMApplicationCache.OBSOLETE",
-    "oldElement": "field elemental2.dom.DOMApplicationCache.OBSOLETE",
+    "element": "field elemental2.dom.DOMApplicationCache.OBSOLETE",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -2710,8 +2572,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.DOMApplicationCache.UNCACHED",
-    "oldElement": "field elemental2.dom.DOMApplicationCache.UNCACHED",
+    "element": "field elemental2.dom.DOMApplicationCache.UNCACHED",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -2729,8 +2590,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.DOMApplicationCache.UPDATEREADY",
-    "oldElement": "field elemental2.dom.DOMApplicationCache.UPDATEREADY",
+    "element": "field elemental2.dom.DOMApplicationCache.UPDATEREADY",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -2748,8 +2608,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.DOMApplicationCache.status",
-    "oldElement": "field elemental2.dom.DOMApplicationCache.status",
+    "element": "field elemental2.dom.DOMApplicationCache.status",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -2767,8 +2626,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMError.SEVERITY_ERROR",
-    "oldElement": "field elemental2.dom.DOMError.SEVERITY_ERROR",
+    "element": "field elemental2.dom.DOMError.SEVERITY_ERROR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2787,8 +2645,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMError.SEVERITY_ERROR",
-    "oldElement": "field elemental2.dom.DOMError.SEVERITY_ERROR",
+    "element": "field elemental2.dom.DOMError.SEVERITY_ERROR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -2806,8 +2663,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.DOMError.SEVERITY_ERROR",
-    "oldElement": "field elemental2.dom.DOMError.SEVERITY_ERROR",
+    "element": "field elemental2.dom.DOMError.SEVERITY_ERROR",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -2825,8 +2681,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMError.SEVERITY_FATAL_ERROR",
-    "oldElement": "field elemental2.dom.DOMError.SEVERITY_FATAL_ERROR",
+    "element": "field elemental2.dom.DOMError.SEVERITY_FATAL_ERROR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2845,8 +2700,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMError.SEVERITY_FATAL_ERROR",
-    "oldElement": "field elemental2.dom.DOMError.SEVERITY_FATAL_ERROR",
+    "element": "field elemental2.dom.DOMError.SEVERITY_FATAL_ERROR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -2864,8 +2718,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.DOMError.SEVERITY_FATAL_ERROR",
-    "oldElement": "field elemental2.dom.DOMError.SEVERITY_FATAL_ERROR",
+    "element": "field elemental2.dom.DOMError.SEVERITY_FATAL_ERROR",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -2883,8 +2736,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMError.SEVERITY_WARNING",
-    "oldElement": "field elemental2.dom.DOMError.SEVERITY_WARNING",
+    "element": "field elemental2.dom.DOMError.SEVERITY_WARNING",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2903,8 +2755,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMError.SEVERITY_WARNING",
-    "oldElement": "field elemental2.dom.DOMError.SEVERITY_WARNING",
+    "element": "field elemental2.dom.DOMError.SEVERITY_WARNING",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -2922,8 +2773,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.DOMError.SEVERITY_WARNING",
-    "oldElement": "field elemental2.dom.DOMError.SEVERITY_WARNING",
+    "element": "field elemental2.dom.DOMError.SEVERITY_WARNING",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -2941,8 +2791,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.ABORT_ERR",
-    "oldElement": "field elemental2.dom.DOMException.ABORT_ERR",
+    "element": "field elemental2.dom.DOMException.ABORT_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -2961,8 +2810,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.ABORT_ERR",
-    "oldElement": "field elemental2.dom.DOMException.ABORT_ERR",
+    "element": "field elemental2.dom.DOMException.ABORT_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -2980,8 +2828,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.DATA_CLONE_ERR",
-    "oldElement": "field elemental2.dom.DOMException.DATA_CLONE_ERR",
+    "element": "field elemental2.dom.DOMException.DATA_CLONE_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3000,8 +2847,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.DATA_CLONE_ERR",
-    "oldElement": "field elemental2.dom.DOMException.DATA_CLONE_ERR",
+    "element": "field elemental2.dom.DOMException.DATA_CLONE_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3019,8 +2865,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.DOMSTRING_SIZE_ERR",
-    "oldElement": "field elemental2.dom.DOMException.DOMSTRING_SIZE_ERR",
+    "element": "field elemental2.dom.DOMException.DOMSTRING_SIZE_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3039,8 +2884,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.DOMSTRING_SIZE_ERR",
-    "oldElement": "field elemental2.dom.DOMException.DOMSTRING_SIZE_ERR",
+    "element": "field elemental2.dom.DOMException.DOMSTRING_SIZE_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3058,8 +2902,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.HIERARCHY_REQUEST_ERR",
-    "oldElement": "field elemental2.dom.DOMException.HIERARCHY_REQUEST_ERR",
+    "element": "field elemental2.dom.DOMException.HIERARCHY_REQUEST_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3078,8 +2921,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.HIERARCHY_REQUEST_ERR",
-    "oldElement": "field elemental2.dom.DOMException.HIERARCHY_REQUEST_ERR",
+    "element": "field elemental2.dom.DOMException.HIERARCHY_REQUEST_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3097,8 +2939,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.INDEX_SIZE_ERR",
-    "oldElement": "field elemental2.dom.DOMException.INDEX_SIZE_ERR",
+    "element": "field elemental2.dom.DOMException.INDEX_SIZE_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3117,8 +2958,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.INDEX_SIZE_ERR",
-    "oldElement": "field elemental2.dom.DOMException.INDEX_SIZE_ERR",
+    "element": "field elemental2.dom.DOMException.INDEX_SIZE_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3136,8 +2976,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.INUSE_ATTRIBUTE_ERR",
-    "oldElement": "field elemental2.dom.DOMException.INUSE_ATTRIBUTE_ERR",
+    "element": "field elemental2.dom.DOMException.INUSE_ATTRIBUTE_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3156,8 +2995,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.INUSE_ATTRIBUTE_ERR",
-    "oldElement": "field elemental2.dom.DOMException.INUSE_ATTRIBUTE_ERR",
+    "element": "field elemental2.dom.DOMException.INUSE_ATTRIBUTE_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3175,8 +3013,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.INVALID_ACCESS_ERR",
-    "oldElement": "field elemental2.dom.DOMException.INVALID_ACCESS_ERR",
+    "element": "field elemental2.dom.DOMException.INVALID_ACCESS_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3195,8 +3032,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.INVALID_ACCESS_ERR",
-    "oldElement": "field elemental2.dom.DOMException.INVALID_ACCESS_ERR",
+    "element": "field elemental2.dom.DOMException.INVALID_ACCESS_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3214,8 +3050,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.INVALID_CHARACTER_ERR",
-    "oldElement": "field elemental2.dom.DOMException.INVALID_CHARACTER_ERR",
+    "element": "field elemental2.dom.DOMException.INVALID_CHARACTER_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3234,8 +3069,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.INVALID_CHARACTER_ERR",
-    "oldElement": "field elemental2.dom.DOMException.INVALID_CHARACTER_ERR",
+    "element": "field elemental2.dom.DOMException.INVALID_CHARACTER_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3253,8 +3087,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.INVALID_MODIFICATION_ERR",
-    "oldElement": "field elemental2.dom.DOMException.INVALID_MODIFICATION_ERR",
+    "element": "field elemental2.dom.DOMException.INVALID_MODIFICATION_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3273,8 +3106,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.INVALID_MODIFICATION_ERR",
-    "oldElement": "field elemental2.dom.DOMException.INVALID_MODIFICATION_ERR",
+    "element": "field elemental2.dom.DOMException.INVALID_MODIFICATION_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3292,8 +3124,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.INVALID_NODE_TYPE_ERR",
-    "oldElement": "field elemental2.dom.DOMException.INVALID_NODE_TYPE_ERR",
+    "element": "field elemental2.dom.DOMException.INVALID_NODE_TYPE_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3312,8 +3143,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.INVALID_NODE_TYPE_ERR",
-    "oldElement": "field elemental2.dom.DOMException.INVALID_NODE_TYPE_ERR",
+    "element": "field elemental2.dom.DOMException.INVALID_NODE_TYPE_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3331,8 +3161,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.INVALID_STATE_ERR",
-    "oldElement": "field elemental2.dom.DOMException.INVALID_STATE_ERR",
+    "element": "field elemental2.dom.DOMException.INVALID_STATE_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3351,8 +3180,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.INVALID_STATE_ERR",
-    "oldElement": "field elemental2.dom.DOMException.INVALID_STATE_ERR",
+    "element": "field elemental2.dom.DOMException.INVALID_STATE_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3370,8 +3198,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.NAMESPACE_ERR",
-    "oldElement": "field elemental2.dom.DOMException.NAMESPACE_ERR",
+    "element": "field elemental2.dom.DOMException.NAMESPACE_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3390,8 +3217,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.NAMESPACE_ERR",
-    "oldElement": "field elemental2.dom.DOMException.NAMESPACE_ERR",
+    "element": "field elemental2.dom.DOMException.NAMESPACE_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3409,8 +3235,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.NETWORK_ERR",
-    "oldElement": "field elemental2.dom.DOMException.NETWORK_ERR",
+    "element": "field elemental2.dom.DOMException.NETWORK_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3429,8 +3254,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.NETWORK_ERR",
-    "oldElement": "field elemental2.dom.DOMException.NETWORK_ERR",
+    "element": "field elemental2.dom.DOMException.NETWORK_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3448,8 +3272,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.NOT_FOUND_ERR",
-    "oldElement": "field elemental2.dom.DOMException.NOT_FOUND_ERR",
+    "element": "field elemental2.dom.DOMException.NOT_FOUND_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3468,8 +3291,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.NOT_FOUND_ERR",
-    "oldElement": "field elemental2.dom.DOMException.NOT_FOUND_ERR",
+    "element": "field elemental2.dom.DOMException.NOT_FOUND_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3487,8 +3309,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.NOT_SUPPORTED_ERR",
-    "oldElement": "field elemental2.dom.DOMException.NOT_SUPPORTED_ERR",
+    "element": "field elemental2.dom.DOMException.NOT_SUPPORTED_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3507,8 +3328,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.NOT_SUPPORTED_ERR",
-    "oldElement": "field elemental2.dom.DOMException.NOT_SUPPORTED_ERR",
+    "element": "field elemental2.dom.DOMException.NOT_SUPPORTED_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3526,8 +3346,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.NO_DATA_ALLOWED_ERR",
-    "oldElement": "field elemental2.dom.DOMException.NO_DATA_ALLOWED_ERR",
+    "element": "field elemental2.dom.DOMException.NO_DATA_ALLOWED_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3546,8 +3365,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.NO_DATA_ALLOWED_ERR",
-    "oldElement": "field elemental2.dom.DOMException.NO_DATA_ALLOWED_ERR",
+    "element": "field elemental2.dom.DOMException.NO_DATA_ALLOWED_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3565,8 +3383,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.NO_MODIFICATION_ALLOWED_ERR",
-    "oldElement": "field elemental2.dom.DOMException.NO_MODIFICATION_ALLOWED_ERR",
+    "element": "field elemental2.dom.DOMException.NO_MODIFICATION_ALLOWED_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3585,8 +3402,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.NO_MODIFICATION_ALLOWED_ERR",
-    "oldElement": "field elemental2.dom.DOMException.NO_MODIFICATION_ALLOWED_ERR",
+    "element": "field elemental2.dom.DOMException.NO_MODIFICATION_ALLOWED_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3604,8 +3420,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.QUOTA_EXCEEDED_ERR",
-    "oldElement": "field elemental2.dom.DOMException.QUOTA_EXCEEDED_ERR",
+    "element": "field elemental2.dom.DOMException.QUOTA_EXCEEDED_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3624,8 +3439,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.QUOTA_EXCEEDED_ERR",
-    "oldElement": "field elemental2.dom.DOMException.QUOTA_EXCEEDED_ERR",
+    "element": "field elemental2.dom.DOMException.QUOTA_EXCEEDED_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3643,8 +3457,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.SECURITY_ERR",
-    "oldElement": "field elemental2.dom.DOMException.SECURITY_ERR",
+    "element": "field elemental2.dom.DOMException.SECURITY_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3663,8 +3476,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.SECURITY_ERR",
-    "oldElement": "field elemental2.dom.DOMException.SECURITY_ERR",
+    "element": "field elemental2.dom.DOMException.SECURITY_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3682,8 +3494,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.SYNTAX_ERR",
-    "oldElement": "field elemental2.dom.DOMException.SYNTAX_ERR",
+    "element": "field elemental2.dom.DOMException.SYNTAX_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3702,8 +3513,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.SYNTAX_ERR",
-    "oldElement": "field elemental2.dom.DOMException.SYNTAX_ERR",
+    "element": "field elemental2.dom.DOMException.SYNTAX_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3721,8 +3531,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.TIMEOUT_ERR",
-    "oldElement": "field elemental2.dom.DOMException.TIMEOUT_ERR",
+    "element": "field elemental2.dom.DOMException.TIMEOUT_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3741,8 +3550,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.TIMEOUT_ERR",
-    "oldElement": "field elemental2.dom.DOMException.TIMEOUT_ERR",
+    "element": "field elemental2.dom.DOMException.TIMEOUT_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3760,8 +3568,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.TYPE_MISMATCH_ERR",
-    "oldElement": "field elemental2.dom.DOMException.TYPE_MISMATCH_ERR",
+    "element": "field elemental2.dom.DOMException.TYPE_MISMATCH_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3780,8 +3587,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.TYPE_MISMATCH_ERR",
-    "oldElement": "field elemental2.dom.DOMException.TYPE_MISMATCH_ERR",
+    "element": "field elemental2.dom.DOMException.TYPE_MISMATCH_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3799,8 +3605,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.URL_MISMATCH_ERR",
-    "oldElement": "field elemental2.dom.DOMException.URL_MISMATCH_ERR",
+    "element": "field elemental2.dom.DOMException.URL_MISMATCH_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3819,8 +3624,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.URL_MISMATCH_ERR",
-    "oldElement": "field elemental2.dom.DOMException.URL_MISMATCH_ERR",
+    "element": "field elemental2.dom.DOMException.URL_MISMATCH_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3838,8 +3642,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.VALIDATION_ERR",
-    "oldElement": "field elemental2.dom.DOMException.VALIDATION_ERR",
+    "element": "field elemental2.dom.DOMException.VALIDATION_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3858,8 +3661,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.VALIDATION_ERR",
-    "oldElement": "field elemental2.dom.DOMException.VALIDATION_ERR",
+    "element": "field elemental2.dom.DOMException.VALIDATION_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3877,8 +3679,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.DOMException.WRONG_DOCUMENT_ERR",
-    "oldElement": "field elemental2.dom.DOMException.WRONG_DOCUMENT_ERR",
+    "element": "field elemental2.dom.DOMException.WRONG_DOCUMENT_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -3897,8 +3698,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.DOMException.WRONG_DOCUMENT_ERR",
-    "oldElement": "field elemental2.dom.DOMException.WRONG_DOCUMENT_ERR",
+    "element": "field elemental2.dom.DOMException.WRONG_DOCUMENT_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -3917,7 +3717,6 @@
     "code": "java.field.added",
     "description": "Field added to class.",
     "newElement": "field elemental2.dom.DOMException.message",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -3934,7 +3733,6 @@
     "code": "java.field.added",
     "description": "Field added to class.",
     "newElement": "field elemental2.dom.DOMException.name",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -3950,8 +3748,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.Document.childElementCount",
-    "oldElement": "field elemental2.dom.Document.childElementCount",
+    "element": "field elemental2.dom.Document.childElementCount",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -3969,8 +3766,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.DocumentFragment.childElementCount",
-    "oldElement": "field elemental2.dom.DocumentFragment.childElementCount",
+    "element": "field elemental2.dom.DocumentFragment.childElementCount",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -3988,8 +3784,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLAnchorElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLAnchorElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLAnchorElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4008,8 +3803,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLAppletElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLAppletElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLAppletElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4028,8 +3822,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLAreaElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLAreaElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLAreaElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4048,8 +3841,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLAudioElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLAudioElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLAudioElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4068,8 +3860,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLBRElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLBRElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLBRElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4088,8 +3879,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLBaseElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLBaseElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLBaseElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4108,8 +3898,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLBaseFontElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLBaseFontElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLBaseFontElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4128,8 +3917,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLBodyElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLBodyElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLBodyElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4148,8 +3936,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLButtonElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLButtonElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLButtonElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4168,8 +3955,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLCanvasElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLCanvasElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLCanvasElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4188,8 +3974,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLContentElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLContentElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLContentElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4208,8 +3993,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDListElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDListElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDListElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4228,8 +4012,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDataListElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDataListElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDataListElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4248,8 +4031,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDetailsElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDetailsElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDetailsElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4268,8 +4050,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDialogElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDialogElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDialogElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4288,8 +4069,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDirectoryElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDirectoryElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDirectoryElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4308,8 +4088,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDivElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDivElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLDivElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4328,8 +4107,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4348,8 +4126,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLEmbedElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLEmbedElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLEmbedElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4368,8 +4145,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLFieldSetElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLFieldSetElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLFieldSetElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4388,8 +4164,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLFontElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLFontElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLFontElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4408,8 +4183,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLFormElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLFormElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLFormElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4428,8 +4202,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLFrameElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLFrameElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLFrameElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4448,8 +4221,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLFrameSetElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLFrameSetElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLFrameSetElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4468,8 +4240,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLHRElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLHRElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLHRElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4488,8 +4259,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLHeadElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLHeadElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLHeadElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4508,8 +4278,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLHeadingElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLHeadingElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLHeadingElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4528,8 +4297,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLHtmlElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLHtmlElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLHtmlElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4548,8 +4316,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLIFrameElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLIFrameElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLIFrameElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4568,8 +4335,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLImageElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLImageElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLImageElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4588,8 +4354,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLInputElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLInputElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLInputElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4608,8 +4373,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLIsIndexElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLIsIndexElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLIsIndexElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4628,8 +4392,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLLIElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLLIElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLLIElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4648,8 +4411,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLLabelElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLLabelElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLLabelElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4668,8 +4430,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLLegendElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLLegendElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLLegendElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4688,8 +4449,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLLinkElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLLinkElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLLinkElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4708,8 +4468,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMapElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMapElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMapElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4728,8 +4487,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMediaElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMediaElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMediaElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4748,8 +4506,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMenuElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMenuElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMenuElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4768,8 +4525,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMenuItemElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMenuItemElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMenuItemElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4788,8 +4544,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMetaElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMetaElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMetaElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4808,8 +4563,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMeterElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMeterElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLMeterElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4828,8 +4582,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLModElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLModElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLModElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4848,8 +4601,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLOListElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLOListElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLOListElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4868,8 +4620,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLObjectElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLObjectElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLObjectElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4888,8 +4639,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLOptGroupElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLOptGroupElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLOptGroupElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4908,8 +4658,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLOptionElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLOptionElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLOptionElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4928,8 +4677,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLOutputElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLOutputElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLOutputElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4948,8 +4696,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLParagraphElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLParagraphElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLParagraphElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4968,8 +4715,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLParamElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLParamElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLParamElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -4988,8 +4734,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLPictureElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLPictureElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLPictureElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5008,8 +4753,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLPreElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLPreElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLPreElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5028,8 +4772,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLProgressElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLProgressElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLProgressElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5048,8 +4791,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLQuoteElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLQuoteElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLQuoteElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5068,8 +4810,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLScriptElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLScriptElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLScriptElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5088,8 +4829,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLSelectElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLSelectElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLSelectElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5108,8 +4848,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLShadowElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLShadowElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLShadowElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5128,8 +4867,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLSlotElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLSlotElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLSlotElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5148,8 +4886,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLSourceElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLSourceElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLSourceElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5168,8 +4905,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLStyleElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLStyleElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLStyleElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5188,8 +4924,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableCaptionElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableCaptionElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableCaptionElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5208,8 +4943,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableCellElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableCellElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableCellElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5228,8 +4962,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableColElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableColElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableColElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5248,8 +4981,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5268,8 +5000,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableRowElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableRowElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableRowElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5288,8 +5019,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableSectionElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableSectionElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTableSectionElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5308,8 +5038,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTemplateElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTemplateElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTemplateElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5328,8 +5057,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTextAreaElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTextAreaElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTextAreaElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5348,8 +5076,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTitleElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTitleElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTitleElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5368,8 +5095,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTrackElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTrackElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLTrackElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5388,8 +5114,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLUListElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLUListElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLUListElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5408,8 +5133,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLUnknownElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLUnknownElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLUnknownElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5428,8 +5152,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLVideoElement",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLVideoElement",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.HTMLVideoElement",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5448,8 +5171,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.Image",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.Image",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT @ elemental2.dom.Image",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5468,8 +5190,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5488,8 +5209,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -5507,8 +5227,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT",
-    "oldElement": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT",
+    "element": "field elemental2.dom.Element.ALLOW_KEYBOARD_INPUT",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -5526,8 +5245,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.Element.childElementCount",
-    "oldElement": "field elemental2.dom.Element.childElementCount",
+    "element": "field elemental2.dom.Element.childElementCount",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -5545,8 +5263,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.EventSource.CLOSED",
-    "oldElement": "field elemental2.dom.EventSource.CLOSED",
+    "element": "field elemental2.dom.EventSource.CLOSED",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5565,8 +5282,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.EventSource.CLOSED",
-    "oldElement": "field elemental2.dom.EventSource.CLOSED",
+    "element": "field elemental2.dom.EventSource.CLOSED",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -5584,8 +5300,7 @@
   {
     "code": "java.field.nowStatic",
     "description": "Field is now static.",
-    "newElement": "field elemental2.dom.EventSource.CLOSED",
-    "oldElement": "field elemental2.dom.EventSource.CLOSED",
+    "element": "field elemental2.dom.EventSource.CLOSED",
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "BREAKING"
@@ -5603,8 +5318,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.EventSource.CLOSED",
-    "oldElement": "field elemental2.dom.EventSource.CLOSED",
+    "element": "field elemental2.dom.EventSource.CLOSED",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -5622,8 +5336,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.EventSource.CONNECTING",
-    "oldElement": "field elemental2.dom.EventSource.CONNECTING",
+    "element": "field elemental2.dom.EventSource.CONNECTING",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5642,8 +5355,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.EventSource.CONNECTING",
-    "oldElement": "field elemental2.dom.EventSource.CONNECTING",
+    "element": "field elemental2.dom.EventSource.CONNECTING",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -5661,8 +5373,7 @@
   {
     "code": "java.field.nowStatic",
     "description": "Field is now static.",
-    "newElement": "field elemental2.dom.EventSource.CONNECTING",
-    "oldElement": "field elemental2.dom.EventSource.CONNECTING",
+    "element": "field elemental2.dom.EventSource.CONNECTING",
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "BREAKING"
@@ -5680,8 +5391,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.EventSource.CONNECTING",
-    "oldElement": "field elemental2.dom.EventSource.CONNECTING",
+    "element": "field elemental2.dom.EventSource.CONNECTING",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -5699,8 +5409,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.EventSource.OPEN",
-    "oldElement": "field elemental2.dom.EventSource.OPEN",
+    "element": "field elemental2.dom.EventSource.OPEN",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5719,8 +5428,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.EventSource.OPEN",
-    "oldElement": "field elemental2.dom.EventSource.OPEN",
+    "element": "field elemental2.dom.EventSource.OPEN",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -5738,8 +5446,7 @@
   {
     "code": "java.field.nowStatic",
     "description": "Field is now static.",
-    "newElement": "field elemental2.dom.EventSource.OPEN",
-    "oldElement": "field elemental2.dom.EventSource.OPEN",
+    "element": "field elemental2.dom.EventSource.OPEN",
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "BREAKING"
@@ -5757,8 +5464,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.EventSource.OPEN",
-    "oldElement": "field elemental2.dom.EventSource.OPEN",
+    "element": "field elemental2.dom.EventSource.OPEN",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -5777,7 +5483,6 @@
     "code": "java.field.added",
     "description": "Field added to class.",
     "newElement": "field elemental2.dom.HTMLAnchorElement.relList",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -5793,8 +5498,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.MediaError.MEDIA_ERR_ABORTED",
-    "oldElement": "field elemental2.dom.MediaError.MEDIA_ERR_ABORTED",
+    "element": "field elemental2.dom.MediaError.MEDIA_ERR_ABORTED",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5813,8 +5517,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.MediaError.MEDIA_ERR_ABORTED",
-    "oldElement": "field elemental2.dom.MediaError.MEDIA_ERR_ABORTED",
+    "element": "field elemental2.dom.MediaError.MEDIA_ERR_ABORTED",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -5832,8 +5535,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.MediaError.MEDIA_ERR_ABORTED",
-    "oldElement": "field elemental2.dom.MediaError.MEDIA_ERR_ABORTED",
+    "element": "field elemental2.dom.MediaError.MEDIA_ERR_ABORTED",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -5851,8 +5553,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.MediaError.MEDIA_ERR_DECODE",
-    "oldElement": "field elemental2.dom.MediaError.MEDIA_ERR_DECODE",
+    "element": "field elemental2.dom.MediaError.MEDIA_ERR_DECODE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5871,8 +5572,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.MediaError.MEDIA_ERR_DECODE",
-    "oldElement": "field elemental2.dom.MediaError.MEDIA_ERR_DECODE",
+    "element": "field elemental2.dom.MediaError.MEDIA_ERR_DECODE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -5890,8 +5590,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.MediaError.MEDIA_ERR_DECODE",
-    "oldElement": "field elemental2.dom.MediaError.MEDIA_ERR_DECODE",
+    "element": "field elemental2.dom.MediaError.MEDIA_ERR_DECODE",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -5909,8 +5608,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.MediaError.MEDIA_ERR_NETWORK",
-    "oldElement": "field elemental2.dom.MediaError.MEDIA_ERR_NETWORK",
+    "element": "field elemental2.dom.MediaError.MEDIA_ERR_NETWORK",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5929,8 +5627,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.MediaError.MEDIA_ERR_NETWORK",
-    "oldElement": "field elemental2.dom.MediaError.MEDIA_ERR_NETWORK",
+    "element": "field elemental2.dom.MediaError.MEDIA_ERR_NETWORK",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -5948,8 +5645,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.MediaError.MEDIA_ERR_NETWORK",
-    "oldElement": "field elemental2.dom.MediaError.MEDIA_ERR_NETWORK",
+    "element": "field elemental2.dom.MediaError.MEDIA_ERR_NETWORK",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -5967,8 +5663,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.MediaError.MEDIA_ERR_SRC_NOT_SUPPORTED",
-    "oldElement": "field elemental2.dom.MediaError.MEDIA_ERR_SRC_NOT_SUPPORTED",
+    "element": "field elemental2.dom.MediaError.MEDIA_ERR_SRC_NOT_SUPPORTED",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -5987,8 +5682,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.MediaError.MEDIA_ERR_SRC_NOT_SUPPORTED",
-    "oldElement": "field elemental2.dom.MediaError.MEDIA_ERR_SRC_NOT_SUPPORTED",
+    "element": "field elemental2.dom.MediaError.MEDIA_ERR_SRC_NOT_SUPPORTED",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -6006,8 +5700,7 @@
   {
     "code": "java.field.typeChanged",
     "description": "The type of the field changed from 'double' to 'int'.",
-    "newElement": "field elemental2.dom.MediaError.MEDIA_ERR_SRC_NOT_SUPPORTED",
-    "oldElement": "field elemental2.dom.MediaError.MEDIA_ERR_SRC_NOT_SUPPORTED",
+    "element": "field elemental2.dom.MediaError.MEDIA_ERR_SRC_NOT_SUPPORTED",
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "BREAKING"
@@ -6025,8 +5718,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.XPathException.INVALID_EXPRESSION_ERR",
-    "oldElement": "field elemental2.dom.XPathException.INVALID_EXPRESSION_ERR",
+    "element": "field elemental2.dom.XPathException.INVALID_EXPRESSION_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -6045,8 +5737,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.XPathException.INVALID_EXPRESSION_ERR",
-    "oldElement": "field elemental2.dom.XPathException.INVALID_EXPRESSION_ERR",
+    "element": "field elemental2.dom.XPathException.INVALID_EXPRESSION_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -6064,8 +5755,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.XPathException.TYPE_ERR",
-    "oldElement": "field elemental2.dom.XPathException.TYPE_ERR",
+    "element": "field elemental2.dom.XPathException.TYPE_ERR",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -6084,8 +5774,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.XPathException.TYPE_ERR",
-    "oldElement": "field elemental2.dom.XPathException.TYPE_ERR",
+    "element": "field elemental2.dom.XPathException.TYPE_ERR",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -6103,8 +5792,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.XPathNamespace.XPATH_NAMESPACE_NODE",
-    "oldElement": "field elemental2.dom.XPathNamespace.XPATH_NAMESPACE_NODE",
+    "element": "field elemental2.dom.XPathNamespace.XPATH_NAMESPACE_NODE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -6123,8 +5811,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.XPathNamespace.XPATH_NAMESPACE_NODE",
-    "oldElement": "field elemental2.dom.XPathNamespace.XPATH_NAMESPACE_NODE",
+    "element": "field elemental2.dom.XPathNamespace.XPATH_NAMESPACE_NODE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -6142,8 +5829,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.XPathResult.ANY_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.ANY_TYPE",
+    "element": "field elemental2.dom.XPathResult.ANY_TYPE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -6162,8 +5848,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.XPathResult.ANY_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.ANY_TYPE",
+    "element": "field elemental2.dom.XPathResult.ANY_TYPE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -6181,8 +5866,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.XPathResult.ANY_UNORDERED_NODE_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.ANY_UNORDERED_NODE_TYPE",
+    "element": "field elemental2.dom.XPathResult.ANY_UNORDERED_NODE_TYPE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -6201,8 +5885,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.XPathResult.ANY_UNORDERED_NODE_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.ANY_UNORDERED_NODE_TYPE",
+    "element": "field elemental2.dom.XPathResult.ANY_UNORDERED_NODE_TYPE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -6220,8 +5903,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.XPathResult.BOOLEAN_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.BOOLEAN_TYPE",
+    "element": "field elemental2.dom.XPathResult.BOOLEAN_TYPE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -6240,8 +5922,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.XPathResult.BOOLEAN_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.BOOLEAN_TYPE",
+    "element": "field elemental2.dom.XPathResult.BOOLEAN_TYPE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -6259,8 +5940,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.XPathResult.FIRST_ORDERED_NODE_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.FIRST_ORDERED_NODE_TYPE",
+    "element": "field elemental2.dom.XPathResult.FIRST_ORDERED_NODE_TYPE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -6279,8 +5959,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.XPathResult.FIRST_ORDERED_NODE_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.FIRST_ORDERED_NODE_TYPE",
+    "element": "field elemental2.dom.XPathResult.FIRST_ORDERED_NODE_TYPE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -6298,8 +5977,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.XPathResult.NUMBER_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.NUMBER_TYPE",
+    "element": "field elemental2.dom.XPathResult.NUMBER_TYPE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -6318,8 +5996,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.XPathResult.NUMBER_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.NUMBER_TYPE",
+    "element": "field elemental2.dom.XPathResult.NUMBER_TYPE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -6337,8 +6014,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.XPathResult.ORDERED_NODE_ITERATOR_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.ORDERED_NODE_ITERATOR_TYPE",
+    "element": "field elemental2.dom.XPathResult.ORDERED_NODE_ITERATOR_TYPE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -6357,8 +6033,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.XPathResult.ORDERED_NODE_ITERATOR_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.ORDERED_NODE_ITERATOR_TYPE",
+    "element": "field elemental2.dom.XPathResult.ORDERED_NODE_ITERATOR_TYPE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -6376,8 +6051,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.XPathResult.ORDERED_NODE_SNAPSHOT_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.ORDERED_NODE_SNAPSHOT_TYPE",
+    "element": "field elemental2.dom.XPathResult.ORDERED_NODE_SNAPSHOT_TYPE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -6396,8 +6070,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.XPathResult.ORDERED_NODE_SNAPSHOT_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.ORDERED_NODE_SNAPSHOT_TYPE",
+    "element": "field elemental2.dom.XPathResult.ORDERED_NODE_SNAPSHOT_TYPE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -6415,8 +6088,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.XPathResult.STRING_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.STRING_TYPE",
+    "element": "field elemental2.dom.XPathResult.STRING_TYPE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -6435,8 +6107,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.XPathResult.STRING_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.STRING_TYPE",
+    "element": "field elemental2.dom.XPathResult.STRING_TYPE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -6454,8 +6125,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.XPathResult.UNORDERED_NODE_ITERATOR_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.UNORDERED_NODE_ITERATOR_TYPE",
+    "element": "field elemental2.dom.XPathResult.UNORDERED_NODE_ITERATOR_TYPE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -6474,8 +6144,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.XPathResult.UNORDERED_NODE_ITERATOR_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.UNORDERED_NODE_ITERATOR_TYPE",
+    "element": "field elemental2.dom.XPathResult.UNORDERED_NODE_ITERATOR_TYPE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -6493,8 +6162,7 @@
   {
     "code": "java.annotation.added",
     "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
-    "newElement": "field elemental2.dom.XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE",
+    "element": "field elemental2.dom.XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT",
@@ -6513,8 +6181,7 @@
   {
     "code": "java.field.nowFinal",
     "description": "Field is now final.",
-    "newElement": "field elemental2.dom.XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE",
-    "oldElement": "field elemental2.dom.XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE",
+    "element": "field elemental2.dom.XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE",
     "classification": {
       "SOURCE": "POTENTIALLY_BREAKING",
       "BINARY": "POTENTIALLY_BREAKING"
@@ -6533,7 +6200,6 @@
     "code": "java.class.added",
     "description": "Class was added.",
     "newElement": "interface elemental2.dom.CanvasRenderingContext2D.SetFillColorAUnionType",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -6549,7 +6215,6 @@
     "code": "java.class.added",
     "description": "Class was added.",
     "newElement": "interface elemental2.dom.CanvasRenderingContext2D.SetStrokeColorAUnionType",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -6564,8 +6229,7 @@
   {
     "code": "java.class.nowImplementsInterface",
     "description": "Class now implements interface 'elemental2.dom.EventInit'.",
-    "newElement": "interface elemental2.dom.ClipboardEventInit",
-    "oldElement": "interface elemental2.dom.ClipboardEventInit",
+    "element": "interface elemental2.dom.ClipboardEventInit",
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -6582,7 +6246,6 @@
     "code": "java.class.added",
     "description": "Class was added.",
     "newElement": "interface elemental2.dom.PositionCallback",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -6598,7 +6261,6 @@
     "code": "java.class.added",
     "description": "Class was added.",
     "newElement": "interface elemental2.dom.PositionErrorCallback",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -6614,7 +6276,6 @@
     "code": "java.class.added",
     "description": "Class was added.",
     "newElement": "interface elemental2.dom.RTCStatsReport.EntriesJsIteratorIterableTypeParameterArrayUnionType",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -6630,7 +6291,6 @@
     "code": "java.class.added",
     "description": "Class was added.",
     "newElement": "interface elemental2.dom.WebSocket.OnmessageFn.EventMessageEventTypeParameterUnionType",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -6646,7 +6306,6 @@
     "code": "java.method.added",
     "description": "Method was added.",
     "newElement": "method boolean elemental2.dom.DOMTokenList::supports(java.lang.String)",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -6663,7 +6322,6 @@
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method boolean elemental2.dom.DomGlobal.PostMessageTargetOriginOrPortsOrTransferUnionType::isObjectArray()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -6718,7 +6376,6 @@
     "code": "java.method.addedToInterface",
     "description": "Method was added to an interface.",
     "newElement": "method boolean elemental2.dom.RTCStatsReport::has(java.lang.String)",
-    "oldElement": null,
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "NON_BREAKING",
@@ -6736,7 +6393,6 @@
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method boolean elemental2.dom.RequestInit.GetBodyUnionType::isURLSearchParams()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -6753,7 +6409,6 @@
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method boolean elemental2.dom.Response.ConstructorBodyUnionType::isURLSearchParams()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -6770,7 +6425,6 @@
     "code": "java.method.addedToInterface",
     "description": "Method was added to an interface.",
     "newElement": "method double elemental2.dom.RTCStatsReport::getSize()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "NON_BREAKING",
@@ -6788,7 +6442,6 @@
     "code": "java.method.addedToInterface",
     "description": "Method was added to an interface.",
     "newElement": "method elemental2.core.JsIteratorIterable<elemental2.dom.RTCStats> elemental2.dom.RTCStatsReport::values()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "NON_BREAKING",
@@ -6806,7 +6459,6 @@
     "code": "java.method.addedToInterface",
     "description": "Method was added to an interface.",
     "newElement": "method elemental2.core.JsIteratorIterable<elemental2.dom.RTCStatsReport.EntriesJsIteratorIterableTypeParameterArrayUnionType[]> elemental2.dom.RTCStatsReport::entries(java.lang.String)",
-    "oldElement": null,
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "NON_BREAKING",
@@ -6824,7 +6476,6 @@
     "code": "java.method.addedToInterface",
     "description": "Method was added to an interface.",
     "newElement": "method elemental2.dom.DataTransfer elemental2.dom.ClipboardEventInit::getClipboardData()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "NON_BREAKING",
@@ -6842,7 +6493,6 @@
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method elemental2.dom.URLSearchParams elemental2.dom.RequestInit.GetBodyUnionType::asURLSearchParams()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -6859,7 +6509,6 @@
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method elemental2.dom.URLSearchParams elemental2.dom.Response.ConstructorBodyUnionType::asURLSearchParams()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -6876,7 +6525,6 @@
     "code": "java.method.defaultMethodAddedToInterface",
     "description": "A default method has been added to the interface.",
     "newElement": "method java.lang.Object[] elemental2.dom.DomGlobal.PostMessageTargetOriginOrPortsOrTransferUnionType::asObjectArray()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -6892,8 +6540,7 @@
   {
     "code": "java.element.nowDeprecated",
     "description": "The element is now deprecated.",
-    "newElement": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor()",
-    "oldElement": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor()",
+    "element": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor()",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT"
@@ -6911,8 +6558,7 @@
   {
     "code": "java.element.nowDeprecated",
     "description": "The element is now deprecated.",
-    "newElement": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor(double)",
-    "oldElement": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor(double)",
+    "element": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor(double)",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT"
@@ -6930,8 +6576,7 @@
   {
     "code": "java.element.nowDeprecated",
     "description": "The element is now deprecated.",
-    "newElement": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor(double, double)",
-    "oldElement": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor(double, double)",
+    "element": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor(double, double)",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT"
@@ -6949,8 +6594,7 @@
   {
     "code": "java.element.nowDeprecated",
     "description": "The element is now deprecated.",
-    "newElement": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor(double, double, double)",
-    "oldElement": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor(double, double, double)",
+    "element": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor(double, double, double)",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT"
@@ -6968,8 +6612,7 @@
   {
     "code": "java.element.nowDeprecated",
     "description": "The element is now deprecated.",
-    "newElement": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor(double, double, double, double)",
-    "oldElement": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor(double, double, double, double)",
+    "element": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor(double, double, double, double)",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT"
@@ -6987,8 +6630,7 @@
   {
     "code": "java.element.nowDeprecated",
     "description": "The element is now deprecated.",
-    "newElement": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor(double, double, double, double, double)",
-    "oldElement": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor(double, double, double, double, double)",
+    "element": "method void elemental2.dom.CanvasRenderingContext2D::setFillColor(double, double, double, double, double)",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT"
@@ -7586,8 +7228,7 @@
   {
     "code": "java.element.nowDeprecated",
     "description": "The element is now deprecated.",
-    "newElement": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor()",
-    "oldElement": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor()",
+    "element": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor()",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT"
@@ -7605,8 +7246,7 @@
   {
     "code": "java.element.nowDeprecated",
     "description": "The element is now deprecated.",
-    "newElement": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor(double)",
-    "oldElement": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor(double)",
+    "element": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor(double)",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT"
@@ -7624,8 +7264,7 @@
   {
     "code": "java.element.nowDeprecated",
     "description": "The element is now deprecated.",
-    "newElement": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor(double, double)",
-    "oldElement": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor(double, double)",
+    "element": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor(double, double)",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT"
@@ -7643,8 +7282,7 @@
   {
     "code": "java.element.nowDeprecated",
     "description": "The element is now deprecated.",
-    "newElement": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor(double, double, double)",
-    "oldElement": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor(double, double, double)",
+    "element": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor(double, double, double)",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT"
@@ -7662,8 +7300,7 @@
   {
     "code": "java.element.nowDeprecated",
     "description": "The element is now deprecated.",
-    "newElement": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor(double, double, double, double)",
-    "oldElement": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor(double, double, double, double)",
+    "element": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor(double, double, double, double)",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT"
@@ -7681,8 +7318,7 @@
   {
     "code": "java.element.nowDeprecated",
     "description": "The element is now deprecated.",
-    "newElement": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor(double, double, double, double, double)",
-    "oldElement": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor(double, double, double, double, double)",
+    "element": "method void elemental2.dom.CanvasRenderingContext2D::setStrokeColor(double, double, double, double, double)",
     "classification": {
       "SOURCE": "EQUIVALENT",
       "BINARY": "EQUIVALENT"
@@ -8281,7 +7917,6 @@
     "code": "java.method.addedToInterface",
     "description": "Method was added to an interface.",
     "newElement": "method void elemental2.dom.ClipboardEventInit::setClipboardData(elemental2.dom.DataTransfer)",
-    "oldElement": null,
     "classification": {
       "SOURCE": "BREAKING",
       "BINARY": "NON_BREAKING",
@@ -8299,7 +7934,6 @@
     "code": "java.method.added",
     "description": "Method was added.",
     "newElement": "method void elemental2.dom.Console::countReset()",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -8316,7 +7950,6 @@
     "code": "java.method.added",
     "description": "Method was added.",
     "newElement": "method void elemental2.dom.Console::countReset(java.lang.String)",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -8333,7 +7966,6 @@
     "code": "java.method.added",
     "description": "Method was added.",
     "newElement": "method void elemental2.dom.Console::dir(java.lang.Object)",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -8350,7 +7982,6 @@
     "code": "java.method.added",
     "description": "Method was added.",
     "newElement": "method void elemental2.dom.Console::dirxml(java.lang.Object[])",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -8367,7 +7998,6 @@
     "code": "java.method.added",
     "description": "Method was added.",
     "newElement": "method void elemental2.dom.Console::timeLog(java.lang.String, java.lang.Object[])",
-    "oldElement": null,
     "classification": {
       "SOURCE": "NON_BREAKING",
       "BINARY": "NON_BREAKING"
@@ -8478,7 +8108,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.dom.EventSource.clipboardData",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8495,7 +8124,6 @@
   {
     "code": "java.field.removed",
     "description": "Field removed from class.",
-    "newElement": null,
     "oldElement": "field elemental2.dom.Node.XPATH_NAMESPACE_NODE",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8512,7 +8140,6 @@
   {
     "code": "java.class.removed",
     "description": "Class was removed.",
-    "newElement": null,
     "oldElement": "interface elemental2.dom.CanvasRenderingContext2D.SetFillColorP0UnionType",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8528,7 +8155,6 @@
   {
     "code": "java.class.removed",
     "description": "Class was removed.",
-    "newElement": null,
     "oldElement": "interface elemental2.dom.CanvasRenderingContext2D.SetStrokeColorP0UnionType",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8544,7 +8170,6 @@
   {
     "code": "java.class.removed",
     "description": "Class was removed.",
-    "newElement": null,
     "oldElement": "interface elemental2.dom.Geolocation.GetCurrentPositionErrorCallbackFn",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8560,7 +8185,6 @@
   {
     "code": "java.class.removed",
     "description": "Class was removed.",
-    "newElement": null,
     "oldElement": "interface elemental2.dom.Geolocation.GetCurrentPositionSuccessCallbackFn",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8576,7 +8200,6 @@
   {
     "code": "java.class.removed",
     "description": "Class was removed.",
-    "newElement": null,
     "oldElement": "interface elemental2.dom.Geolocation.WatchPositionErrorCallbackFn",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8592,7 +8215,6 @@
   {
     "code": "java.class.removed",
     "description": "Class was removed.",
-    "newElement": null,
     "oldElement": "interface elemental2.dom.Geolocation.WatchPositionSuccessCallbackFn",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8608,7 +8230,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method boolean elemental2.dom.DomGlobal.PostMessageTargetOriginOrPortsOrTransferUnionType::isJsArray()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8625,7 +8246,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method boolean elemental2.dom.RequestInit.GetBodyUnionType::isObject()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8642,7 +8262,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method boolean elemental2.dom.Response.ConstructorBodyUnionType::isObject()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8659,7 +8278,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method elemental2.core.JsArray elemental2.dom.DomGlobal.PostMessageTargetOriginOrPortsOrTransferUnionType::asJsArray()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8676,7 +8294,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method java.lang.Object elemental2.dom.RequestInit.GetBodyUnionType::asObject()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8693,7 +8310,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method java.lang.Object elemental2.dom.Response.ConstructorBodyUnionType::asObject()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8710,7 +8326,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method java.lang.String elemental2.dom.ClipboardEventInit::getData()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8727,7 +8342,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method java.lang.String elemental2.dom.ClipboardEventInit::getDataType()",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8744,7 +8358,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.dom.ClipboardEventInit::setData(java.lang.String)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8761,7 +8374,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.dom.ClipboardEventInit::setDataType(java.lang.String)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8778,7 +8390,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.dom.GeolocationPositionError::setPERMISSION_DENIED(double)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8795,7 +8406,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.dom.GeolocationPositionError::setPOSITION_UNAVAILABLE(double)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8812,7 +8422,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.dom.GeolocationPositionError::setTIMEOUT(double)",
     "classification": {
       "SOURCE": "BREAKING",
@@ -8829,7 +8438,6 @@
   {
     "code": "java.method.removed",
     "description": "Method was removed.",
-    "newElement": null,
     "oldElement": "method void elemental2.dom.GeolocationPositionError::setUNKNOWN_ERROR(double)",
     "classification": {
       "SOURCE": "BREAKING",
