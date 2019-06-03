@@ -1,0 +1,18 @@
+[
+  {
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "oldElement": "field elemental2.svg.SVGElement.id",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGElement",
+      "classSimpleName": "SVGElement",
+      "elementKind": "field",
+      "fieldName": "id",
+      "package": "elemental2.svg"
+    }
+  }
+]

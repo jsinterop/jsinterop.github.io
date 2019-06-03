@@ -1,0 +1,17 @@
+[
+  {
+    "code": "java.class.added",
+    "description": "Class was added.",
+    "newElement": "interface elemental2.indexeddb.IndexedDbServiceWorkerGlobalScope",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IndexedDbServiceWorkerGlobalScope",
+      "classSimpleName": "IndexedDbServiceWorkerGlobalScope",
+      "elementKind": "interface",
+      "package": "elemental2.indexeddb"
+    }
+  }
+]

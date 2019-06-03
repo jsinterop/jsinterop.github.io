@@ -1,0 +1,21 @@
+[
+  {
+    "code": "java.method.returnTypeChanged",
+    "description": "The return type changed from 'java.lang.Object' to  'void'.",
+    "newElement": "method void elemental2.webassembly.webassembly.Table::set(int, elemental2.webassembly.TableFunction)",
+    "oldElement": "method java.lang.Object elemental2.webassembly.webassembly.Table::set(int, elemental2.webassembly.TableFunction)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webassembly.webassembly.Table",
+      "classSimpleName": "Table",
+      "elementKind": "method",
+      "methodName": "set",
+      "newType": "void",
+      "oldType": "java.lang.Object",
+      "package": "elemental2.webassembly.webassembly"
+    }
+  }
+]
