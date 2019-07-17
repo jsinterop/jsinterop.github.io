@@ -1,0 +1,77 @@
+[
+  {
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "oldElement": "class elemental2.media.Audio",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.Audio",
+      "classSimpleName": "Audio",
+      "elementKind": "class",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "oldElement": "class elemental2.media.WebkitAudioContext",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.WebkitAudioContext",
+      "classSimpleName": "WebkitAudioContext",
+      "elementKind": "class",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "oldElement": "class elemental2.media.WebkitAudioPannerNode",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.WebkitAudioPannerNode",
+      "classSimpleName": "WebkitAudioPannerNode",
+      "elementKind": "class",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "oldElement": "class elemental2.media.WebkitOfflineAudioContext",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.WebkitOfflineAudioContext",
+      "classSimpleName": "WebkitOfflineAudioContext",
+      "elementKind": "class",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "oldElement": "class elemental2.media.WebkitPannerNode",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.WebkitPannerNode",
+      "classSimpleName": "WebkitPannerNode",
+      "elementKind": "class",
+      "package": "elemental2.media"
+    }
+  }
+]

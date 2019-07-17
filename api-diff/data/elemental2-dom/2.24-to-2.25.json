@@ -1,0 +1,1387 @@
+[
+  {
+    "code": "java.field.added",
+    "description": "Field added to class.",
+    "newElement": "field elemental2.dom.Document.open",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Document",
+      "classSimpleName": "Document",
+      "elementKind": "field",
+      "fieldName": "open",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.field.added",
+    "description": "Field added to class.",
+    "newElement": "field elemental2.dom.Element.onselectionchange",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element",
+      "classSimpleName": "Element",
+      "elementKind": "field",
+      "fieldName": "onselectionchange",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.field.added",
+    "description": "Field added to class.",
+    "newElement": "field elemental2.dom.Element.onselectstart",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element",
+      "classSimpleName": "Element",
+      "elementKind": "field",
+      "fieldName": "onselectstart",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.field.added",
+    "description": "Field added to class.",
+    "newElement": "field elemental2.dom.HTMLInputElement.selectionDirection",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLInputElement",
+      "classSimpleName": "HTMLInputElement",
+      "elementKind": "field",
+      "fieldName": "selectionDirection",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.field.typeChanged",
+    "description": "The type of the field changed from 'double' to 'int'.",
+    "element": "field elemental2.dom.HTMLInputElement.selectionEnd",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLInputElement",
+      "classSimpleName": "HTMLInputElement",
+      "elementKind": "field",
+      "fieldName": "selectionEnd",
+      "newType": "int",
+      "oldType": "double",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.field.typeChanged",
+    "description": "The type of the field changed from 'double' to 'int'.",
+    "element": "field elemental2.dom.HTMLInputElement.selectionStart",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLInputElement",
+      "classSimpleName": "HTMLInputElement",
+      "elementKind": "field",
+      "fieldName": "selectionStart",
+      "newType": "int",
+      "oldType": "double",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.class.added",
+    "description": "Class was added.",
+    "newElement": "interface elemental2.dom.AssignedNodesOptions",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.AssignedNodesOptions",
+      "classSimpleName": "AssignedNodesOptions",
+      "elementKind": "interface",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.class.added",
+    "description": "Class was added.",
+    "newElement": "interface elemental2.dom.Document.WriteTextUnionType",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Document.WriteTextUnionType",
+      "classSimpleName": "WriteTextUnionType",
+      "elementKind": "interface",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.class.added",
+    "description": "Class was added.",
+    "newElement": "interface elemental2.dom.Document.WritelnTextUnionType",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Document.WritelnTextUnionType",
+      "classSimpleName": "WritelnTextUnionType",
+      "elementKind": "interface",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.class.added",
+    "description": "Class was added.",
+    "newElement": "interface elemental2.dom.Element.FocusOptionsType",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element.FocusOptionsType",
+      "classSimpleName": "FocusOptionsType",
+      "elementKind": "interface",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.class.added",
+    "description": "Class was added.",
+    "newElement": "interface elemental2.dom.Element.OnselectionchangeFn",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element.OnselectionchangeFn",
+      "classSimpleName": "OnselectionchangeFn",
+      "elementKind": "interface",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.class.added",
+    "description": "Class was added.",
+    "newElement": "interface elemental2.dom.Element.OnselectstartFn",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element.OnselectstartFn",
+      "classSimpleName": "OnselectstartFn",
+      "elementKind": "interface",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.class.added",
+    "description": "Class was added.",
+    "newElement": "interface elemental2.dom.ReadableStreamIteratorOptions",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.ReadableStreamIteratorOptions",
+      "classSimpleName": "ReadableStreamIteratorOptions",
+      "elementKind": "interface",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method boolean elemental2.dom.Document::hasFocus()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Document",
+      "classSimpleName": "Document",
+      "elementKind": "method",
+      "methodName": "hasFocus",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.dom.Element.SetAttributeValueUnionType::isTrustedHTML()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element.SetAttributeValueUnionType",
+      "classSimpleName": "SetAttributeValueUnionType",
+      "elementKind": "method",
+      "methodName": "isTrustedHTML",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.dom.Element.SetAttributeValueUnionType::isTrustedScriptURL()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element.SetAttributeValueUnionType",
+      "classSimpleName": "SetAttributeValueUnionType",
+      "elementKind": "method",
+      "methodName": "isTrustedScriptURL",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.dom.Element.SetAttributeValueUnionType::isTrustedURL()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element.SetAttributeValueUnionType",
+      "classSimpleName": "SetAttributeValueUnionType",
+      "elementKind": "method",
+      "methodName": "isTrustedURL",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method elemental2.core.AsyncIterator elemental2.dom.ReadableStream::getIterator()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.ReadableStream",
+      "classSimpleName": "ReadableStream",
+      "elementKind": "method",
+      "methodName": "getIterator",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method elemental2.core.AsyncIterator elemental2.dom.ReadableStream::getIterator(elemental2.dom.ReadableStreamIteratorOptions)",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.ReadableStream",
+      "classSimpleName": "ReadableStream",
+      "elementKind": "method",
+      "methodName": "getIterator",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method elemental2.dom.HTMLElement[] elemental2.dom.HTMLSlotElement::assignedElements()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLSlotElement",
+      "classSimpleName": "HTMLSlotElement",
+      "elementKind": "method",
+      "methodName": "assignedElements",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method elemental2.dom.HTMLElement[] elemental2.dom.HTMLSlotElement::assignedElements(elemental2.dom.AssignedNodesOptions)",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLSlotElement",
+      "classSimpleName": "HTMLSlotElement",
+      "elementKind": "method",
+      "methodName": "assignedElements",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.dom.TrustedHTML elemental2.dom.Element.SetAttributeValueUnionType::asTrustedHTML()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element.SetAttributeValueUnionType",
+      "classSimpleName": "SetAttributeValueUnionType",
+      "elementKind": "method",
+      "methodName": "asTrustedHTML",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.dom.TrustedScriptURL elemental2.dom.Element.SetAttributeValueUnionType::asTrustedScriptURL()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element.SetAttributeValueUnionType",
+      "classSimpleName": "SetAttributeValueUnionType",
+      "elementKind": "method",
+      "methodName": "asTrustedScriptURL",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.dom.TrustedURL elemental2.dom.Element.SetAttributeValueUnionType::asTrustedURL()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element.SetAttributeValueUnionType",
+      "classSimpleName": "SetAttributeValueUnionType",
+      "elementKind": "method",
+      "methodName": "asTrustedURL",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.movedToSuperClass",
+    "description": "The method used to be declared in class 'elemental2.dom.HTMLDocument' but is now declared in superclass 'elemental2.dom.Document'.",
+    "newElement": "method void elemental2.dom.Document::close() @ elemental2.dom.HTMLDocument",
+    "oldElement": "method void elemental2.dom.HTMLDocument::close()",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLDocument",
+      "classSimpleName": "HTMLDocument",
+      "elementKind": "method",
+      "methodName": "close",
+      "newClass": "elemental2.dom.Document",
+      "oldClass": "elemental2.dom.HTMLDocument",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method void elemental2.dom.Document::close()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Document",
+      "classSimpleName": "Document",
+      "elementKind": "method",
+      "methodName": "close",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.annotation.removed",
+    "description": "Element no longer annotated with 'jsinterop.annotations.JsOverlay'.",
+    "newElement": "method void elemental2.dom.Document::write(elemental2.dom.Document.WriteTextUnionType) @ elemental2.dom.HTMLDocument",
+    "oldElement": "method void elemental2.dom.HTMLDocument::write(java.lang.String)",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.dom.HTMLDocument",
+      "classSimpleName": "HTMLDocument",
+      "elementKind": "method",
+      "methodName": "write",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.noLongerFinal",
+    "description": "Method is no longer final.",
+    "newElement": "method void elemental2.dom.Document::write(elemental2.dom.Document.WriteTextUnionType) @ elemental2.dom.HTMLDocument",
+    "oldElement": "method void elemental2.dom.HTMLDocument::write(java.lang.String)",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLDocument",
+      "classSimpleName": "HTMLDocument",
+      "elementKind": "method",
+      "methodName": "write",
+      "newModifiers": "public native",
+      "oldModifiers": "public final",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method void elemental2.dom.Document::write(elemental2.dom.Document.WriteTextUnionType)",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Document",
+      "classSimpleName": "Document",
+      "elementKind": "method",
+      "methodName": "write",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.movedToSuperClass",
+    "description": "The method used to be declared in class 'elemental2.dom.HTMLDocument' but is now declared in superclass 'elemental2.dom.Document'.",
+    "newElement": "method void elemental2.dom.Document::write(elemental2.dom.TrustedHTML) @ elemental2.dom.HTMLDocument",
+    "oldElement": "method void elemental2.dom.HTMLDocument::write(elemental2.dom.TrustedHTML)",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLDocument",
+      "classSimpleName": "HTMLDocument",
+      "elementKind": "method",
+      "methodName": "write",
+      "newClass": "elemental2.dom.Document",
+      "oldClass": "elemental2.dom.HTMLDocument",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.dom.Document::write(elemental2.dom.TrustedHTML)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Document",
+      "classSimpleName": "Document",
+      "elementKind": "method",
+      "methodName": "write",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.annotation.added",
+    "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
+    "newElement": "method void elemental2.dom.Document::write(java.lang.String) @ elemental2.dom.HTMLDocument",
+    "oldElement": "method void elemental2.dom.HTMLDocument::write(elemental2.dom.HTMLDocument.WriteTextUnionType)",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.dom.HTMLDocument",
+      "classSimpleName": "HTMLDocument",
+      "elementKind": "method",
+      "methodName": "write",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.nowFinal",
+    "description": "Method is now final.",
+    "newElement": "method void elemental2.dom.Document::write(java.lang.String) @ elemental2.dom.HTMLDocument",
+    "oldElement": "method void elemental2.dom.HTMLDocument::write(elemental2.dom.HTMLDocument.WriteTextUnionType)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLDocument",
+      "classSimpleName": "HTMLDocument",
+      "elementKind": "method",
+      "methodName": "write",
+      "newModifiers": "public final",
+      "oldModifiers": "public native",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.dom.Document::write(java.lang.String)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Document",
+      "classSimpleName": "Document",
+      "elementKind": "method",
+      "methodName": "write",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.annotation.removed",
+    "description": "Element no longer annotated with 'jsinterop.annotations.JsOverlay'.",
+    "newElement": "method void elemental2.dom.Document::writeln(elemental2.dom.Document.WritelnTextUnionType) @ elemental2.dom.HTMLDocument",
+    "oldElement": "method void elemental2.dom.HTMLDocument::writeln(java.lang.String)",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.dom.HTMLDocument",
+      "classSimpleName": "HTMLDocument",
+      "elementKind": "method",
+      "methodName": "writeln",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.noLongerFinal",
+    "description": "Method is no longer final.",
+    "newElement": "method void elemental2.dom.Document::writeln(elemental2.dom.Document.WritelnTextUnionType) @ elemental2.dom.HTMLDocument",
+    "oldElement": "method void elemental2.dom.HTMLDocument::writeln(java.lang.String)",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLDocument",
+      "classSimpleName": "HTMLDocument",
+      "elementKind": "method",
+      "methodName": "writeln",
+      "newModifiers": "public native",
+      "oldModifiers": "public final",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method void elemental2.dom.Document::writeln(elemental2.dom.Document.WritelnTextUnionType)",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Document",
+      "classSimpleName": "Document",
+      "elementKind": "method",
+      "methodName": "writeln",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.movedToSuperClass",
+    "description": "The method used to be declared in class 'elemental2.dom.HTMLDocument' but is now declared in superclass 'elemental2.dom.Document'.",
+    "newElement": "method void elemental2.dom.Document::writeln(elemental2.dom.TrustedHTML) @ elemental2.dom.HTMLDocument",
+    "oldElement": "method void elemental2.dom.HTMLDocument::writeln(elemental2.dom.TrustedHTML)",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLDocument",
+      "classSimpleName": "HTMLDocument",
+      "elementKind": "method",
+      "methodName": "writeln",
+      "newClass": "elemental2.dom.Document",
+      "oldClass": "elemental2.dom.HTMLDocument",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.dom.Document::writeln(elemental2.dom.TrustedHTML)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Document",
+      "classSimpleName": "Document",
+      "elementKind": "method",
+      "methodName": "writeln",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.annotation.added",
+    "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
+    "newElement": "method void elemental2.dom.Document::writeln(java.lang.String) @ elemental2.dom.HTMLDocument",
+    "oldElement": "method void elemental2.dom.HTMLDocument::writeln(elemental2.dom.HTMLDocument.WritelnTextUnionType)",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.dom.HTMLDocument",
+      "classSimpleName": "HTMLDocument",
+      "elementKind": "method",
+      "methodName": "writeln",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.nowFinal",
+    "description": "Method is now final.",
+    "newElement": "method void elemental2.dom.Document::writeln(java.lang.String) @ elemental2.dom.HTMLDocument",
+    "oldElement": "method void elemental2.dom.HTMLDocument::writeln(elemental2.dom.HTMLDocument.WritelnTextUnionType)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLDocument",
+      "classSimpleName": "HTMLDocument",
+      "elementKind": "method",
+      "methodName": "writeln",
+      "newModifiers": "public final",
+      "oldModifiers": "public native",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.dom.Document::writeln(java.lang.String)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Document",
+      "classSimpleName": "Document",
+      "elementKind": "method",
+      "methodName": "writeln",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method void elemental2.dom.Element::blur()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element",
+      "classSimpleName": "Element",
+      "elementKind": "method",
+      "methodName": "blur",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method void elemental2.dom.Element::focus()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element",
+      "classSimpleName": "Element",
+      "elementKind": "method",
+      "methodName": "focus",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method void elemental2.dom.Element::focus(elemental2.dom.Element.FocusOptionsType)",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element",
+      "classSimpleName": "Element",
+      "elementKind": "method",
+      "methodName": "focus",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.dom.Element::setAttribute(java.lang.String, elemental2.dom.TrustedHTML)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element",
+      "classSimpleName": "Element",
+      "elementKind": "method",
+      "methodName": "setAttribute",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.dom.Element::setAttribute(java.lang.String, elemental2.dom.TrustedScriptURL)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element",
+      "classSimpleName": "Element",
+      "elementKind": "method",
+      "methodName": "setAttribute",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.dom.Element::setAttribute(java.lang.String, elemental2.dom.TrustedURL)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Element",
+      "classSimpleName": "Element",
+      "elementKind": "method",
+      "methodName": "setAttribute",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method void elemental2.dom.HTMLInputElement::setSelectionRange(int, int)",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLInputElement",
+      "classSimpleName": "HTMLInputElement",
+      "elementKind": "method",
+      "methodName": "setSelectionRange",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method void elemental2.dom.HTMLInputElement::setSelectionRange(int, int, java.lang.String)",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLInputElement",
+      "classSimpleName": "HTMLInputElement",
+      "elementKind": "method",
+      "methodName": "setSelectionRange",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method void elemental2.dom.History::back()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.History",
+      "classSimpleName": "History",
+      "elementKind": "method",
+      "methodName": "back",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method void elemental2.dom.SourceBuffer::changeType(java.lang.String)",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.SourceBuffer",
+      "classSimpleName": "SourceBuffer",
+      "elementKind": "method",
+      "methodName": "changeType",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.field.removed",
+    "description": "Field removed from class.",
+    "oldElement": "field elemental2.dom.DomGlobal.webkitMediaStream",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "field",
+      "fieldName": "webkitMediaStream",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "oldElement": "interface elemental2.dom.HTMLDocument.WriteTextUnionType",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLDocument.WriteTextUnionType",
+      "classSimpleName": "WriteTextUnionType",
+      "elementKind": "interface",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "oldElement": "interface elemental2.dom.HTMLDocument.WritelnTextUnionType",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLDocument.WritelnTextUnionType",
+      "classSimpleName": "WritelnTextUnionType",
+      "elementKind": "interface",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "oldElement": "interface elemental2.dom.HTMLSlotElement.AssignedNodesOptionsType",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLSlotElement.AssignedNodesOptionsType",
+      "classSimpleName": "AssignedNodesOptionsType",
+      "elementKind": "interface",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "oldElement": "interface elemental2.dom.Navigator.WebkitGetUserMediaErrorCallbackFn",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Navigator.WebkitGetUserMediaErrorCallbackFn",
+      "classSimpleName": "WebkitGetUserMediaErrorCallbackFn",
+      "elementKind": "interface",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "oldElement": "interface elemental2.dom.Navigator.WebkitGetUserMediaSuccessCallbackFn",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Navigator.WebkitGetUserMediaSuccessCallbackFn",
+      "classSimpleName": "WebkitGetUserMediaSuccessCallbackFn",
+      "elementKind": "interface",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method int elemental2.dom.DomGlobal::mozRequestAnimationFrame(elemental2.dom.FrameRequestCallback)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "method",
+      "methodName": "mozRequestAnimationFrame",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method int elemental2.dom.DomGlobal::mozRequestAnimationFrame(elemental2.dom.FrameRequestCallback, elemental2.dom.Element)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "method",
+      "methodName": "mozRequestAnimationFrame",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method int elemental2.dom.DomGlobal::msRequestAnimationFrame(elemental2.dom.FrameRequestCallback)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "method",
+      "methodName": "msRequestAnimationFrame",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method int elemental2.dom.DomGlobal::msRequestAnimationFrame(elemental2.dom.FrameRequestCallback, elemental2.dom.Element)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "method",
+      "methodName": "msRequestAnimationFrame",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method int elemental2.dom.DomGlobal::oRequestAnimationFrame(elemental2.dom.FrameRequestCallback)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "method",
+      "methodName": "oRequestAnimationFrame",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method int elemental2.dom.DomGlobal::oRequestAnimationFrame(elemental2.dom.FrameRequestCallback, elemental2.dom.Element)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "method",
+      "methodName": "oRequestAnimationFrame",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method int elemental2.dom.DomGlobal::webkitRequestAnimationFrame(elemental2.dom.FrameRequestCallback)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "method",
+      "methodName": "webkitRequestAnimationFrame",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method int elemental2.dom.DomGlobal::webkitRequestAnimationFrame(elemental2.dom.FrameRequestCallback, elemental2.dom.Element)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "method",
+      "methodName": "webkitRequestAnimationFrame",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method void elemental2.dom.DomGlobal::mozCancelAnimationFrame(int)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "method",
+      "methodName": "mozCancelAnimationFrame",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method void elemental2.dom.DomGlobal::mozCancelRequestAnimationFrame(double)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "method",
+      "methodName": "mozCancelRequestAnimationFrame",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method void elemental2.dom.DomGlobal::msCancelAnimationFrame(int)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "method",
+      "methodName": "msCancelAnimationFrame",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method void elemental2.dom.DomGlobal::msCancelRequestAnimationFrame(double)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "method",
+      "methodName": "msCancelRequestAnimationFrame",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method void elemental2.dom.DomGlobal::oCancelAnimationFrame(int)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "method",
+      "methodName": "oCancelAnimationFrame",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method void elemental2.dom.DomGlobal::oCancelRequestAnimationFrame(double)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "method",
+      "methodName": "oCancelRequestAnimationFrame",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method void elemental2.dom.DomGlobal::webkitCancelAnimationFrame(int)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "method",
+      "methodName": "webkitCancelAnimationFrame",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method void elemental2.dom.DomGlobal::webkitCancelRequestAnimationFrame(double)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.DomGlobal",
+      "classSimpleName": "DomGlobal",
+      "elementKind": "method",
+      "methodName": "webkitCancelRequestAnimationFrame",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method void elemental2.dom.Navigator::webkitGetUserMedia(elemental2.dom.MediaStreamConstraints, elemental2.dom.Navigator.WebkitGetUserMediaSuccessCallbackFn)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Navigator",
+      "classSimpleName": "Navigator",
+      "elementKind": "method",
+      "methodName": "webkitGetUserMedia",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method void elemental2.dom.Navigator::webkitGetUserMedia(elemental2.dom.MediaStreamConstraints, elemental2.dom.Navigator.WebkitGetUserMediaSuccessCallbackFn, elemental2.dom.Navigator.WebkitGetUserMediaErrorCallbackFn)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.Navigator",
+      "classSimpleName": "Navigator",
+      "elementKind": "method",
+      "methodName": "webkitGetUserMedia",
+      "package": "elemental2.dom"
+    }
+  },
+  {
+    "code": "java.method.parameterTypeChanged",
+    "description": "The type of the parameter changed from 'elemental2.dom.HTMLSlotElement.AssignedNodesOptionsType' to 'elemental2.dom.AssignedNodesOptions'.",
+    "newElement": "parameter elemental2.dom.Node[] elemental2.dom.HTMLSlotElement::assignedNodes(===elemental2.dom.AssignedNodesOptions===)",
+    "oldElement": "parameter elemental2.dom.Node[] elemental2.dom.HTMLSlotElement::assignedNodes(===elemental2.dom.HTMLSlotElement.AssignedNodesOptionsType===)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLSlotElement",
+      "classSimpleName": "HTMLSlotElement",
+      "elementKind": "parameter",
+      "methodName": "assignedNodes",
+      "newType": "elemental2.dom.AssignedNodesOptions",
+      "oldType": "elemental2.dom.HTMLSlotElement.AssignedNodesOptionsType",
+      "package": "elemental2.dom",
+      "parameterIndex": "0"
+    }
+  },
+  {
+    "code": "java.method.parameterTypeChanged",
+    "description": "The type of the parameter changed from 'java.lang.String' to 'elemental2.dom.Document.WriteTextUnionType'.",
+    "newElement": "parameter void elemental2.dom.Document::write(===elemental2.dom.Document.WriteTextUnionType===) @ elemental2.dom.HTMLDocument",
+    "oldElement": "parameter void elemental2.dom.HTMLDocument::write(===java.lang.String===)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLDocument",
+      "classSimpleName": "HTMLDocument",
+      "elementKind": "parameter",
+      "methodName": "write",
+      "newType": "elemental2.dom.Document.WriteTextUnionType",
+      "oldType": "java.lang.String",
+      "package": "elemental2.dom",
+      "parameterIndex": "0"
+    }
+  },
+  {
+    "code": "java.method.parameterTypeChanged",
+    "description": "The type of the parameter changed from 'elemental2.dom.HTMLDocument.WriteTextUnionType' to 'java.lang.String'.",
+    "newElement": "parameter void elemental2.dom.Document::write(===java.lang.String===) @ elemental2.dom.HTMLDocument",
+    "oldElement": "parameter void elemental2.dom.HTMLDocument::write(===elemental2.dom.HTMLDocument.WriteTextUnionType===)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLDocument",
+      "classSimpleName": "HTMLDocument",
+      "elementKind": "parameter",
+      "methodName": "write",
+      "newType": "java.lang.String",
+      "oldType": "elemental2.dom.HTMLDocument.WriteTextUnionType",
+      "package": "elemental2.dom",
+      "parameterIndex": "0"
+    }
+  },
+  {
+    "code": "java.method.parameterTypeChanged",
+    "description": "The type of the parameter changed from 'java.lang.String' to 'elemental2.dom.Document.WritelnTextUnionType'.",
+    "newElement": "parameter void elemental2.dom.Document::writeln(===elemental2.dom.Document.WritelnTextUnionType===) @ elemental2.dom.HTMLDocument",
+    "oldElement": "parameter void elemental2.dom.HTMLDocument::writeln(===java.lang.String===)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLDocument",
+      "classSimpleName": "HTMLDocument",
+      "elementKind": "parameter",
+      "methodName": "writeln",
+      "newType": "elemental2.dom.Document.WritelnTextUnionType",
+      "oldType": "java.lang.String",
+      "package": "elemental2.dom",
+      "parameterIndex": "0"
+    }
+  },
+  {
+    "code": "java.method.parameterTypeChanged",
+    "description": "The type of the parameter changed from 'elemental2.dom.HTMLDocument.WritelnTextUnionType' to 'java.lang.String'.",
+    "newElement": "parameter void elemental2.dom.Document::writeln(===java.lang.String===) @ elemental2.dom.HTMLDocument",
+    "oldElement": "parameter void elemental2.dom.HTMLDocument::writeln(===elemental2.dom.HTMLDocument.WritelnTextUnionType===)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.HTMLDocument",
+      "classSimpleName": "HTMLDocument",
+      "elementKind": "parameter",
+      "methodName": "writeln",
+      "newType": "java.lang.String",
+      "oldType": "elemental2.dom.HTMLDocument.WritelnTextUnionType",
+      "package": "elemental2.dom",
+      "parameterIndex": "0"
+    }
+  },
+  {
+    "code": "java.method.parameterTypeChanged",
+    "description": "The type of the parameter changed from 'java.lang.Object' to 'int'.",
+    "newElement": "parameter void elemental2.dom.History::back(===int===)",
+    "oldElement": "parameter void elemental2.dom.History::back(===java.lang.Object===)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.History",
+      "classSimpleName": "History",
+      "elementKind": "parameter",
+      "methodName": "back",
+      "newType": "int",
+      "oldType": "java.lang.Object",
+      "package": "elemental2.dom",
+      "parameterIndex": "0"
+    }
+  },
+  {
+    "code": "java.method.parameterTypeChanged",
+    "description": "The type of the parameter changed from 'double' to 'int'.",
+    "newElement": "parameter void elemental2.dom.History::go(===int===)",
+    "oldElement": "parameter void elemental2.dom.History::go(===double===)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.dom.History",
+      "classSimpleName": "History",
+      "elementKind": "parameter",
+      "methodName": "go",
+      "newType": "int",
+      "oldType": "double",
+      "package": "elemental2.dom",
+      "parameterIndex": "0"
+    }
+  }
+]

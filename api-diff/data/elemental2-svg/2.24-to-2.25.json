@@ -1,0 +1,854 @@
+[
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGAElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGAElement",
+    "oldElement": "field elemental2.svg.SVGAElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGAElement",
+      "classSimpleName": "SVGAElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGAElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGCircleElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGCircleElement",
+    "oldElement": "field elemental2.svg.SVGCircleElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGCircleElement",
+      "classSimpleName": "SVGCircleElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGCircleElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGClipPathElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGClipPathElement",
+    "oldElement": "field elemental2.svg.SVGClipPathElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGClipPathElement",
+      "classSimpleName": "SVGClipPathElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGClipPathElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGDefsElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGDefsElement",
+    "oldElement": "field elemental2.svg.SVGDefsElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGDefsElement",
+      "classSimpleName": "SVGDefsElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGDefsElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGDescElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGDescElement",
+    "oldElement": "field elemental2.svg.SVGDescElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGDescElement",
+      "classSimpleName": "SVGDescElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGDescElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGEllipseElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGEllipseElement",
+    "oldElement": "field elemental2.svg.SVGEllipseElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGEllipseElement",
+      "classSimpleName": "SVGEllipseElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGEllipseElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFEBlendElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFEBlendElement",
+    "oldElement": "field elemental2.svg.SVGFEBlendElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEBlendElement",
+      "classSimpleName": "SVGFEBlendElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFEBlendElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFEColorMatrixElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFEColorMatrixElement",
+    "oldElement": "field elemental2.svg.SVGFEColorMatrixElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEColorMatrixElement",
+      "classSimpleName": "SVGFEColorMatrixElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFEColorMatrixElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFEComponentTransferElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFEComponentTransferElement",
+    "oldElement": "field elemental2.svg.SVGFEComponentTransferElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEComponentTransferElement",
+      "classSimpleName": "SVGFEComponentTransferElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFEComponentTransferElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFECompositeElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFECompositeElement",
+    "oldElement": "field elemental2.svg.SVGFECompositeElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFECompositeElement",
+      "classSimpleName": "SVGFECompositeElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFECompositeElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFEConvolveMatrixElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFEConvolveMatrixElement",
+    "oldElement": "field elemental2.svg.SVGFEConvolveMatrixElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEConvolveMatrixElement",
+      "classSimpleName": "SVGFEConvolveMatrixElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFEConvolveMatrixElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFEDiffuseLightingElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFEDiffuseLightingElement",
+    "oldElement": "field elemental2.svg.SVGFEDiffuseLightingElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEDiffuseLightingElement",
+      "classSimpleName": "SVGFEDiffuseLightingElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFEDiffuseLightingElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFEDisplacementMapElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFEDisplacementMapElement",
+    "oldElement": "field elemental2.svg.SVGFEDisplacementMapElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEDisplacementMapElement",
+      "classSimpleName": "SVGFEDisplacementMapElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFEDisplacementMapElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFEDropShadowElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFEDropShadowElement",
+    "oldElement": "field elemental2.svg.SVGFEDropShadowElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEDropShadowElement",
+      "classSimpleName": "SVGFEDropShadowElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFEDropShadowElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFEFloodElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFEFloodElement",
+    "oldElement": "field elemental2.svg.SVGFEFloodElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEFloodElement",
+      "classSimpleName": "SVGFEFloodElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFEFloodElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFEGaussianBlurElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFEGaussianBlurElement",
+    "oldElement": "field elemental2.svg.SVGFEGaussianBlurElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEGaussianBlurElement",
+      "classSimpleName": "SVGFEGaussianBlurElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFEGaussianBlurElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFEImageElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFEImageElement",
+    "oldElement": "field elemental2.svg.SVGFEImageElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEImageElement",
+      "classSimpleName": "SVGFEImageElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFEImageElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFEMergeElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFEMergeElement",
+    "oldElement": "field elemental2.svg.SVGFEMergeElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEMergeElement",
+      "classSimpleName": "SVGFEMergeElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFEMergeElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFEMorphologyElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFEMorphologyElement",
+    "oldElement": "field elemental2.svg.SVGFEMorphologyElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEMorphologyElement",
+      "classSimpleName": "SVGFEMorphologyElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFEMorphologyElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFEOffsetElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFEOffsetElement",
+    "oldElement": "field elemental2.svg.SVGFEOffsetElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFEOffsetElement",
+      "classSimpleName": "SVGFEOffsetElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFEOffsetElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFESpecularLightingElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFESpecularLightingElement",
+    "oldElement": "field elemental2.svg.SVGFESpecularLightingElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFESpecularLightingElement",
+      "classSimpleName": "SVGFESpecularLightingElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFESpecularLightingElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFETileElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFETileElement",
+    "oldElement": "field elemental2.svg.SVGFETileElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFETileElement",
+      "classSimpleName": "SVGFETileElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFETileElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFETurbulenceElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFETurbulenceElement",
+    "oldElement": "field elemental2.svg.SVGFETurbulenceElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFETurbulenceElement",
+      "classSimpleName": "SVGFETurbulenceElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFETurbulenceElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGFilterElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGFilterElement",
+    "oldElement": "field elemental2.svg.SVGFilterElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGFilterElement",
+      "classSimpleName": "SVGFilterElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGFilterElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGForeignObjectElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGForeignObjectElement",
+    "oldElement": "field elemental2.svg.SVGForeignObjectElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGForeignObjectElement",
+      "classSimpleName": "SVGForeignObjectElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGForeignObjectElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGGElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGGElement",
+    "oldElement": "field elemental2.svg.SVGGElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGGElement",
+      "classSimpleName": "SVGGElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGGElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGGlyphRefElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGGlyphRefElement",
+    "oldElement": "field elemental2.svg.SVGGlyphRefElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGGlyphRefElement",
+      "classSimpleName": "SVGGlyphRefElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGGlyphRefElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGGradientElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGGradientElement",
+    "oldElement": "field elemental2.svg.SVGGradientElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGGradientElement",
+      "classSimpleName": "SVGGradientElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGGradientElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGImageElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGImageElement",
+    "oldElement": "field elemental2.svg.SVGImageElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGImageElement",
+      "classSimpleName": "SVGImageElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGImageElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGLineElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGLineElement",
+    "oldElement": "field elemental2.svg.SVGLineElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGLineElement",
+      "classSimpleName": "SVGLineElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGLineElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGMarkerElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGMarkerElement",
+    "oldElement": "field elemental2.svg.SVGMarkerElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGMarkerElement",
+      "classSimpleName": "SVGMarkerElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGMarkerElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGMaskElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGMaskElement",
+    "oldElement": "field elemental2.svg.SVGMaskElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGMaskElement",
+      "classSimpleName": "SVGMaskElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGMaskElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGPathElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGPathElement",
+    "oldElement": "field elemental2.svg.SVGPathElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGPathElement",
+      "classSimpleName": "SVGPathElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGPathElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGPatternElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGPatternElement",
+    "oldElement": "field elemental2.svg.SVGPatternElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGPatternElement",
+      "classSimpleName": "SVGPatternElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGPatternElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGPolygonElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGPolygonElement",
+    "oldElement": "field elemental2.svg.SVGPolygonElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGPolygonElement",
+      "classSimpleName": "SVGPolygonElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGPolygonElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGPolylineElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGPolylineElement",
+    "oldElement": "field elemental2.svg.SVGPolylineElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGPolylineElement",
+      "classSimpleName": "SVGPolylineElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGPolylineElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGRectElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGRectElement",
+    "oldElement": "field elemental2.svg.SVGRectElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGRectElement",
+      "classSimpleName": "SVGRectElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGRectElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGSVGElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGSVGElement",
+    "oldElement": "field elemental2.svg.SVGSVGElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGSVGElement",
+      "classSimpleName": "SVGSVGElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGSVGElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGStopElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGStopElement",
+    "oldElement": "field elemental2.svg.SVGStopElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGStopElement",
+      "classSimpleName": "SVGStopElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGStopElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGSwitchElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGSwitchElement",
+    "oldElement": "field elemental2.svg.SVGSwitchElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGSwitchElement",
+      "classSimpleName": "SVGSwitchElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGSwitchElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGSymbolElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGSymbolElement",
+    "oldElement": "field elemental2.svg.SVGSymbolElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGSymbolElement",
+      "classSimpleName": "SVGSymbolElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGSymbolElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGTextContentElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGTextContentElement",
+    "oldElement": "field elemental2.svg.SVGTextContentElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGTextContentElement",
+      "classSimpleName": "SVGTextContentElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGTextContentElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGTitleElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGTitleElement",
+    "oldElement": "field elemental2.svg.SVGTitleElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGTitleElement",
+      "classSimpleName": "SVGTitleElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGTitleElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.movedToSuperClass",
+    "description": "Field previously defined in 'elemental2.svg.SVGUseElement' was found in the superclass 'elemental2.svg.SVGElement' in the new version.",
+    "newElement": "field elemental2.svg.SVGElement.className @ elemental2.svg.SVGUseElement",
+    "oldElement": "field elemental2.svg.SVGUseElement.className",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGUseElement",
+      "classSimpleName": "SVGUseElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "newClass": "elemental2.svg.SVGElement",
+      "oldClass": "elemental2.svg.SVGUseElement",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.field.added",
+    "description": "Field added to class.",
+    "newElement": "field elemental2.svg.SVGElement.className",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGElement",
+      "classSimpleName": "SVGElement",
+      "elementKind": "field",
+      "fieldName": "className",
+      "package": "elemental2.svg"
+    }
+  }
+]

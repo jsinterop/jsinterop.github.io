@@ -1,0 +1,92 @@
+[
+  {
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "oldElement": "class elemental2.indexeddb.IndexedDbWindow",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IndexedDbWindow",
+      "classSimpleName": "IndexedDbWindow",
+      "elementKind": "class",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "oldElement": "class elemental2.indexeddb.WebkitIDBCursor",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.WebkitIDBCursor",
+      "classSimpleName": "WebkitIDBCursor",
+      "elementKind": "class",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "oldElement": "class elemental2.indexeddb.WebkitIDBKeyRange",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.WebkitIDBKeyRange",
+      "classSimpleName": "WebkitIDBKeyRange",
+      "elementKind": "class",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "oldElement": "class elemental2.indexeddb.WebkitIDBRequest",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.WebkitIDBRequest",
+      "classSimpleName": "WebkitIDBRequest",
+      "elementKind": "class",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "oldElement": "class elemental2.indexeddb.WebkitIDBTransaction",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.WebkitIDBTransaction",
+      "classSimpleName": "WebkitIDBTransaction",
+      "elementKind": "class",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.class.removed",
+    "description": "Class was removed.",
+    "oldElement": "class elemental2.indexeddb.WebkitIDBVersionChangeEvent",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.WebkitIDBVersionChangeEvent",
+      "classSimpleName": "WebkitIDBVersionChangeEvent",
+      "elementKind": "class",
+      "package": "elemental2.indexeddb"
+    }
+  }
+]
