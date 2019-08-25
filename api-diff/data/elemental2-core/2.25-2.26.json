@@ -1,0 +1,86 @@
+[
+  {
+    "code": "java.class.nowImplementsInterface",
+    "description": "Class now implements interface 'jsinterop.base.JsArrayLike<java.lang.Object>'.",
+    "newElement": "class elemental2.core.Arguments",
+    "oldElement": "class elemental2.core.Arguments<T extends java.lang.Object>",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.core.Arguments",
+      "classSimpleName": "Arguments",
+      "elementKind": "class",
+      "interface": "jsinterop.base.JsArrayLike<java.lang.Object>",
+      "package": "elemental2.core"
+    }
+  },
+  {
+    "code": "java.class.superTypeTypeParametersChanged",
+    "description": "Super type's type parameters changed from 'jsinterop.base.JsArrayLike<T extends java.lang.Object>' to 'jsinterop.base.JsArrayLike<java.lang.Object>'.",
+    "newElement": "class elemental2.core.Arguments",
+    "oldElement": "class elemental2.core.Arguments<T extends java.lang.Object>",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.core.Arguments",
+      "classSimpleName": "Arguments",
+      "elementKind": "class",
+      "newSuperType": "jsinterop.base.JsArrayLike<java.lang.Object>",
+      "oldSuperType": "jsinterop.base.JsArrayLike<T extends java.lang.Object>",
+      "package": "elemental2.core"
+    }
+  },
+  {
+    "code": "java.generics.formalTypeParameterRemoved",
+    "description": "The formal type parameter 'T' was removed from the element.",
+    "newElement": "class elemental2.core.Arguments",
+    "oldElement": "class elemental2.core.Arguments<T extends java.lang.Object>",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.core.Arguments",
+      "classSimpleName": "Arguments",
+      "elementKind": "class",
+      "package": "elemental2.core",
+      "typeParameter": "T"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method <T> elemental2.core.JsArray<T> elemental2.core.JsArray<T>::fromJavaArray(T[])",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.core.JsArray",
+      "classSimpleName": "JsArray",
+      "elementKind": "method",
+      "methodName": "fromJavaArray",
+      "package": "elemental2.core"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method T[] elemental2.core.JsArray<T>::asArray(T[])",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.core.JsArray",
+      "classSimpleName": "JsArray",
+      "elementKind": "method",
+      "methodName": "asArray",
+      "package": "elemental2.core"
+    }
+  }
+]
