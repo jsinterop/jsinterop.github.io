@@ -1,0 +1,81 @@
+[
+  {
+    "code": "java.class.added",
+    "description": "Class was added.",
+    "newElement": "class elemental2.svg.SVGGraphicsElement",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGGraphicsElement",
+      "classSimpleName": "SVGGraphicsElement",
+      "elementKind": "class",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.svg.SVGElementInstance.ChildNodesUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGElementInstance.ChildNodesUnionType",
+      "classSimpleName": "ChildNodesUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<elemental2.svg.SVGElementInstance> elemental2.svg.SVGElementInstance.ChildNodesUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGElementInstance.ChildNodesUnionType",
+      "classSimpleName": "ChildNodesUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.svg.SVGElementInstance.ChildNodesUnionType::isSVGElementInstanceArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGElementInstance.ChildNodesUnionType",
+      "classSimpleName": "ChildNodesUnionType",
+      "elementKind": "method",
+      "methodName": "isSVGElementInstanceArray",
+      "package": "elemental2.svg"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method elemental2.svg.SVGElementInstance[] elemental2.svg.SVGElementInstance.ChildNodesUnionType::asSVGElementInstanceArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.svg.SVGElementInstance.ChildNodesUnionType",
+      "classSimpleName": "ChildNodesUnionType",
+      "elementKind": "method",
+      "methodName": "asSVGElementInstanceArray",
+      "package": "elemental2.svg"
+    }
+  }
+]

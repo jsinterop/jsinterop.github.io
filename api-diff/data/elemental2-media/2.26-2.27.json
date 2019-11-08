@@ -1,0 +1,947 @@
+[
+  {
+    "code": "java.field.typeChanged",
+    "description": "The type of the field changed from 'elemental2.media.AudioWorkerParamDescriptor[]' to 'elemental2.core.JsArray<elemental2.media.AudioWorkerParamDescriptor>'.",
+    "element": "field elemental2.media.AudioWorker.parameters",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.AudioWorker",
+      "classSimpleName": "AudioWorker",
+      "elementKind": "field",
+      "fieldName": "parameters",
+      "newType": "elemental2.core.JsArray<elemental2.media.AudioWorkerParamDescriptor>",
+      "oldType": "elemental2.media.AudioWorkerParamDescriptor[]",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.field.typeChanged",
+    "description": "The type of the field changed from 'elemental2.media.AudioWorkerParamDescriptor[]' to 'elemental2.core.JsArray<elemental2.media.AudioWorkerParamDescriptor>'.",
+    "element": "field elemental2.media.AudioWorkerGlobalScope.parameters",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.AudioWorkerGlobalScope",
+      "classSimpleName": "AudioWorkerGlobalScope",
+      "elementKind": "field",
+      "fieldName": "parameters",
+      "newType": "elemental2.core.JsArray<elemental2.media.AudioWorkerParamDescriptor>",
+      "oldType": "elemental2.media.AudioWorkerParamDescriptor[]",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.returnTypeChanged",
+    "description": "The return type changed from 'elemental2.media.MediaKeySystemMediaCapability[]' to  'elemental2.core.JsArray<elemental2.media.MediaKeySystemMediaCapability>'.",
+    "newElement": "method elemental2.core.JsArray<elemental2.media.MediaKeySystemMediaCapability> elemental2.media.MediaKeySystemConfiguration::getAudioCapabilities()",
+    "oldElement": "method elemental2.media.MediaKeySystemMediaCapability[] elemental2.media.MediaKeySystemConfiguration::getAudioCapabilities()",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "getAudioCapabilities",
+      "newType": "elemental2.core.JsArray<elemental2.media.MediaKeySystemMediaCapability>",
+      "oldType": "elemental2.media.MediaKeySystemMediaCapability[]",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.returnTypeChanged",
+    "description": "The return type changed from 'elemental2.media.MediaKeySystemMediaCapability[]' to  'elemental2.core.JsArray<elemental2.media.MediaKeySystemMediaCapability>'.",
+    "newElement": "method elemental2.core.JsArray<elemental2.media.MediaKeySystemMediaCapability> elemental2.media.MediaKeySystemConfiguration::getVideoCapabilities()",
+    "oldElement": "method elemental2.media.MediaKeySystemMediaCapability[] elemental2.media.MediaKeySystemConfiguration::getVideoCapabilities()",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "getVideoCapabilities",
+      "newType": "elemental2.core.JsArray<elemental2.media.MediaKeySystemMediaCapability>",
+      "oldType": "elemental2.media.MediaKeySystemMediaCapability[]",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.returnTypeChanged",
+    "description": "The return type changed from 'java.lang.String[]' to  'elemental2.core.JsArray<java.lang.String>'.",
+    "newElement": "method elemental2.core.JsArray<java.lang.String> elemental2.media.MediaKeySystemConfiguration::getInitDataTypes()",
+    "oldElement": "method java.lang.String[] elemental2.media.MediaKeySystemConfiguration::getInitDataTypes()",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "getInitDataTypes",
+      "newType": "elemental2.core.JsArray<java.lang.String>",
+      "oldType": "java.lang.String[]",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.returnTypeChanged",
+    "description": "The return type changed from 'java.lang.String[]' to  'elemental2.core.JsArray<java.lang.String>'.",
+    "newElement": "method elemental2.core.JsArray<java.lang.String> elemental2.media.MediaKeySystemConfiguration::getSessionTypes()",
+    "oldElement": "method java.lang.String[] elemental2.media.MediaKeySystemConfiguration::getSessionTypes()",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "getSessionTypes",
+      "newType": "elemental2.core.JsArray<java.lang.String>",
+      "oldType": "java.lang.String[]",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.returnTypeTypeParametersChanged",
+    "description": "The return type changed from 'elemental2.core.JsIterator<elemental2.media.MediaKeyStatusMap.EntriesJsIteratorTypeParameterArrayUnionType[]>' to 'elemental2.core.JsIterator<elemental2.core.JsArray<elemental2.media.MediaKeyStatusMap.EntriesJsIteratorTypeParameterArrayUnionType>>'.",
+    "newElement": "method elemental2.core.JsIterator<elemental2.core.JsArray<elemental2.media.MediaKeyStatusMap.EntriesJsIteratorTypeParameterArrayUnionType>> elemental2.media.MediaKeyStatusMap::entries()",
+    "oldElement": "method elemental2.core.JsIterator<elemental2.media.MediaKeyStatusMap.EntriesJsIteratorTypeParameterArrayUnionType[]> elemental2.media.MediaKeyStatusMap::entries()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeyStatusMap",
+      "classSimpleName": "MediaKeyStatusMap",
+      "elementKind": "method",
+      "methodName": "entries",
+      "newType": "elemental2.core.JsIterator<elemental2.core.JsArray<elemental2.media.MediaKeyStatusMap.EntriesJsIteratorTypeParameterArrayUnionType>>",
+      "oldType": "elemental2.core.JsIterator<elemental2.media.MediaKeyStatusMap.EntriesJsIteratorTypeParameterArrayUnionType[]>",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.added",
+    "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
+    "newElement": "method elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(double[], double[]) @ elemental2.media.AudioContext",
+    "oldElement": "method elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(jsinterop.base.JsArrayLike<java.lang.Double>, jsinterop.base.JsArrayLike<java.lang.Double>) @ elemental2.media.AudioContext",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.media.AudioContext",
+      "classSimpleName": "AudioContext",
+      "elementKind": "method",
+      "methodName": "createIIRFilter",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.added",
+    "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
+    "newElement": "method elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(double[], double[]) @ elemental2.media.OfflineAudioContext",
+    "oldElement": "method elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(jsinterop.base.JsArrayLike<java.lang.Double>, jsinterop.base.JsArrayLike<java.lang.Double>) @ elemental2.media.OfflineAudioContext",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.media.OfflineAudioContext",
+      "classSimpleName": "OfflineAudioContext",
+      "elementKind": "method",
+      "methodName": "createIIRFilter",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.added",
+    "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
+    "newElement": "method elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(double[], double[])",
+    "oldElement": "method elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(jsinterop.base.JsArrayLike<java.lang.Double>, jsinterop.base.JsArrayLike<java.lang.Double>)",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.media.BaseAudioContext",
+      "classSimpleName": "BaseAudioContext",
+      "elementKind": "method",
+      "methodName": "createIIRFilter",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.nowFinal",
+    "description": "Method is now final.",
+    "newElement": "method elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(double[], double[])",
+    "oldElement": "method elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(jsinterop.base.JsArrayLike<java.lang.Double>, jsinterop.base.JsArrayLike<java.lang.Double>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.BaseAudioContext",
+      "classSimpleName": "BaseAudioContext",
+      "elementKind": "method",
+      "methodName": "createIIRFilter",
+      "newModifiers": "public final",
+      "oldModifiers": "public native",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.removed",
+    "description": "Element no longer annotated with 'jsinterop.annotations.JsOverlay'.",
+    "newElement": "method elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(jsinterop.base.JsArrayLike<java.lang.Double>, jsinterop.base.JsArrayLike<java.lang.Double>) @ elemental2.media.AudioContext",
+    "oldElement": "method elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(java.lang.Double[], java.lang.Double[]) @ elemental2.media.AudioContext",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.media.AudioContext",
+      "classSimpleName": "AudioContext",
+      "elementKind": "method",
+      "methodName": "createIIRFilter",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.removed",
+    "description": "Element no longer annotated with 'jsinterop.annotations.JsOverlay'.",
+    "newElement": "method elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(jsinterop.base.JsArrayLike<java.lang.Double>, jsinterop.base.JsArrayLike<java.lang.Double>) @ elemental2.media.OfflineAudioContext",
+    "oldElement": "method elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(java.lang.Double[], java.lang.Double[]) @ elemental2.media.OfflineAudioContext",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.media.OfflineAudioContext",
+      "classSimpleName": "OfflineAudioContext",
+      "elementKind": "method",
+      "methodName": "createIIRFilter",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.removed",
+    "description": "Element no longer annotated with 'jsinterop.annotations.JsOverlay'.",
+    "newElement": "method elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(jsinterop.base.JsArrayLike<java.lang.Double>, jsinterop.base.JsArrayLike<java.lang.Double>)",
+    "oldElement": "method elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(java.lang.Double[], java.lang.Double[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.media.BaseAudioContext",
+      "classSimpleName": "BaseAudioContext",
+      "elementKind": "method",
+      "methodName": "createIIRFilter",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.noLongerFinal",
+    "description": "Method is no longer final.",
+    "newElement": "method elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(jsinterop.base.JsArrayLike<java.lang.Double>, jsinterop.base.JsArrayLike<java.lang.Double>)",
+    "oldElement": "method elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(java.lang.Double[], java.lang.Double[])",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.BaseAudioContext",
+      "classSimpleName": "BaseAudioContext",
+      "elementKind": "method",
+      "methodName": "createIIRFilter",
+      "newModifiers": "public native",
+      "oldModifiers": "public final",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method elemental2.promise.Promise<elemental2.media.MediaKeySystemAccess> elemental2.media.MediaNavigator::requestMediaKeySystemAccess(java.lang.String, elemental2.core.JsArray<elemental2.media.MediaKeySystemConfiguration>)",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaNavigator",
+      "classSimpleName": "MediaNavigator",
+      "elementKind": "method",
+      "methodName": "requestMediaKeySystemAccess",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.added",
+    "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
+    "element": "method elemental2.promise.Promise<elemental2.media.MediaKeySystemAccess> elemental2.media.MediaNavigator::requestMediaKeySystemAccess(java.lang.String, elemental2.media.MediaKeySystemConfiguration[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.media.MediaNavigator",
+      "classSimpleName": "MediaNavigator",
+      "elementKind": "method",
+      "methodName": "requestMediaKeySystemAccess",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.nowFinal",
+    "description": "Method is now final.",
+    "element": "method elemental2.promise.Promise<elemental2.media.MediaKeySystemAccess> elemental2.media.MediaNavigator::requestMediaKeySystemAccess(java.lang.String, elemental2.media.MediaKeySystemConfiguration[])",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaNavigator",
+      "classSimpleName": "MediaNavigator",
+      "elementKind": "method",
+      "methodName": "requestMediaKeySystemAccess",
+      "newModifiers": "public final",
+      "oldModifiers": "public native",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method java.lang.Object elemental2.media.AudioWorker::postMessage(java.lang.Object, elemental2.core.JsArray<elemental2.core.Transferable>)",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.AudioWorker",
+      "classSimpleName": "AudioWorker",
+      "elementKind": "method",
+      "methodName": "postMessage",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.added",
+    "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
+    "element": "method java.lang.Object elemental2.media.AudioWorker::postMessage(java.lang.Object, elemental2.core.Transferable[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.media.AudioWorker",
+      "classSimpleName": "AudioWorker",
+      "elementKind": "method",
+      "methodName": "postMessage",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.nowFinal",
+    "description": "Method is now final.",
+    "element": "method java.lang.Object elemental2.media.AudioWorker::postMessage(java.lang.Object, elemental2.core.Transferable[])",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.AudioWorker",
+      "classSimpleName": "AudioWorker",
+      "elementKind": "method",
+      "methodName": "postMessage",
+      "newModifiers": "public final",
+      "oldModifiers": "public native",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method java.lang.Object elemental2.media.AudioWorkerNode::postMessage(java.lang.Object, elemental2.core.JsArray<elemental2.core.Transferable>)",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.AudioWorkerNode",
+      "classSimpleName": "AudioWorkerNode",
+      "elementKind": "method",
+      "methodName": "postMessage",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.added",
+    "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
+    "element": "method java.lang.Object elemental2.media.AudioWorkerNode::postMessage(java.lang.Object, elemental2.core.Transferable[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.media.AudioWorkerNode",
+      "classSimpleName": "AudioWorkerNode",
+      "elementKind": "method",
+      "methodName": "postMessage",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.nowFinal",
+    "description": "Method is now final.",
+    "element": "method java.lang.Object elemental2.media.AudioWorkerNode::postMessage(java.lang.Object, elemental2.core.Transferable[])",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.AudioWorkerNode",
+      "classSimpleName": "AudioWorkerNode",
+      "elementKind": "method",
+      "methodName": "postMessage",
+      "newModifiers": "public final",
+      "oldModifiers": "public native",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method java.lang.Object elemental2.media.AudioWorkerNodeProcessor::postMessage(java.lang.Object, elemental2.core.JsArray<elemental2.core.Transferable>)",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.AudioWorkerNodeProcessor",
+      "classSimpleName": "AudioWorkerNodeProcessor",
+      "elementKind": "method",
+      "methodName": "postMessage",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.added",
+    "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
+    "element": "method java.lang.Object elemental2.media.AudioWorkerNodeProcessor::postMessage(java.lang.Object, elemental2.core.Transferable[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.media.AudioWorkerNodeProcessor",
+      "classSimpleName": "AudioWorkerNodeProcessor",
+      "elementKind": "method",
+      "methodName": "postMessage",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.nowFinal",
+    "description": "Method is now final.",
+    "element": "method java.lang.Object elemental2.media.AudioWorkerNodeProcessor::postMessage(java.lang.Object, elemental2.core.Transferable[])",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.AudioWorkerNodeProcessor",
+      "classSimpleName": "AudioWorkerNodeProcessor",
+      "elementKind": "method",
+      "methodName": "postMessage",
+      "newModifiers": "public final",
+      "oldModifiers": "public native",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.addedToInterface",
+    "description": "Method was added to an interface.",
+    "newElement": "method void elemental2.media.MediaKeySystemConfiguration::setAudioCapabilities(elemental2.core.JsArray<elemental2.media.MediaKeySystemMediaCapability>)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "NON_BREAKING",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setAudioCapabilities",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.added",
+    "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
+    "element": "method void elemental2.media.MediaKeySystemConfiguration::setAudioCapabilities(elemental2.media.MediaKeySystemMediaCapability[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setAudioCapabilities",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.removed",
+    "description": "Element no longer annotated with 'jsinterop.annotations.JsProperty'.",
+    "element": "method void elemental2.media.MediaKeySystemConfiguration::setAudioCapabilities(elemental2.media.MediaKeySystemMediaCapability[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsProperty",
+      "annotationType": "jsinterop.annotations.JsProperty",
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setAudioCapabilities",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.noLongerAbstract",
+    "description": "Method no longer abstract",
+    "element": "method void elemental2.media.MediaKeySystemConfiguration::setAudioCapabilities(elemental2.media.MediaKeySystemMediaCapability[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setAudioCapabilities",
+      "newModifiers": "public default",
+      "oldModifiers": "public abstract",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.nowDefault",
+    "description": "Method has the default implementation in the interface now.",
+    "element": "method void elemental2.media.MediaKeySystemConfiguration::setAudioCapabilities(elemental2.media.MediaKeySystemMediaCapability[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setAudioCapabilities",
+      "newModifiers": "public default",
+      "oldModifiers": "public abstract",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.addedToInterface",
+    "description": "Method was added to an interface.",
+    "newElement": "method void elemental2.media.MediaKeySystemConfiguration::setInitDataTypes(elemental2.core.JsArray<java.lang.String>)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "NON_BREAKING",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setInitDataTypes",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.added",
+    "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
+    "element": "method void elemental2.media.MediaKeySystemConfiguration::setInitDataTypes(java.lang.String[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setInitDataTypes",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.removed",
+    "description": "Element no longer annotated with 'jsinterop.annotations.JsProperty'.",
+    "element": "method void elemental2.media.MediaKeySystemConfiguration::setInitDataTypes(java.lang.String[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsProperty",
+      "annotationType": "jsinterop.annotations.JsProperty",
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setInitDataTypes",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.noLongerAbstract",
+    "description": "Method no longer abstract",
+    "element": "method void elemental2.media.MediaKeySystemConfiguration::setInitDataTypes(java.lang.String[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setInitDataTypes",
+      "newModifiers": "public default",
+      "oldModifiers": "public abstract",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.nowDefault",
+    "description": "Method has the default implementation in the interface now.",
+    "element": "method void elemental2.media.MediaKeySystemConfiguration::setInitDataTypes(java.lang.String[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setInitDataTypes",
+      "newModifiers": "public default",
+      "oldModifiers": "public abstract",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.addedToInterface",
+    "description": "Method was added to an interface.",
+    "newElement": "method void elemental2.media.MediaKeySystemConfiguration::setSessionTypes(elemental2.core.JsArray<java.lang.String>)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "NON_BREAKING",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setSessionTypes",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.added",
+    "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
+    "element": "method void elemental2.media.MediaKeySystemConfiguration::setSessionTypes(java.lang.String[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setSessionTypes",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.removed",
+    "description": "Element no longer annotated with 'jsinterop.annotations.JsProperty'.",
+    "element": "method void elemental2.media.MediaKeySystemConfiguration::setSessionTypes(java.lang.String[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsProperty",
+      "annotationType": "jsinterop.annotations.JsProperty",
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setSessionTypes",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.noLongerAbstract",
+    "description": "Method no longer abstract",
+    "element": "method void elemental2.media.MediaKeySystemConfiguration::setSessionTypes(java.lang.String[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setSessionTypes",
+      "newModifiers": "public default",
+      "oldModifiers": "public abstract",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.nowDefault",
+    "description": "Method has the default implementation in the interface now.",
+    "element": "method void elemental2.media.MediaKeySystemConfiguration::setSessionTypes(java.lang.String[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setSessionTypes",
+      "newModifiers": "public default",
+      "oldModifiers": "public abstract",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.addedToInterface",
+    "description": "Method was added to an interface.",
+    "newElement": "method void elemental2.media.MediaKeySystemConfiguration::setVideoCapabilities(elemental2.core.JsArray<elemental2.media.MediaKeySystemMediaCapability>)",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "NON_BREAKING",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setVideoCapabilities",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.added",
+    "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
+    "element": "method void elemental2.media.MediaKeySystemConfiguration::setVideoCapabilities(elemental2.media.MediaKeySystemMediaCapability[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setVideoCapabilities",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.annotation.removed",
+    "description": "Element no longer annotated with 'jsinterop.annotations.JsProperty'.",
+    "element": "method void elemental2.media.MediaKeySystemConfiguration::setVideoCapabilities(elemental2.media.MediaKeySystemMediaCapability[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsProperty",
+      "annotationType": "jsinterop.annotations.JsProperty",
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setVideoCapabilities",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.noLongerAbstract",
+    "description": "Method no longer abstract",
+    "element": "method void elemental2.media.MediaKeySystemConfiguration::setVideoCapabilities(elemental2.media.MediaKeySystemMediaCapability[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setVideoCapabilities",
+      "newModifiers": "public default",
+      "oldModifiers": "public abstract",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.nowDefault",
+    "description": "Method has the default implementation in the interface now.",
+    "element": "method void elemental2.media.MediaKeySystemConfiguration::setVideoCapabilities(elemental2.media.MediaKeySystemMediaCapability[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.MediaKeySystemConfiguration",
+      "classSimpleName": "MediaKeySystemConfiguration",
+      "elementKind": "method",
+      "methodName": "setVideoCapabilities",
+      "newModifiers": "public default",
+      "oldModifiers": "public abstract",
+      "package": "elemental2.media"
+    }
+  },
+  {
+    "code": "java.method.parameterTypeChanged",
+    "description": "The type of the parameter changed from 'jsinterop.base.JsArrayLike<java.lang.Double>' to 'double[]'.",
+    "newElement": "parameter elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(===double[]===, double[])",
+    "oldElement": "parameter elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(===jsinterop.base.JsArrayLike<java.lang.Double>===, jsinterop.base.JsArrayLike<java.lang.Double>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.BaseAudioContext",
+      "classSimpleName": "BaseAudioContext",
+      "elementKind": "parameter",
+      "methodName": "createIIRFilter",
+      "newType": "double[]",
+      "oldType": "jsinterop.base.JsArrayLike<java.lang.Double>",
+      "package": "elemental2.media",
+      "parameterIndex": "0"
+    }
+  },
+  {
+    "code": "java.method.parameterTypeChanged",
+    "description": "The type of the parameter changed from 'java.lang.Double[]' to 'jsinterop.base.JsArrayLike<java.lang.Double>'.",
+    "newElement": "parameter elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(===jsinterop.base.JsArrayLike<java.lang.Double>===, jsinterop.base.JsArrayLike<java.lang.Double>)",
+    "oldElement": "parameter elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(===java.lang.Double[]===, java.lang.Double[])",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.BaseAudioContext",
+      "classSimpleName": "BaseAudioContext",
+      "elementKind": "parameter",
+      "methodName": "createIIRFilter",
+      "newType": "jsinterop.base.JsArrayLike<java.lang.Double>",
+      "oldType": "java.lang.Double[]",
+      "package": "elemental2.media",
+      "parameterIndex": "0"
+    }
+  },
+  {
+    "code": "java.method.parameterTypeChanged",
+    "description": "The type of the parameter changed from 'jsinterop.base.JsArrayLike<java.lang.Double>' to 'double[]'.",
+    "newElement": "parameter elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(double[], ===double[]===)",
+    "oldElement": "parameter elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(jsinterop.base.JsArrayLike<java.lang.Double>, ===jsinterop.base.JsArrayLike<java.lang.Double>===)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.BaseAudioContext",
+      "classSimpleName": "BaseAudioContext",
+      "elementKind": "parameter",
+      "methodName": "createIIRFilter",
+      "newType": "double[]",
+      "oldType": "jsinterop.base.JsArrayLike<java.lang.Double>",
+      "package": "elemental2.media",
+      "parameterIndex": "1"
+    }
+  },
+  {
+    "code": "java.method.parameterTypeChanged",
+    "description": "The type of the parameter changed from 'java.lang.Double[]' to 'jsinterop.base.JsArrayLike<java.lang.Double>'.",
+    "newElement": "parameter elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(jsinterop.base.JsArrayLike<java.lang.Double>, ===jsinterop.base.JsArrayLike<java.lang.Double>===)",
+    "oldElement": "parameter elemental2.media.IIRFilterNode elemental2.media.BaseAudioContext::createIIRFilter(java.lang.Double[], ===java.lang.Double[]===)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.media.BaseAudioContext",
+      "classSimpleName": "BaseAudioContext",
+      "elementKind": "parameter",
+      "methodName": "createIIRFilter",
+      "newType": "jsinterop.base.JsArrayLike<java.lang.Double>",
+      "oldType": "java.lang.Double[]",
+      "package": "elemental2.media",
+      "parameterIndex": "1"
+    }
+  }
+]

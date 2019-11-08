@@ -1,0 +1,59 @@
+[
+  {
+    "code": "java.method.returnTypeChanged",
+    "description": "The return type changed from 'elemental2.core.ArrayBuffer[]' to  'elemental2.core.JsArray<elemental2.core.ArrayBuffer>'.",
+    "newElement": "method elemental2.core.JsArray<elemental2.core.ArrayBuffer> elemental2.webassembly.webassembly.Module::customSections(elemental2.webassembly.webassembly.Module, java.lang.String)",
+    "oldElement": "method elemental2.core.ArrayBuffer[] elemental2.webassembly.webassembly.Module::customSections(elemental2.webassembly.webassembly.Module, java.lang.String)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webassembly.webassembly.Module",
+      "classSimpleName": "Module",
+      "elementKind": "method",
+      "methodName": "customSections",
+      "newType": "elemental2.core.JsArray<elemental2.core.ArrayBuffer>",
+      "oldType": "elemental2.core.ArrayBuffer[]",
+      "package": "elemental2.webassembly.webassembly"
+    }
+  },
+  {
+    "code": "java.method.returnTypeChanged",
+    "description": "The return type changed from 'elemental2.webassembly.webassembly.Module.ExportsReturnType[]' to  'elemental2.core.JsArray<elemental2.webassembly.webassembly.Module.ExportsReturnType>'.",
+    "newElement": "method elemental2.core.JsArray<elemental2.webassembly.webassembly.Module.ExportsReturnType> elemental2.webassembly.webassembly.Module::exports(elemental2.webassembly.webassembly.Module)",
+    "oldElement": "method elemental2.webassembly.webassembly.Module.ExportsReturnType[] elemental2.webassembly.webassembly.Module::exports(elemental2.webassembly.webassembly.Module)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webassembly.webassembly.Module",
+      "classSimpleName": "Module",
+      "elementKind": "method",
+      "methodName": "exports",
+      "newType": "elemental2.core.JsArray<elemental2.webassembly.webassembly.Module.ExportsReturnType>",
+      "oldType": "elemental2.webassembly.webassembly.Module.ExportsReturnType[]",
+      "package": "elemental2.webassembly.webassembly"
+    }
+  },
+  {
+    "code": "java.method.returnTypeChanged",
+    "description": "The return type changed from 'elemental2.webassembly.webassembly.Module.ImportsReturnType[]' to  'elemental2.core.JsArray<elemental2.webassembly.webassembly.Module.ImportsReturnType>'.",
+    "newElement": "method elemental2.core.JsArray<elemental2.webassembly.webassembly.Module.ImportsReturnType> elemental2.webassembly.webassembly.Module::imports(elemental2.webassembly.webassembly.Module)",
+    "oldElement": "method elemental2.webassembly.webassembly.Module.ImportsReturnType[] elemental2.webassembly.webassembly.Module::imports(elemental2.webassembly.webassembly.Module)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webassembly.webassembly.Module",
+      "classSimpleName": "Module",
+      "elementKind": "method",
+      "methodName": "imports",
+      "newType": "elemental2.core.JsArray<elemental2.webassembly.webassembly.Module.ImportsReturnType>",
+      "oldType": "elemental2.webassembly.webassembly.Module.ImportsReturnType[]",
+      "package": "elemental2.webassembly.webassembly"
+    }
+  }
+]

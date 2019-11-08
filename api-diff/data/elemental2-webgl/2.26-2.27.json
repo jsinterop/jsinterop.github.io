@@ -1,0 +1,1293 @@
+[
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform1fvValueUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform1fvValueUnionType",
+      "classSimpleName": "Uniform1fvValueUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType",
+      "classSimpleName": "Uniform1ivValueUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform2fvValueUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform2fvValueUnionType",
+      "classSimpleName": "Uniform2fvValueUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType",
+      "classSimpleName": "Uniform2ivValueUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform3fvValueUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform3fvValueUnionType",
+      "classSimpleName": "Uniform3fvValueUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType",
+      "classSimpleName": "Uniform3ivValueUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform4fvValueUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform4fvValueUnionType",
+      "classSimpleName": "Uniform4fvValueUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType",
+      "classSimpleName": "Uniform4ivValueUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.UniformMatrix2fvDataUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.UniformMatrix2fvDataUnionType",
+      "classSimpleName": "UniformMatrix2fvDataUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.UniformMatrix3fvDataUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.UniformMatrix3fvDataUnionType",
+      "classSimpleName": "UniformMatrix3fvDataUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.UniformMatrix4fvDataUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.UniformMatrix4fvDataUnionType",
+      "classSimpleName": "UniformMatrix4fvDataUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.VertexAttrib1fvValuesUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.VertexAttrib1fvValuesUnionType",
+      "classSimpleName": "VertexAttrib1fvValuesUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.VertexAttrib2fvValuesUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.VertexAttrib2fvValuesUnionType",
+      "classSimpleName": "VertexAttrib2fvValuesUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.VertexAttrib3fvValuesUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.VertexAttrib3fvValuesUnionType",
+      "classSimpleName": "VertexAttrib3fvValuesUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.webgl.WebGLRenderingContext.VertexAttrib4fvValuesUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.VertexAttrib4fvValuesUnionType",
+      "classSimpleName": "VertexAttrib4fvValuesUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.returnTypeChanged",
+    "description": "The return type changed from 'elemental2.webgl.WebGLShader[]' to  'elemental2.core.JsArray<elemental2.webgl.WebGLShader>'.",
+    "newElement": "method elemental2.core.JsArray<elemental2.webgl.WebGLShader> elemental2.webgl.WebGLRenderingContext::getAttachedShaders(elemental2.webgl.WebGLProgram)",
+    "oldElement": "method elemental2.webgl.WebGLShader[] elemental2.webgl.WebGLRenderingContext::getAttachedShaders(elemental2.webgl.WebGLProgram)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "getAttachedShaders",
+      "newType": "elemental2.core.JsArray<elemental2.webgl.WebGLShader>",
+      "oldType": "elemental2.webgl.WebGLShader[]",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Double> elemental2.webgl.WebGLRenderingContext.Uniform1fvValueUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform1fvValueUnionType",
+      "classSimpleName": "Uniform1fvValueUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Double> elemental2.webgl.WebGLRenderingContext.Uniform2fvValueUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform2fvValueUnionType",
+      "classSimpleName": "Uniform2fvValueUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Double> elemental2.webgl.WebGLRenderingContext.Uniform3fvValueUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform3fvValueUnionType",
+      "classSimpleName": "Uniform3fvValueUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Double> elemental2.webgl.WebGLRenderingContext.Uniform4fvValueUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform4fvValueUnionType",
+      "classSimpleName": "Uniform4fvValueUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Double> elemental2.webgl.WebGLRenderingContext.UniformMatrix2fvDataUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.UniformMatrix2fvDataUnionType",
+      "classSimpleName": "UniformMatrix2fvDataUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Double> elemental2.webgl.WebGLRenderingContext.UniformMatrix3fvDataUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.UniformMatrix3fvDataUnionType",
+      "classSimpleName": "UniformMatrix3fvDataUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Double> elemental2.webgl.WebGLRenderingContext.UniformMatrix4fvDataUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.UniformMatrix4fvDataUnionType",
+      "classSimpleName": "UniformMatrix4fvDataUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Double> elemental2.webgl.WebGLRenderingContext.VertexAttrib1fvValuesUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.VertexAttrib1fvValuesUnionType",
+      "classSimpleName": "VertexAttrib1fvValuesUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Double> elemental2.webgl.WebGLRenderingContext.VertexAttrib2fvValuesUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.VertexAttrib2fvValuesUnionType",
+      "classSimpleName": "VertexAttrib2fvValuesUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Double> elemental2.webgl.WebGLRenderingContext.VertexAttrib3fvValuesUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.VertexAttrib3fvValuesUnionType",
+      "classSimpleName": "VertexAttrib3fvValuesUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Double> elemental2.webgl.WebGLRenderingContext.VertexAttrib4fvValuesUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.VertexAttrib4fvValuesUnionType",
+      "classSimpleName": "VertexAttrib4fvValuesUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType",
+      "classSimpleName": "Uniform1ivValueUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType",
+      "classSimpleName": "Uniform2ivValueUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType",
+      "classSimpleName": "Uniform3ivValueUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType",
+      "classSimpleName": "Uniform4ivValueUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.returnTypeChanged",
+    "description": "The return type changed from 'java.lang.String[]' to  'elemental2.core.JsArray<java.lang.String>'.",
+    "newElement": "method elemental2.core.JsArray<java.lang.String> elemental2.webgl.WebGLRenderingContext::getSupportedExtensions()",
+    "oldElement": "method java.lang.String[] elemental2.webgl.WebGLRenderingContext::getSupportedExtensions()",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "getSupportedExtensions",
+      "newType": "elemental2.core.JsArray<java.lang.String>",
+      "oldType": "java.lang.String[]",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.annotation.added",
+    "description": "Element newly annotated with 'jsinterop.annotations.JsOverlay'.",
+    "element": "method void elemental2.webgl.WEBGL_draw_buffers::drawBuffersWEBGL(double[])",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsOverlay",
+      "annotationType": "jsinterop.annotations.JsOverlay",
+      "classQualifiedName": "elemental2.webgl.WEBGL_draw_buffers",
+      "classSimpleName": "WEBGL_draw_buffers",
+      "elementKind": "method",
+      "methodName": "drawBuffersWEBGL",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.nowFinal",
+    "description": "Method is now final.",
+    "element": "method void elemental2.webgl.WEBGL_draw_buffers::drawBuffersWEBGL(double[])",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WEBGL_draw_buffers",
+      "classSimpleName": "WEBGL_draw_buffers",
+      "elementKind": "method",
+      "methodName": "drawBuffersWEBGL",
+      "newModifiers": "public final",
+      "oldModifiers": "public native",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.added",
+    "description": "Method was added.",
+    "newElement": "method void elemental2.webgl.WEBGL_draw_buffers::drawBuffersWEBGL(elemental2.core.JsArray<java.lang.Double>)",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WEBGL_draw_buffers",
+      "classSimpleName": "WEBGL_draw_buffers",
+      "elementKind": "method",
+      "methodName": "drawBuffersWEBGL",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.webgl.WebGLRenderingContext::uniform1fv(elemental2.webgl.WebGLUniformLocation, elemental2.core.JsArray<java.lang.Double>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "uniform1fv",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.webgl.WebGLRenderingContext::uniform1iv(elemental2.webgl.WebGLUniformLocation, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "uniform1iv",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.webgl.WebGLRenderingContext::uniform2fv(elemental2.webgl.WebGLUniformLocation, elemental2.core.JsArray<java.lang.Double>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "uniform2fv",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.webgl.WebGLRenderingContext::uniform2iv(elemental2.webgl.WebGLUniformLocation, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "uniform2iv",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.webgl.WebGLRenderingContext::uniform3fv(elemental2.webgl.WebGLUniformLocation, elemental2.core.JsArray<java.lang.Double>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "uniform3fv",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.webgl.WebGLRenderingContext::uniform3iv(elemental2.webgl.WebGLUniformLocation, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "uniform3iv",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.webgl.WebGLRenderingContext::uniform4fv(elemental2.webgl.WebGLUniformLocation, elemental2.core.JsArray<java.lang.Double>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "uniform4fv",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.webgl.WebGLRenderingContext::uniform4iv(elemental2.webgl.WebGLUniformLocation, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "uniform4iv",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.webgl.WebGLRenderingContext::uniformMatrix2fv(elemental2.webgl.WebGLUniformLocation, boolean, elemental2.core.JsArray<java.lang.Double>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "uniformMatrix2fv",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.webgl.WebGLRenderingContext::uniformMatrix3fv(elemental2.webgl.WebGLUniformLocation, boolean, elemental2.core.JsArray<java.lang.Double>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "uniformMatrix3fv",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.webgl.WebGLRenderingContext::uniformMatrix4fv(elemental2.webgl.WebGLUniformLocation, boolean, elemental2.core.JsArray<java.lang.Double>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "uniformMatrix4fv",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.webgl.WebGLRenderingContext::vertexAttrib1fv(int, elemental2.core.JsArray<java.lang.Double>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "vertexAttrib1fv",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.webgl.WebGLRenderingContext::vertexAttrib2fv(int, elemental2.core.JsArray<java.lang.Double>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "vertexAttrib2fv",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.webgl.WebGLRenderingContext::vertexAttrib3fv(int, elemental2.core.JsArray<java.lang.Double>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "vertexAttrib3fv",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.webgl.WebGLRenderingContext::vertexAttrib4fv(int, elemental2.core.JsArray<java.lang.Double>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext",
+      "classSimpleName": "WebGLRenderingContext",
+      "elementKind": "method",
+      "methodName": "vertexAttrib4fv",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform1fvValueUnionType::isDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform1fvValueUnionType",
+      "classSimpleName": "Uniform1fvValueUnionType",
+      "elementKind": "method",
+      "methodName": "isDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType",
+      "classSimpleName": "Uniform1ivValueUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform2fvValueUnionType::isDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform2fvValueUnionType",
+      "classSimpleName": "Uniform2fvValueUnionType",
+      "elementKind": "method",
+      "methodName": "isDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType",
+      "classSimpleName": "Uniform2ivValueUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform3fvValueUnionType::isDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform3fvValueUnionType",
+      "classSimpleName": "Uniform3fvValueUnionType",
+      "elementKind": "method",
+      "methodName": "isDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType",
+      "classSimpleName": "Uniform3ivValueUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform4fvValueUnionType::isDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform4fvValueUnionType",
+      "classSimpleName": "Uniform4fvValueUnionType",
+      "elementKind": "method",
+      "methodName": "isDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType",
+      "classSimpleName": "Uniform4ivValueUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.UniformMatrix2fvDataUnionType::isDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.UniformMatrix2fvDataUnionType",
+      "classSimpleName": "UniformMatrix2fvDataUnionType",
+      "elementKind": "method",
+      "methodName": "isDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.UniformMatrix3fvDataUnionType::isDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.UniformMatrix3fvDataUnionType",
+      "classSimpleName": "UniformMatrix3fvDataUnionType",
+      "elementKind": "method",
+      "methodName": "isDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.UniformMatrix4fvDataUnionType::isDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.UniformMatrix4fvDataUnionType",
+      "classSimpleName": "UniformMatrix4fvDataUnionType",
+      "elementKind": "method",
+      "methodName": "isDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.VertexAttrib1fvValuesUnionType::isDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.VertexAttrib1fvValuesUnionType",
+      "classSimpleName": "VertexAttrib1fvValuesUnionType",
+      "elementKind": "method",
+      "methodName": "isDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.VertexAttrib2fvValuesUnionType::isDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.VertexAttrib2fvValuesUnionType",
+      "classSimpleName": "VertexAttrib2fvValuesUnionType",
+      "elementKind": "method",
+      "methodName": "isDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.VertexAttrib3fvValuesUnionType::isDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.VertexAttrib3fvValuesUnionType",
+      "classSimpleName": "VertexAttrib3fvValuesUnionType",
+      "elementKind": "method",
+      "methodName": "isDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.webgl.WebGLRenderingContext.VertexAttrib4fvValuesUnionType::isDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.VertexAttrib4fvValuesUnionType",
+      "classSimpleName": "VertexAttrib4fvValuesUnionType",
+      "elementKind": "method",
+      "methodName": "isDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method double[] elemental2.webgl.WebGLRenderingContext.Uniform1fvValueUnionType::asDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform1fvValueUnionType",
+      "classSimpleName": "Uniform1fvValueUnionType",
+      "elementKind": "method",
+      "methodName": "asDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method double[] elemental2.webgl.WebGLRenderingContext.Uniform2fvValueUnionType::asDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform2fvValueUnionType",
+      "classSimpleName": "Uniform2fvValueUnionType",
+      "elementKind": "method",
+      "methodName": "asDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method double[] elemental2.webgl.WebGLRenderingContext.Uniform3fvValueUnionType::asDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform3fvValueUnionType",
+      "classSimpleName": "Uniform3fvValueUnionType",
+      "elementKind": "method",
+      "methodName": "asDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method double[] elemental2.webgl.WebGLRenderingContext.Uniform4fvValueUnionType::asDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform4fvValueUnionType",
+      "classSimpleName": "Uniform4fvValueUnionType",
+      "elementKind": "method",
+      "methodName": "asDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method double[] elemental2.webgl.WebGLRenderingContext.UniformMatrix2fvDataUnionType::asDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.UniformMatrix2fvDataUnionType",
+      "classSimpleName": "UniformMatrix2fvDataUnionType",
+      "elementKind": "method",
+      "methodName": "asDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method double[] elemental2.webgl.WebGLRenderingContext.UniformMatrix3fvDataUnionType::asDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.UniformMatrix3fvDataUnionType",
+      "classSimpleName": "UniformMatrix3fvDataUnionType",
+      "elementKind": "method",
+      "methodName": "asDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method double[] elemental2.webgl.WebGLRenderingContext.UniformMatrix4fvDataUnionType::asDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.UniformMatrix4fvDataUnionType",
+      "classSimpleName": "UniformMatrix4fvDataUnionType",
+      "elementKind": "method",
+      "methodName": "asDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method double[] elemental2.webgl.WebGLRenderingContext.VertexAttrib1fvValuesUnionType::asDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.VertexAttrib1fvValuesUnionType",
+      "classSimpleName": "VertexAttrib1fvValuesUnionType",
+      "elementKind": "method",
+      "methodName": "asDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method double[] elemental2.webgl.WebGLRenderingContext.VertexAttrib2fvValuesUnionType::asDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.VertexAttrib2fvValuesUnionType",
+      "classSimpleName": "VertexAttrib2fvValuesUnionType",
+      "elementKind": "method",
+      "methodName": "asDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method double[] elemental2.webgl.WebGLRenderingContext.VertexAttrib3fvValuesUnionType::asDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.VertexAttrib3fvValuesUnionType",
+      "classSimpleName": "VertexAttrib3fvValuesUnionType",
+      "elementKind": "method",
+      "methodName": "asDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method double[] elemental2.webgl.WebGLRenderingContext.VertexAttrib4fvValuesUnionType::asDoubleArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.VertexAttrib4fvValuesUnionType",
+      "classSimpleName": "VertexAttrib4fvValuesUnionType",
+      "elementKind": "method",
+      "methodName": "asDoubleArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform1ivValueUnionType",
+      "classSimpleName": "Uniform1ivValueUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform2ivValueUnionType",
+      "classSimpleName": "Uniform2ivValueUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform3ivValueUnionType",
+      "classSimpleName": "Uniform3ivValueUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.webgl"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.webgl.WebGLRenderingContext.Uniform4ivValueUnionType",
+      "classSimpleName": "Uniform4ivValueUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.webgl"
+    }
+  }
+]

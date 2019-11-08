@@ -1,0 +1,3335 @@
+[
+  {
+    "code": "java.annotation.attributeValueChanged",
+    "description": "Attribute 'name' of annotation 'jsinterop.annotations.JsType' changed value from '\"window\"' to '\"goog.global\"'.",
+    "element": "class elemental2.indexeddb.IndexedDbGlobal",
+    "classification": {
+      "SOURCE": "EQUIVALENT",
+      "BINARY": "EQUIVALENT",
+      "SEMANTIC": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "annotation": "@jsinterop.annotations.JsType(isNative = true, name = \"goog.global\", namespace = \"<global>\")",
+      "annotationType": "jsinterop.annotations.JsType",
+      "attribute": "name",
+      "classQualifiedName": "elemental2.indexeddb.IndexedDbGlobal",
+      "classSimpleName": "IndexedDbGlobal",
+      "elementKind": "class",
+      "newValue": "\"goog.global\"",
+      "oldValue": "\"window\"",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyKeyUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyKeyUnionType",
+      "classSimpleName": "ContinuePrimaryKeyKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyPrimaryKeyUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyPrimaryKeyUnionType",
+      "classSimpleName": "ContinuePrimaryKeyPrimaryKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBCursor.Continue_KeyUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.Continue_KeyUnionType",
+      "classSimpleName": "Continue_KeyUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBCursor.KeyUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.KeyUnionType",
+      "classSimpleName": "KeyUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBCursor.PrimaryKeyUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.PrimaryKeyUnionType",
+      "classSimpleName": "PrimaryKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBDatabase.TransactionStoreNamesUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBDatabase.TransactionStoreNamesUnionType",
+      "classSimpleName": "TransactionStoreNamesUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBIndex.CountKeyUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.CountKeyUnionType",
+      "classSimpleName": "CountKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBIndex.GetAllKeysQueryUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.GetAllKeysQueryUnionType",
+      "classSimpleName": "GetAllKeysQueryUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBIndex.GetAllQueryUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.GetAllQueryUnionType",
+      "classSimpleName": "GetAllQueryUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBIndex.GetKeyKeyUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.GetKeyKeyUnionType",
+      "classSimpleName": "GetKeyKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBIndex.GetKeyUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.GetKeyUnionType",
+      "classSimpleName": "GetKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBIndex.OpenCursorRangeUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.OpenCursorRangeUnionType",
+      "classSimpleName": "OpenCursorRangeUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBIndex.OpenKeyCursorRangeUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.OpenKeyCursorRangeUnionType",
+      "classSimpleName": "OpenKeyCursorRangeUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBKeyRange.BoundLeftUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.BoundLeftUnionType",
+      "classSimpleName": "BoundLeftUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBKeyRange.BoundRightUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.BoundRightUnionType",
+      "classSimpleName": "BoundRightUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBKeyRange.IncludesKeyUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.IncludesKeyUnionType",
+      "classSimpleName": "IncludesKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBKeyRange.LowerBoundBoundUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.LowerBoundBoundUnionType",
+      "classSimpleName": "LowerBoundBoundUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBKeyRange.OnlyValueUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.OnlyValueUnionType",
+      "classSimpleName": "OnlyValueUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBKeyRange.UpperBoundBoundUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.UpperBoundBoundUnionType",
+      "classSimpleName": "UpperBoundBoundUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method boolean elemental2.indexeddb.IDBKeyRange::includes(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "includes",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBObjectStore.AddKeyUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.AddKeyUnionType",
+      "classSimpleName": "AddKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBObjectStore.CountKeyUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.CountKeyUnionType",
+      "classSimpleName": "CountKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBObjectStore.CreateIndexKeyPathUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.CreateIndexKeyPathUnionType",
+      "classSimpleName": "CreateIndexKeyPathUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBObjectStore.DeleteKeyUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.DeleteKeyUnionType",
+      "classSimpleName": "DeleteKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBObjectStore.GetAllKeysQueryUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.GetAllKeysQueryUnionType",
+      "classSimpleName": "GetAllKeysQueryUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBObjectStore.GetAllQueryUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.GetAllQueryUnionType",
+      "classSimpleName": "GetAllQueryUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBObjectStore.GetKeyQueryUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.GetKeyQueryUnionType",
+      "classSimpleName": "GetKeyQueryUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBObjectStore.GetKeyUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.GetKeyUnionType",
+      "classSimpleName": "GetKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBObjectStore.OpenKeyCursorQueryUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.OpenKeyCursorQueryUnionType",
+      "classSimpleName": "OpenKeyCursorQueryUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBObjectStore.PutKeyUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.PutKeyUnionType",
+      "classSimpleName": "PutKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method boolean elemental2.indexeddb.IDBObjectStoreParameters.GetKeyPathUnionType::isJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStoreParameters.GetKeyPathUnionType",
+      "classSimpleName": "GetKeyPathUnionType",
+      "elementKind": "method",
+      "methodName": "isJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyKeyUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyKeyUnionType",
+      "classSimpleName": "ContinuePrimaryKeyKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyPrimaryKeyUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyPrimaryKeyUnionType",
+      "classSimpleName": "ContinuePrimaryKeyPrimaryKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBCursor.Continue_KeyUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.Continue_KeyUnionType",
+      "classSimpleName": "Continue_KeyUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBCursor.KeyUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.KeyUnionType",
+      "classSimpleName": "KeyUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBCursor.PrimaryKeyUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.PrimaryKeyUnionType",
+      "classSimpleName": "PrimaryKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBIndex.CountKeyUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.CountKeyUnionType",
+      "classSimpleName": "CountKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBIndex.GetAllKeysQueryUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.GetAllKeysQueryUnionType",
+      "classSimpleName": "GetAllKeysQueryUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBIndex.GetAllQueryUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.GetAllQueryUnionType",
+      "classSimpleName": "GetAllQueryUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBIndex.GetKeyKeyUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.GetKeyKeyUnionType",
+      "classSimpleName": "GetKeyKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBIndex.GetKeyUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.GetKeyUnionType",
+      "classSimpleName": "GetKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBIndex.OpenCursorRangeUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.OpenCursorRangeUnionType",
+      "classSimpleName": "OpenCursorRangeUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBIndex.OpenKeyCursorRangeUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.OpenKeyCursorRangeUnionType",
+      "classSimpleName": "OpenKeyCursorRangeUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBKeyRange.BoundLeftUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.BoundLeftUnionType",
+      "classSimpleName": "BoundLeftUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBKeyRange.BoundRightUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.BoundRightUnionType",
+      "classSimpleName": "BoundRightUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBKeyRange.IncludesKeyUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.IncludesKeyUnionType",
+      "classSimpleName": "IncludesKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBKeyRange.LowerBoundBoundUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.LowerBoundBoundUnionType",
+      "classSimpleName": "LowerBoundBoundUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBKeyRange.OnlyValueUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.OnlyValueUnionType",
+      "classSimpleName": "OnlyValueUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBKeyRange.UpperBoundBoundUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.UpperBoundBoundUnionType",
+      "classSimpleName": "UpperBoundBoundUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBObjectStore.AddKeyUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.AddKeyUnionType",
+      "classSimpleName": "AddKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBObjectStore.CountKeyUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.CountKeyUnionType",
+      "classSimpleName": "CountKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBObjectStore.DeleteKeyUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.DeleteKeyUnionType",
+      "classSimpleName": "DeleteKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBObjectStore.GetAllKeysQueryUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.GetAllKeysQueryUnionType",
+      "classSimpleName": "GetAllKeysQueryUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBObjectStore.GetAllQueryUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.GetAllQueryUnionType",
+      "classSimpleName": "GetAllQueryUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBObjectStore.GetKeyQueryUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.GetKeyQueryUnionType",
+      "classSimpleName": "GetKeyQueryUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBObjectStore.GetKeyUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.GetKeyUnionType",
+      "classSimpleName": "GetKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBObjectStore.OpenKeyCursorQueryUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.OpenKeyCursorQueryUnionType",
+      "classSimpleName": "OpenKeyCursorQueryUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.Object> elemental2.indexeddb.IDBObjectStore.PutKeyUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.PutKeyUnionType",
+      "classSimpleName": "PutKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.String> elemental2.indexeddb.IDBDatabase.TransactionStoreNamesUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBDatabase.TransactionStoreNamesUnionType",
+      "classSimpleName": "TransactionStoreNamesUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.String> elemental2.indexeddb.IDBObjectStore.CreateIndexKeyPathUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.CreateIndexKeyPathUnionType",
+      "classSimpleName": "CreateIndexKeyPathUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method elemental2.core.JsArray<java.lang.String> elemental2.indexeddb.IDBObjectStoreParameters.GetKeyPathUnionType::asJsArray()",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStoreParameters.GetKeyPathUnionType",
+      "classSimpleName": "GetKeyPathUnionType",
+      "elementKind": "method",
+      "methodName": "asJsArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBIndex elemental2.indexeddb.IDBObjectStore::createIndex(java.lang.String, elemental2.core.JsArray<java.lang.String>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore",
+      "classSimpleName": "IDBObjectStore",
+      "elementKind": "method",
+      "methodName": "createIndex",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBIndex elemental2.indexeddb.IDBObjectStore::createIndex(java.lang.String, elemental2.core.JsArray<java.lang.String>, elemental2.indexeddb.IDBIndexParameters)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore",
+      "classSimpleName": "IDBObjectStore",
+      "elementKind": "method",
+      "methodName": "createIndex",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(double, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(double, elemental2.core.JsArray<java.lang.Object>, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(double, elemental2.core.JsArray<java.lang.Object>, boolean, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.ArrayBuffer, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.ArrayBuffer, elemental2.core.JsArray<java.lang.Object>, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.ArrayBuffer, elemental2.core.JsArray<java.lang.Object>, boolean, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.ArrayBufferView, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.ArrayBufferView, elemental2.core.JsArray<java.lang.Object>, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.ArrayBufferView, elemental2.core.JsArray<java.lang.Object>, boolean, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, double)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, double, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, double, boolean, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, elemental2.core.ArrayBuffer)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, elemental2.core.ArrayBuffer, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, elemental2.core.ArrayBuffer, boolean, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, elemental2.core.ArrayBufferView)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, elemental2.core.ArrayBufferView, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, elemental2.core.ArrayBufferView, boolean, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, elemental2.core.JsArray<java.lang.Object>, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, elemental2.core.JsArray<java.lang.Object>, boolean, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, elemental2.core.JsDate)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, elemental2.core.JsDate, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, elemental2.core.JsDate, boolean, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, elemental2.indexeddb.IDBKeyRange.BoundRightUnionType)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, elemental2.indexeddb.IDBKeyRange.BoundRightUnionType, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, elemental2.indexeddb.IDBKeyRange.BoundRightUnionType, boolean, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, java.lang.String)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, java.lang.String, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsArray<java.lang.Object>, java.lang.String, boolean, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsDate, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsDate, elemental2.core.JsArray<java.lang.Object>, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.core.JsDate, elemental2.core.JsArray<java.lang.Object>, boolean, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.indexeddb.IDBKeyRange.BoundLeftUnionType, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.indexeddb.IDBKeyRange.BoundLeftUnionType, elemental2.core.JsArray<java.lang.Object>, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(elemental2.indexeddb.IDBKeyRange.BoundLeftUnionType, elemental2.core.JsArray<java.lang.Object>, boolean, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(java.lang.String, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(java.lang.String, elemental2.core.JsArray<java.lang.Object>, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::bound(java.lang.String, elemental2.core.JsArray<java.lang.Object>, boolean, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "bound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::lowerBound(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "lowerBound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::lowerBound(elemental2.core.JsArray<java.lang.Object>, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "lowerBound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::only(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "only",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::upperBound(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "upperBound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBKeyRange elemental2.indexeddb.IDBKeyRange::upperBound(elemental2.core.JsArray<java.lang.Object>, boolean)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange",
+      "classSimpleName": "IDBKeyRange",
+      "elementKind": "method",
+      "methodName": "upperBound",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBIndex::count(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex",
+      "classSimpleName": "IDBIndex",
+      "elementKind": "method",
+      "methodName": "count",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBIndex::get(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex",
+      "classSimpleName": "IDBIndex",
+      "elementKind": "method",
+      "methodName": "get",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBIndex::getAll(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex",
+      "classSimpleName": "IDBIndex",
+      "elementKind": "method",
+      "methodName": "getAll",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBIndex::getAll(elemental2.core.JsArray<java.lang.Object>, int)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex",
+      "classSimpleName": "IDBIndex",
+      "elementKind": "method",
+      "methodName": "getAll",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBIndex::getAllKeys(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex",
+      "classSimpleName": "IDBIndex",
+      "elementKind": "method",
+      "methodName": "getAllKeys",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBIndex::getAllKeys(elemental2.core.JsArray<java.lang.Object>, int)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex",
+      "classSimpleName": "IDBIndex",
+      "elementKind": "method",
+      "methodName": "getAllKeys",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBIndex::getKey(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex",
+      "classSimpleName": "IDBIndex",
+      "elementKind": "method",
+      "methodName": "getKey",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBIndex::openCursor(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex",
+      "classSimpleName": "IDBIndex",
+      "elementKind": "method",
+      "methodName": "openCursor",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBIndex::openCursor(elemental2.core.JsArray<java.lang.Object>, java.lang.String)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex",
+      "classSimpleName": "IDBIndex",
+      "elementKind": "method",
+      "methodName": "openCursor",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBIndex::openKeyCursor(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex",
+      "classSimpleName": "IDBIndex",
+      "elementKind": "method",
+      "methodName": "openKeyCursor",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBIndex::openKeyCursor(elemental2.core.JsArray<java.lang.Object>, java.lang.String)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex",
+      "classSimpleName": "IDBIndex",
+      "elementKind": "method",
+      "methodName": "openKeyCursor",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBObjectStore::add(java.lang.Object, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore",
+      "classSimpleName": "IDBObjectStore",
+      "elementKind": "method",
+      "methodName": "add",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBObjectStore::count(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore",
+      "classSimpleName": "IDBObjectStore",
+      "elementKind": "method",
+      "methodName": "count",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBObjectStore::delete(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore",
+      "classSimpleName": "IDBObjectStore",
+      "elementKind": "method",
+      "methodName": "delete",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBObjectStore::get(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore",
+      "classSimpleName": "IDBObjectStore",
+      "elementKind": "method",
+      "methodName": "get",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBObjectStore::getAll(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore",
+      "classSimpleName": "IDBObjectStore",
+      "elementKind": "method",
+      "methodName": "getAll",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBObjectStore::getAll(elemental2.core.JsArray<java.lang.Object>, int)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore",
+      "classSimpleName": "IDBObjectStore",
+      "elementKind": "method",
+      "methodName": "getAll",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBObjectStore::getAllKeys(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore",
+      "classSimpleName": "IDBObjectStore",
+      "elementKind": "method",
+      "methodName": "getAllKeys",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBObjectStore::getAllKeys(elemental2.core.JsArray<java.lang.Object>, int)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore",
+      "classSimpleName": "IDBObjectStore",
+      "elementKind": "method",
+      "methodName": "getAllKeys",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBObjectStore::getKey(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore",
+      "classSimpleName": "IDBObjectStore",
+      "elementKind": "method",
+      "methodName": "getKey",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBObjectStore::openKeyCursor(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore",
+      "classSimpleName": "IDBObjectStore",
+      "elementKind": "method",
+      "methodName": "openKeyCursor",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBObjectStore::openKeyCursor(elemental2.core.JsArray<java.lang.Object>, java.lang.String)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore",
+      "classSimpleName": "IDBObjectStore",
+      "elementKind": "method",
+      "methodName": "openKeyCursor",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBRequest elemental2.indexeddb.IDBObjectStore::put(java.lang.Object, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore",
+      "classSimpleName": "IDBObjectStore",
+      "elementKind": "method",
+      "methodName": "put",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBTransaction elemental2.indexeddb.IDBDatabase::transaction(elemental2.core.JsArray<java.lang.String>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBDatabase",
+      "classSimpleName": "IDBDatabase",
+      "elementKind": "method",
+      "methodName": "transaction",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method elemental2.indexeddb.IDBTransaction elemental2.indexeddb.IDBDatabase::transaction(elemental2.core.JsArray<java.lang.String>, java.lang.String)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBDatabase",
+      "classSimpleName": "IDBDatabase",
+      "elementKind": "method",
+      "methodName": "transaction",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.indexeddb.IDBCursor::continuePrimaryKey(double, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor",
+      "classSimpleName": "IDBCursor",
+      "elementKind": "method",
+      "methodName": "continuePrimaryKey",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.indexeddb.IDBCursor::continuePrimaryKey(elemental2.core.ArrayBuffer, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor",
+      "classSimpleName": "IDBCursor",
+      "elementKind": "method",
+      "methodName": "continuePrimaryKey",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.indexeddb.IDBCursor::continuePrimaryKey(elemental2.core.ArrayBufferView, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor",
+      "classSimpleName": "IDBCursor",
+      "elementKind": "method",
+      "methodName": "continuePrimaryKey",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.indexeddb.IDBCursor::continuePrimaryKey(elemental2.core.JsArray<java.lang.Object>, double)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor",
+      "classSimpleName": "IDBCursor",
+      "elementKind": "method",
+      "methodName": "continuePrimaryKey",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.indexeddb.IDBCursor::continuePrimaryKey(elemental2.core.JsArray<java.lang.Object>, elemental2.core.ArrayBuffer)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor",
+      "classSimpleName": "IDBCursor",
+      "elementKind": "method",
+      "methodName": "continuePrimaryKey",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.indexeddb.IDBCursor::continuePrimaryKey(elemental2.core.JsArray<java.lang.Object>, elemental2.core.ArrayBufferView)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor",
+      "classSimpleName": "IDBCursor",
+      "elementKind": "method",
+      "methodName": "continuePrimaryKey",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.indexeddb.IDBCursor::continuePrimaryKey(elemental2.core.JsArray<java.lang.Object>, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor",
+      "classSimpleName": "IDBCursor",
+      "elementKind": "method",
+      "methodName": "continuePrimaryKey",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.indexeddb.IDBCursor::continuePrimaryKey(elemental2.core.JsArray<java.lang.Object>, elemental2.core.JsDate)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor",
+      "classSimpleName": "IDBCursor",
+      "elementKind": "method",
+      "methodName": "continuePrimaryKey",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.indexeddb.IDBCursor::continuePrimaryKey(elemental2.core.JsArray<java.lang.Object>, elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyPrimaryKeyUnionType)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor",
+      "classSimpleName": "IDBCursor",
+      "elementKind": "method",
+      "methodName": "continuePrimaryKey",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.indexeddb.IDBCursor::continuePrimaryKey(elemental2.core.JsArray<java.lang.Object>, java.lang.String)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor",
+      "classSimpleName": "IDBCursor",
+      "elementKind": "method",
+      "methodName": "continuePrimaryKey",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.indexeddb.IDBCursor::continuePrimaryKey(elemental2.core.JsDate, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor",
+      "classSimpleName": "IDBCursor",
+      "elementKind": "method",
+      "methodName": "continuePrimaryKey",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.indexeddb.IDBCursor::continuePrimaryKey(elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyKeyUnionType, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor",
+      "classSimpleName": "IDBCursor",
+      "elementKind": "method",
+      "methodName": "continuePrimaryKey",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.indexeddb.IDBCursor::continuePrimaryKey(java.lang.String, elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor",
+      "classSimpleName": "IDBCursor",
+      "elementKind": "method",
+      "methodName": "continuePrimaryKey",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.finalMethodAddedToNonFinalClass",
+    "description": "A final method has been added to an inheritable class.",
+    "newElement": "method void elemental2.indexeddb.IDBCursor::continue_(elemental2.core.JsArray<java.lang.Object>)",
+    "classification": {
+      "SOURCE": "POTENTIALLY_BREAKING",
+      "BINARY": "POTENTIALLY_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor",
+      "classSimpleName": "IDBCursor",
+      "elementKind": "method",
+      "methodName": "continue_",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.defaultMethodAddedToInterface",
+    "description": "A default method has been added to the interface.",
+    "newElement": "method void elemental2.indexeddb.IDBObjectStoreParameters::setKeyPath(elemental2.core.JsArray<java.lang.String>)",
+    "classification": {
+      "SOURCE": "NON_BREAKING",
+      "BINARY": "NON_BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStoreParameters",
+      "classSimpleName": "IDBObjectStoreParameters",
+      "elementKind": "method",
+      "methodName": "setKeyPath",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyKeyUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyKeyUnionType",
+      "classSimpleName": "ContinuePrimaryKeyKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyPrimaryKeyUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyPrimaryKeyUnionType",
+      "classSimpleName": "ContinuePrimaryKeyPrimaryKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBCursor.Continue_KeyUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.Continue_KeyUnionType",
+      "classSimpleName": "Continue_KeyUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBCursor.KeyUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.KeyUnionType",
+      "classSimpleName": "KeyUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBCursor.PrimaryKeyUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.PrimaryKeyUnionType",
+      "classSimpleName": "PrimaryKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBDatabase.TransactionStoreNamesUnionType::isStringArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBDatabase.TransactionStoreNamesUnionType",
+      "classSimpleName": "TransactionStoreNamesUnionType",
+      "elementKind": "method",
+      "methodName": "isStringArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBIndex.CountKeyUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.CountKeyUnionType",
+      "classSimpleName": "CountKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBIndex.GetAllKeysQueryUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.GetAllKeysQueryUnionType",
+      "classSimpleName": "GetAllKeysQueryUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBIndex.GetAllQueryUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.GetAllQueryUnionType",
+      "classSimpleName": "GetAllQueryUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBIndex.GetKeyKeyUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.GetKeyKeyUnionType",
+      "classSimpleName": "GetKeyKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBIndex.GetKeyUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.GetKeyUnionType",
+      "classSimpleName": "GetKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBIndex.OpenCursorRangeUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.OpenCursorRangeUnionType",
+      "classSimpleName": "OpenCursorRangeUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBIndex.OpenKeyCursorRangeUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.OpenKeyCursorRangeUnionType",
+      "classSimpleName": "OpenKeyCursorRangeUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBKeyRange.BoundLeftUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.BoundLeftUnionType",
+      "classSimpleName": "BoundLeftUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBKeyRange.BoundRightUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.BoundRightUnionType",
+      "classSimpleName": "BoundRightUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBKeyRange.IncludesKeyUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.IncludesKeyUnionType",
+      "classSimpleName": "IncludesKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBKeyRange.LowerBoundBoundUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.LowerBoundBoundUnionType",
+      "classSimpleName": "LowerBoundBoundUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBKeyRange.OnlyValueUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.OnlyValueUnionType",
+      "classSimpleName": "OnlyValueUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBKeyRange.UpperBoundBoundUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.UpperBoundBoundUnionType",
+      "classSimpleName": "UpperBoundBoundUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBObjectStore.AddKeyUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.AddKeyUnionType",
+      "classSimpleName": "AddKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBObjectStore.CountKeyUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.CountKeyUnionType",
+      "classSimpleName": "CountKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBObjectStore.CreateIndexKeyPathUnionType::isStringArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.CreateIndexKeyPathUnionType",
+      "classSimpleName": "CreateIndexKeyPathUnionType",
+      "elementKind": "method",
+      "methodName": "isStringArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBObjectStore.DeleteKeyUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.DeleteKeyUnionType",
+      "classSimpleName": "DeleteKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBObjectStore.GetAllKeysQueryUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.GetAllKeysQueryUnionType",
+      "classSimpleName": "GetAllKeysQueryUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBObjectStore.GetAllQueryUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.GetAllQueryUnionType",
+      "classSimpleName": "GetAllQueryUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBObjectStore.GetKeyQueryUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.GetKeyQueryUnionType",
+      "classSimpleName": "GetKeyQueryUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBObjectStore.GetKeyUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.GetKeyUnionType",
+      "classSimpleName": "GetKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBObjectStore.OpenKeyCursorQueryUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.OpenKeyCursorQueryUnionType",
+      "classSimpleName": "OpenKeyCursorQueryUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBObjectStore.PutKeyUnionType::isObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.PutKeyUnionType",
+      "classSimpleName": "PutKeyUnionType",
+      "elementKind": "method",
+      "methodName": "isObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method boolean elemental2.indexeddb.IDBObjectStoreParameters.GetKeyPathUnionType::isStringArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStoreParameters.GetKeyPathUnionType",
+      "classSimpleName": "GetKeyPathUnionType",
+      "elementKind": "method",
+      "methodName": "isStringArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyKeyUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyKeyUnionType",
+      "classSimpleName": "ContinuePrimaryKeyKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyPrimaryKeyUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.ContinuePrimaryKeyPrimaryKeyUnionType",
+      "classSimpleName": "ContinuePrimaryKeyPrimaryKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBCursor.Continue_KeyUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.Continue_KeyUnionType",
+      "classSimpleName": "Continue_KeyUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBCursor.KeyUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.KeyUnionType",
+      "classSimpleName": "KeyUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBCursor.PrimaryKeyUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBCursor.PrimaryKeyUnionType",
+      "classSimpleName": "PrimaryKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBIndex.CountKeyUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.CountKeyUnionType",
+      "classSimpleName": "CountKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBIndex.GetAllKeysQueryUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.GetAllKeysQueryUnionType",
+      "classSimpleName": "GetAllKeysQueryUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBIndex.GetAllQueryUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.GetAllQueryUnionType",
+      "classSimpleName": "GetAllQueryUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBIndex.GetKeyKeyUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.GetKeyKeyUnionType",
+      "classSimpleName": "GetKeyKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBIndex.GetKeyUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.GetKeyUnionType",
+      "classSimpleName": "GetKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBIndex.OpenCursorRangeUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.OpenCursorRangeUnionType",
+      "classSimpleName": "OpenCursorRangeUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBIndex.OpenKeyCursorRangeUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBIndex.OpenKeyCursorRangeUnionType",
+      "classSimpleName": "OpenKeyCursorRangeUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBKeyRange.BoundLeftUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.BoundLeftUnionType",
+      "classSimpleName": "BoundLeftUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBKeyRange.BoundRightUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.BoundRightUnionType",
+      "classSimpleName": "BoundRightUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBKeyRange.IncludesKeyUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.IncludesKeyUnionType",
+      "classSimpleName": "IncludesKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBKeyRange.LowerBoundBoundUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.LowerBoundBoundUnionType",
+      "classSimpleName": "LowerBoundBoundUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBKeyRange.OnlyValueUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.OnlyValueUnionType",
+      "classSimpleName": "OnlyValueUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBKeyRange.UpperBoundBoundUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBKeyRange.UpperBoundBoundUnionType",
+      "classSimpleName": "UpperBoundBoundUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBObjectStore.AddKeyUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.AddKeyUnionType",
+      "classSimpleName": "AddKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBObjectStore.CountKeyUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.CountKeyUnionType",
+      "classSimpleName": "CountKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBObjectStore.DeleteKeyUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.DeleteKeyUnionType",
+      "classSimpleName": "DeleteKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBObjectStore.GetAllKeysQueryUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.GetAllKeysQueryUnionType",
+      "classSimpleName": "GetAllKeysQueryUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBObjectStore.GetAllQueryUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.GetAllQueryUnionType",
+      "classSimpleName": "GetAllQueryUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBObjectStore.GetKeyQueryUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.GetKeyQueryUnionType",
+      "classSimpleName": "GetKeyQueryUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBObjectStore.GetKeyUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.GetKeyUnionType",
+      "classSimpleName": "GetKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBObjectStore.OpenKeyCursorQueryUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.OpenKeyCursorQueryUnionType",
+      "classSimpleName": "OpenKeyCursorQueryUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.Object[] elemental2.indexeddb.IDBObjectStore.PutKeyUnionType::asObjectArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.PutKeyUnionType",
+      "classSimpleName": "PutKeyUnionType",
+      "elementKind": "method",
+      "methodName": "asObjectArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.String[] elemental2.indexeddb.IDBDatabase.TransactionStoreNamesUnionType::asStringArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBDatabase.TransactionStoreNamesUnionType",
+      "classSimpleName": "TransactionStoreNamesUnionType",
+      "elementKind": "method",
+      "methodName": "asStringArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.String[] elemental2.indexeddb.IDBObjectStore.CreateIndexKeyPathUnionType::asStringArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStore.CreateIndexKeyPathUnionType",
+      "classSimpleName": "CreateIndexKeyPathUnionType",
+      "elementKind": "method",
+      "methodName": "asStringArray",
+      "package": "elemental2.indexeddb"
+    }
+  },
+  {
+    "code": "java.method.removed",
+    "description": "Method was removed.",
+    "oldElement": "method java.lang.String[] elemental2.indexeddb.IDBObjectStoreParameters.GetKeyPathUnionType::asStringArray()",
+    "classification": {
+      "SOURCE": "BREAKING",
+      "BINARY": "BREAKING"
+    },
+    "attachments": {
+      "classQualifiedName": "elemental2.indexeddb.IDBObjectStoreParameters.GetKeyPathUnionType",
+      "classSimpleName": "GetKeyPathUnionType",
+      "elementKind": "method",
+      "methodName": "asStringArray",
+      "package": "elemental2.indexeddb"
+    }
+  }
+]
